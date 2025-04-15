@@ -17,7 +17,7 @@ While you have not gone through [Git](https://github.com/HackYourFuture-CPH/Git)
 - ❌ htmlcss/maria
 - ✅ html-css/maria
 
-`3.` go to the branch. It appears in the branch overview right after creation:
+`3.` Go to the branch. It appears in the branch overview right after creation:
 
 ![screenshot](images/image-1.png)
 
@@ -29,20 +29,20 @@ To verify that you have switched to the branch, it should appear selected:
 
 ![screenshot](images/image-3.png)
 
-`4.` go to the html-css folder and upload your homework:
+`4.` Go to the html-css folder and upload your homework:
 
 ![screenshot](images/image-4.png)
 
-`5.` write a commit message and press "Commit changes":
+`5.` Write a commit message and press "Commit changes":
 
 ![screenshot](images/image-5.png)
 
-`6.` go to "Pull requests" in the repository bar, and create a new pull request to the main branch <- from your branch:
+`6.` Go to "Pull requests" in the repository bar, and create a new pull request to the main branch <- from your branch:
 
 ![screenshot](images/image-6.png)
 
-`7.` that is it! You should see your pull request listed in the "Pull requests" tab.
+`7.` That is it! You should see your pull request listed in the "Pull requests" tab.
 
-`8.` post a link to your homework Pull Request in your class channel.
+`8.` Post a link to your homework Pull Request in your class channel.
 
-`*` it is either your own homework repository in your own GitHub account or the central class homework repository in the HackYourFuture-CPH GitHub account - depending on what approach is being followed for your class. Follow the information and instructions regarding this, and ask if you are still unsure.
+`*` It is either your own homework repository in your own GitHub account or the central class homework repository in the HackYourFuture-CPH GitHub account - depending on what approach is being followed for your class. Follow the information and instructions regarding this, and ask if you are still unsure.

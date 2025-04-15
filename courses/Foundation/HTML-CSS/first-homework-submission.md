@@ -10,12 +10,12 @@ While you have not gone through [Git](https://github.com/HackYourFuture-CPH/Git)
 
 `html-css/yourname`
 
-> ❌ html/css/maria
-> ❌ hmtl-css/maria
-> ❌ html-css-homework
-> ❌ html/maria
-> ❌ htmlcss/maria
-> ✅ html-css/maria
+- ❌ html/css/maria
+- ❌ hmtl-css/maria
+- ❌ html-css-homework
+- ❌ html/maria
+- ❌ htmlcss/maria
+- ✅ html-css/maria
 
 `3.` go to the branch. It appears in the branch overview right after creation:
 

@@ -1,0 +1,4 @@
+{
+  "extends": "markdownlint/style/prettier",
+  "ignore": "node_modules/"
+}

@@ -6,15 +6,11 @@ You are going to be fully self-learning `HTML` and `CSS`, so it is very importan
 
 You will also get a little introduction to `Javascript`, so that you can be more comfortable jumping into it when the course starts.
 
-<br>
-
 ## HTML and CSS
 
 ### freeCodeCamp certifications
 
 The `freeCodeCamp` courses are a good way to learn and their certifications are widely recognized, therefore we use this platform to give you a good start with learning `Web Development` and having a way to showcase your learning.
-
-<br>
 
 ### What you have completed already
 
@@ -37,16 +33,12 @@ You should finish the first part and the certification project that goes with it
 
 This will familiarise you with `CSS` colors and building `Forms` with `HTML` and `CSS`, which are both essential parts of basic Web Development knowledge.
 
-<br>
-
 You should also complete 2 more sections from the second part:
 
 - [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting)
 - [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery)
 
 Learning the CSS Box Model and Flexbox will give you very good foundational knowledge to deal with any styling or layout challenge.
-
-<br>
 
 ## JavaScript
 
@@ -77,11 +69,7 @@ Complete these steps in the freeCodeCamp [JavaScript Algorithms and Data Structu
 - [Compound Assignment With Augmented Multiplication](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)
 - [Compound Assignment With Augmented Division](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division)
 
-<br>
-
 If you like the `freeCodeCamp` format, you should definitely continue beyond what we ask of you and attain the various relevant certifications - especially by finishing off the **Responsive Web Design** and **Javascript Algorithms and Data Structures** certifications!
-
-<br>
 
 ## Submitting your preparation
 

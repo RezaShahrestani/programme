@@ -1,19 +1,18 @@
 # Contributing
 
-Everyone is welcome to fork the repo and suggest changes. 
+Everyone is welcome to fork/clone the repo and contribute to improving the programme. 
 
-If you would like to take a more active role in contributing to this repo as a volunteer at HYF Denmark, join #curriculum-crew to get involved.
+If you would like to take a more active role in contributing as a volunteer of HYF Denmark, join #curriculum-crew on Slack to get involved.
 Write in there to introduce yourself, and a staff member will onboard you and set you up with permissions.
 
 ## How to contribute
 (We will flesh these processes more as we go...)
 
 ### Existing issues
-Very briefly: check the issues, ideally one near the top, assign it, clone the repo, do it, make a PR, profit.
-Contribute new ideas and suggestions by opening an issue.
+Very briefly: check the project board "Todo" column, choose one ideally near the top, assign it, clone the repo, do it, make a PR, get feedback, profit.
 
 ### New ideas
-Very briefly: Add an issue to this repo, get some feedback, and we'll prioritise them together at the next meeting.
+Very briefly: Create an issue on this repo, get some feedback, and we'll prioritise them together at the next meeting.
 
 Note: You are always welcome to open issues/create PRs for new ideas, whenever you like. It's an open source project. If we are currently working together towards a project goal, then it would be most helpful to prioritise tasks for that first, though.
 

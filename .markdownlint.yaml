@@ -1,8 +1,10 @@
 ---
 $schema: https://raw.githubusercontent.com/DavidAnson/markdownlint/v0.37.4/schema/markdownlint-config-schema.json
 extends: markdownlint/style/prettier
-MD046:
-  style: fenced
+MD026:
+  punctuation: .,;:。，；：！
 MD033:
   allowed_elements:
     - nobr
+MD046:
+  style: fenced

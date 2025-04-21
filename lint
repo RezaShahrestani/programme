@@ -1,0 +1,17 @@
+#!/bin/bash
+
+set -eu
+
+if [ "${1:-}" == "--fix" ] ; then
+  npm exec -- markdownlint --ignore 'node_modules/' --fix '**/*.md'
+  npm exec -- prettier --write .
+else
+  trap '
+    if [ $? -ne 0 ] ; then
+      echo "Try '\''./lint --fix'\'' to see if any automatic fixes are possible"
+    fi
+  ' 0
+
+  npm exec -- markdownlint --ignore 'node_modules/' '**/*.md'
+  npm exec -- prettier --check .
+fi

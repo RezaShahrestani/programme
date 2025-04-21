@@ -1,22 +1,20 @@
-# Pre-course materials
+# Pre-course
 
-This section lists the steps you have to complete **BEFORE** the bootcamp starts. <br>
+## Pre-course materials
 
-You are going to be fully self-learning `HTML` and `CSS`, so it is very important and **mandatory** that you complete the steps before the first sunday session at HackYourFuture. <br>
+This section lists the steps you have to complete **BEFORE** the bootcamp starts.
+
+You are going to be fully self-learning `HTML` and `CSS`, so it is very important and **mandatory** that you complete the steps before the first sunday session at HackYourFuture.
 
 You will also get a little introduction to `Javascript`, so that you can be more comfortable jumping into it when the course starts.
 
-<br>
+## HTML and CSS
 
-# HTML and CSS
-
-## freeCodeCamp certifications
+### freeCodeCamp certifications
 
 The `freeCodeCamp` courses are a good way to learn and their certifications are widely recognized, therefore we use this platform to give you a good start with learning `Web Development` and having a way to showcase your learning.
 
-<br>
-
-## What you have done so far
+### What you have done so far
 
 There are 5 parts in the [Responsive Web Design certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Each part contains a few sections and a certification project at the end of each part.
 You have already finished at least 2 sections from the first part as part of the application assignment:
@@ -25,7 +23,7 @@ You have already finished at least 2 sections from the first part as part of the
 
 - [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/)
 
-## What you have to do before the first Sunday session
+### What you have to do before the first Sunday session
 
 You should finish the first part and the certification project that goes with it:
 
@@ -37,8 +35,6 @@ You should finish the first part and the certification project that goes with it
 
 This will familiarise you with `CSS` colors and building `Forms` with `HTML` and `CSS`, which are both essential parts of basic Web Development knowledge.
 
-<br>
-
 You should also complete 2 more sections from the second part:
 
 - [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting)
@@ -46,9 +42,7 @@ You should also complete 2 more sections from the second part:
 
 Learning the CSS Box Model and Flexbox will give you very good foundational knowledge to deal with any styling or layout challenge.
 
-<br>
-
-# JavaScript
+## JavaScript
 
 Complete these steps in the freeCodeCamp [JavaScript Algorithms and Data Structures certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/):
 
@@ -77,17 +71,13 @@ Complete these steps in the freeCodeCamp [JavaScript Algorithms and Data Structu
 - [Compound Assignment With Augmented Multiplication](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)
 - [Compound Assignment With Augmented Division](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division)
 
-<br>
-
 If you like the `freeCodeCamp` format, you should definitely continue beyond what we ask of you and attain the various relevant certifications - especially by finishing off the **Responsive Web Design** and **Javascript Algorithms and Data Structures** certifications!
 
-<br>
-
-## Submitting your preparation
+### Submitting your preparation
 
 Before the first Sunday session, you must have completed all the steps listed above. You then need to make your freeCodeCamp profile public - [Video here to show you how to do this](https://www.loom.com/share/019547eab49e4e198fd2d24f6cb27d3c) - and post a link to your profile in your class Slack channel. If you do not do this before the first Sunday session, you will not be able to continue with the course.
 
-## What if?
+### What if?
 
 - If you have completed all these parts already, just continue further with the certifications. You are here to learn after all and you are entering a journey of self-teaching!
 

@@ -27,21 +27,25 @@ We have two tables with the following values.
 
 `TableA`:
 
+```text
     id	firstName			       lastName
     .......................................
     1	arun                     	prasanth
     2	ann                      	antony
     3	sruthy                   	abc
     6	new                      	abc
+```
 
 `TableB`:
 
+```text
     id2	age	Place
     ................
     1	24	kerala
     2	24	usa
     3	25	ekm
     5	24	chennai
+```
 
 ## Details
 
@@ -51,25 +55,31 @@ We have two tables with the following values.
 
 Syntax
 
+```sql
     SELECT table1.column1, table2.column2...
       FROM table1
      INNER JOIN table2
         ON table1.common_field = table2.common_field;
+```
 
 Apply it in our sample table :
 
+```sql
     SELECT TableA.firstName,TableA.lastName,TableB.age,TableB.Place
       FROM TableA
      INNER JOIN TableB
         ON TableA.id = TableB.id2;
+```
 
 Result Will Be
 
+```text
     firstName	    lastName	   age	Place
     ..............................................
     arun            prasanth        24	kerala
     ann             antony          24	usa
     sruthy          abc             25	ekm
+```
 
 ### LEFT JOIN
 
@@ -77,26 +87,32 @@ Result Will Be
 
 Syntax
 
+```sql
     SELECT table1.column1, table2.column2...
       FROM table1
       LEFT JOIN table2
         ON table1.common_field = table2.common_field;
+```
 
 Apply it in our sample table :
 
+```sql
     SELECT TableA.firstName,TableA.lastName,TableB.age,TableB.Place
       FROM TableA
       LEFT JOIN TableB
         ON TableA.id = TableB.id2;
+```
 
 Result
 
+```text
     firstName			        lastName			        age	  Place
     ...............................................................................
     arun                     	prasanth                 	24	  kerala
     ann                      	antony                   	24	  usa
     sruthy                   	abc                      	25	  ekm
     new                      	abc                      	NULL  NULL
+```
 
 ### RIGHT JOIN
 
@@ -104,26 +120,32 @@ Result
 
 Syntax
 
+```sql
     SELECT table1.column1, table2.column2...
       FROM table1
      RIGHT JOIN table2
         ON table1.common_field = table2.common_field;
+```
 
 Apply it in our sample table :
 
+```sql
     SELECT TableA.firstName,TableA.lastName,TableB.age,TableB.Place
       FROM TableA
      RIGHT JOIN TableB
         ON TableA.id = TableB.id2;
+```
 
 Result
 
-    firstName			        lastName			        age	    Place
+```text
+    firstName       lastName     age    Place
     ...............................................................................
-    arun                     	prasanth                 	24	   kerala
-    ann                      	antony                   	24	   usa
-    sruthy                   	abc                      	25	   ekm
-    NULL				        NULL				        24	   chennai
+    arun            prasanth     24     kerala
+    ann             antony       24     usa
+    sruthy          abc          25     ekm
+    NULL            NULL         24     chennai
+```
 
 ### FULL JOIN
 
@@ -131,20 +153,25 @@ Result
 
 Syntax
 
+```sql
     SELECT table1.column1, table2.column2...
       FROM table1
       FULL JOIN table2
         ON table1.common_field = table2.common_field;
+```
 
 Apply it in our sample table :
 
+```sql
     SELECT TableA.firstName,TableA.lastName,TableB.age,TableB.Place
       FROM TableA
       FULL JOIN TableB
         ON TableA.id = TableB.id2;
+```
 
 Result
 
+```text
     firstName			        lastName			        age	   Place
     ...............................................................................
     arun                     	prasanth                 	24	  kerala
@@ -152,6 +179,7 @@ Result
     sruthy                   	abc                      	25	  ekm
     new                      	abc                      	NULL  NULL
     NULL				        NULL				        24	  chennai
+```
 
 ## Interesting Fact
 

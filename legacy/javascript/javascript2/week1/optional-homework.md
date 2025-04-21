@@ -71,7 +71,7 @@ An example is: A user select that she only wants to generate a spirit animal whe
 
 ![Spiritanimal](https://media.giphy.com/media/IMSq59ySKydYQ/giphy.gif)
 
-## 3. hyfBay - get the okay'est products here <a id='hyfbay'></a>
+## 3. hyfBay - get the okay'est products here
 
 We have been **hired for a company** to do a SPA - Single Page App for them. It is a website where a user can search for products. The products can also be **filtered and sorted** based on what products the user wants to see.
 
@@ -112,5 +112,3 @@ Here is a possible way to render the products
    1. [create an `li`](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
    2. Set the innerHTML of that `li` to the contain the title, price and rating
    3. [Append the `li`](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild) to the `ul`
-
-<br/>

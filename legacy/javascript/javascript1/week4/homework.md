@@ -52,9 +52,7 @@ console.log(getReply("Add fishing to my todo")); // "fishing added to your todo"
 
 When you are done, add your `getReply` function and global variables to this CodeSandbox and try the voice command out with both commands and speech!
 
----> <https://codesandbox.io/s/beautiful-worker-gnhbw> <---
-
-## Homework checklist
+---> <https://codesandbox.io/s/beautiful-worker-gnhbw> <## Homework checklist
 
 Go over your homework one last time:
 

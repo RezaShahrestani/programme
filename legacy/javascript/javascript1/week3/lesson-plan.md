@@ -19,7 +19,7 @@ If you find anything that could be improved then please create a pull request! W
   - Array of objects
   - Let the students explain iterating an array of objects
   - Use real world examples (users, products, houselistings)
-  - [Code inspiration](#objects)
+  - [Code inspiration](#inspiration-objects)
 - Arrays continued
   - `Pop`, `push`, `shift`, `unshift`
     - Let students investigate `shift` and `unshift`
@@ -27,13 +27,13 @@ If you find anything that could be improved then please create a pull request! W
   - `includes` - Let the students investigate this
   - Looping through an array
   - No `forEach`, `map`, `filter` or `reduce`
-  - [Code inspiration](#arrays)
+  - [Code inspiration](#inspiration-arrays)
 - [Codewar exercises](#codewar-exercises)
 - Call stack
   - Used for figuring code flow in js! Where does my function go when it is done here.
   - <http://latentflip.com/loupe>
-  - [Code inspiration](#call-stack)
-  - [Exercise](#call-stack-1)
+  - [Code inspiration](#inspiration-call-stack)
+  - [Exercise](#exercise-call-stack)
 
 Zoey Zou has created a nice lesson plan here: <https://www.notion.so/JS1-Week3-a0f122866ac34fc3b98b7a41870046f4>
 
@@ -43,7 +43,7 @@ Zoey Zou has created a nice lesson plan here: <https://www.notion.so/JS1-Week3-a
 
 ## Code inspiration
 
-### Objects
+### Inspiration: Objects
 
 ```js
 const user = {
@@ -112,7 +112,7 @@ user[0] = "Hello world";
 console.log(user);
 ```
 
-### Arrays
+### Inspiration: Arrays
 
 ```js
 // one way to have multiple data about a student is with an array
@@ -152,7 +152,7 @@ const Math = {
 };
 ```
 
-### Call stack
+### Inspiration: Call stack
 
 ```js
 function a() {
@@ -173,7 +173,7 @@ a();
 
 ## Exercises
 
-## Call stack
+## Exercise: Call stack
 
 Draw the call stack array at every draw point
 

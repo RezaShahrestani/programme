@@ -1,6 +1,6 @@
 # Homework
 
-### Get git ready to work on homework
+## Get git ready to work on homework
 
 Using the `hyf-homework` repo. In the terminal run `git status`
 
@@ -12,7 +12,7 @@ If there are changes that have not been committed, figure out what to do with th
 
 When you have figured out what to do with the changes and fixed those. Write `git status` again. If it says `nothing to commit, working tree clean`. Then you are ready to create the branch for this weeks homework.
 
-#### Creating the branch
+### Creating the branch
 
 Using the `hyf-homework` repo write this command
 
@@ -50,8 +50,6 @@ Do these freecodecamp challenges. We know this seems like a lot, but the tasks a
 - [ ] [Iterate through an array with a for loop](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/iterate-through-an-array-with-a-for-loop/)
 
 Please add your freecodecamp username as answer for this exercise!
-
----
 
 ## Step 3: Smart-ease - Goes Global!
 

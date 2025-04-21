@@ -22,7 +22,7 @@ Javascript is getting difficult now and we are aware of that! Take some time to 
    - Doubling the number
    - ⭐ Working with movies
 
-2. 🌟 **[hyfBay](#hyfbay):** It's a single-page app where users can search for products.
+2. 🌟 **[hyfBay](#2-hyfbay---get-the-okayest-products-here---continued):** It's a single-page app where users can search for products.
 
 ## 1. Warmup array exercises
 
@@ -76,7 +76,7 @@ Copy the movies array in the [movies](homework/movies.js) file. Use this array t
 8. Calculate the **average rating** of all the movies using [reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce). _Optional_
 9. **Count the total number** of Good, Average and Bad movies using [reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce). A return could fx be `{goodMovies: 33, averageMovies: 45, goodMovies: 123}` _Optional_
 
-## 2. hyfBay - get the okay'est products here - continued <a id='hyfbay'></a>
+## 2. hyfBay - get the okay'est products here - continued
 
 **Continue work on your homework regarding the Hyfbay** from previous week. Please copy the files from last week into this weeks `hyf-homework` folder and continue working there. If you have not made last weeks homework the solution for it is included in [this weeks homework folder](homework/hyf-bay) in the `main.js` file.
 

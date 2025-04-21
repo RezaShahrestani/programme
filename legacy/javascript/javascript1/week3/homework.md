@@ -43,8 +43,6 @@ const nameToRemove = "Ahmad";
 console.log(names); // ['Peter', 'Yana', 'kristina', 'Rasmus', 'Samuel', 'katrine', 'Tala']
 ```
 
----
-
 ### When will we be there??
 
 Write a function where you speficy your speed in `km/h` and how far you have to go in `km`. The function has to return the time it will take to arrive at your destination. The time should be formatted like this: `3 hours and 34 minutes`.
@@ -60,8 +58,6 @@ const travelInformation = {
 const travelTime = notThisFunctionName(travelInformation);
 console.log(travelTime); // 8 hours and 38 minutes
 ```
-
----
 
 ### Series duration of my life
 

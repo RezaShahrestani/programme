@@ -3,7 +3,7 @@
 ## Learning goals
 
 - [ ] Conditions: if, elseif, else. Negated.
-- [ ] [Functions](#Functions): [Calling](#calling-a-function-on-something), defining, [parameters, arguments](#parameters--arguments)
+- [ ] [Functions](#functions): [Calling](#calling-a-function-on-something), defining, [parameters, arguments](#parameters-and-arguments)
 - [ ] Global vs local scope
 - [ ] For loop
 
@@ -105,6 +105,8 @@ function checkItem() {
 checkItem();
 console.log(todoItem);
 ```
+
+#### Parameters and arguments
 
 ```js
 // a and b are called parameters. This function has two parameters

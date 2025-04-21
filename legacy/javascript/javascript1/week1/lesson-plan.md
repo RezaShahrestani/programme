@@ -37,8 +37,8 @@ If you find anything that could be improved then please create a pull request! W
     - Items
     - No map, filter, push etc!
   - `Boolean` - Students investigate `boolean` and explain for fellow students
-  - [Code inspiration](#variable-types)
-  - [Exercises](#variable-types-1)
+  - [Code inspiration](#inspiration-variable-types)
+  - [Exercises](#exercise-variable-types)
 - Comparison operators
   - Equality operators
     - Equality `==`
@@ -51,7 +51,7 @@ If you find anything that could be improved then please create a pull request! W
     - Greater than or equal operator `>=`
     - Less than operator `<`
     - Less than or equal operator `<=`
-  - [Code inspiration](#Equality)
+  - [Code inspiration](#equality)
 - Arithmetic operators
   - Addition `+` - also for strings
   - Subtraction `-`
@@ -73,7 +73,7 @@ Here is a Notion Zoey Zou made: <https://www.notion.so/JS1-Week1-2fdc88fdd4344c9
 
 ## Code inspiration
 
-### Variable types
+### Inspiration: Variable types
 
 ```js
 console.log("Hello world");
@@ -185,7 +185,7 @@ console.log("hello " + "23");
 
 ## Exercises
 
-## Variable types
+## Exercise: Variable types
 
 With pen and paper write down what is logged out:
 

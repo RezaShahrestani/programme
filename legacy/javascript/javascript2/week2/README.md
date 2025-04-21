@@ -6,7 +6,7 @@
   - [ ] ForEach
   - [ ] [Map](#map)
   - [ ] [Filter](#filter)
-- [ ] [Arrow function](#Arrow-functions)
+- [ ] [Arrow function](#arrow-functions)
 <!---
 - [ ] Code flow, using the [call stack](../../javaScript1/week3/readme.md#call-stack)
       -->

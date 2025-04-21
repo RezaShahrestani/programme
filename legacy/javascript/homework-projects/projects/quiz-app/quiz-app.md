@@ -1,4 +1,3 @@
-
 # QUIZ APP
 
 ![Dexter from "Dexter's Laboratory" filling in some answers on a piece of paper](https://media.giphy.com/media/y1JYvLe9fFfpK/giphy.gif)
@@ -39,7 +38,6 @@ const quizQuestion = {
 };
 ```
 
-
 ### `JS2 week2` - Array functions, Arrow function
 
 Start with creating an array of quiz question objects. Even a small one is perfectly enough, but go as big as you want!
@@ -50,8 +48,6 @@ Continue with the format of the question object you used last week or improve it
 - [ ] show a list of all quiz questions added to the array below the form. It should show the questions, the 4 options but not which one is correct. Add a button with the functionality to reveal which is the correct answer for each question.
 
 - [ ] build a function to filter the questions by searching the content of the question.
-
-
 
 ### `JS2 week3` - Callback function, Asynchronicity, Scope
 
@@ -65,7 +61,6 @@ b. add number inputs for the player points and use the browser's arrow buttons o
 
 - [ ] optional bonus: play a sound and end the quiz game when one of the players has reached 10 points.
 
-
 ### `JS3 week1` - Json, Apis, Fetch
 
 - [ ] follow the [API creation guide](/homework-projects/guides/making-your-API-guide.md) to make your own API that you will use from now on.
@@ -75,8 +70,6 @@ b. add number inputs for the player points and use the browser's arrow buttons o
 - [ ] ensure all the functionality is working smoothly after refactoring.
 
 - [ ] add alphabetical sorting of the questions and random sorting of the questions and let the user choose.
-
-
 
 ### `JS3 week2` - Promises, Async/Await
 

@@ -2,7 +2,8 @@
 
 ![Agent J from "Men In Black": "Hey, don't even worry about it", while flashing the neuralyzer](https://media.giphy.com/media/374pcIBVEGb6g/giphy.gif)
 
-You joined an online game platform startup and your task is to build one of the small classic games. <br/>
+You joined an online game platform startup and your task is to build one of the small classic games.
+
 You will build a Memory Game, where a user needs to flip all the cards in a game in pairs until they find all the matching pairs. You aspire to make the game smooth and pleasant, so the user is compelled to spend more time playing it.
 
 > [!NOTE]

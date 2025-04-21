@@ -6,7 +6,7 @@
 - [ ] Setup js either via browser or via node
 - [ ] Console.log
 - [ ] [Variables: var, let, const](#variables)
-- [ ] [Types](#variable-types): [String](#String), [number](#Number), boolean, [null, undefined](#Null--undefined), [array](#Array)
+- [ ] [Types](#types): [String](#string), [number](#number), boolean, [null, undefined](#null--undefined), [array](#array)
 - [ ] [Operators](#comparison-operators): Comparision, addition, subtraction, multiplication, division, modulus, increment, decrement
 - [ ] Errors: How to read and fix errors
 

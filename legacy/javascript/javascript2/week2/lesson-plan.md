@@ -331,15 +331,15 @@ function generateListings(numberOfListings) {
 generateListings(20);
 ```
 
-### ForEach
+### `forEach`
 
 - Create 37 listings and log out every listings size
 
-### Map
+### `map`
 
 - Create an array that contains all the 37 listing prices.
 
-### Filter
+### `filter`
 
 Using the 37 listings from the previous tasks
 
@@ -353,7 +353,7 @@ Rewrite the code above (`forEach`, `map` and `filter`) to arrow functions.
 
 ### Listing project
 
-Imagine we have a website like https://danskebank.dk/bolig/sogning?sorter=hoejt-forbrug where a user can search for different parameters. Fx What type the listing should be, the price, size, location etc etc.
+Imagine we have a website like <https://danskebank.dk/bolig/sogning?sorter=hoejt-forbrug> where a user can search for different parameters. Fx What type the listing should be, the price, size, location etc etc.
 
 #### Filter listings
 
@@ -384,4 +384,4 @@ Your job is to create the `filterListings` function. The function should support
 
 #### Render listings
 
-Now create a function called `renderListings`. It should have one parameter: `listings`. When called the function should render the listings in an html list. How it should be rendered is up to you, but you could take inspiration from https://danskebank.dk/bolig/sogning?sorter=hoejt-forbrug
+Now create a function called `renderListings`. It should have one parameter: `listings`. When called the function should render the listings in an html list. How it should be rendered is up to you, but you could take inspiration from <https://danskebank.dk/bolig/sogning?sorter=hoejt-forbrug>

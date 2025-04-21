@@ -4,11 +4,11 @@
 
 ## Step 1: Before you start with the homework
 
-1. Watch: <a href="https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro" target="_blank">What is programming</a> Just watch the 2 min video, you do not have to do the entire JavaScript course (It could be useful later on though).
+1. Watch: [What is programming?](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro). Just watch the 2 min video, you do not have to do the entire JavaScript course (It could be useful later on though).
 
 ### Get git ready to work on homework
 
-Using the ` your hyf-homework` repo. In the terminal run `git status`
+Using the `your hyf-homework` repo. In the terminal run `git status`
 
 If there are changes that have not been committed, figure out what to do with those changes
 
@@ -43,7 +43,7 @@ If you struggle to do this weeks homework there are a couple of things to do:
 
 ## Step 2: Javascript warm up part one
 
-Lets get started with some warm up exercises: On freeCodeCamp.com do the <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript" target="_blank">Basic JavaScript</a> exercises up and until the **"Manipulate Arrays With push()"** exercise (there are some topics we did not cover but you can do it).
+Lets get started with some warm up exercises: On freeCodeCamp.com do the [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) exercises up and until the **"Manipulate Arrays With push()"** exercise (there are some topics we did not cover but you can do it).
 
 Please add your freecodecamp username as answer for this exercise!
 
@@ -86,7 +86,7 @@ or
 
 > Two of your friends are considering buying a house, but cannot figure out what the right price should be. Your friends know the width, the height and the depth of the house and the garden size. Lets help them figure out if they paid too much:
 
-We have made our own formula for calculating the price of a house. This formula is VERY simplified and not at all close to the real calculation which can get <a href="https://www.kaggle.com/erick5/predicting-house-prices-with-machine-learning" target="_blank">quite complicated</a>:
+We have made our own formula for calculating the price of a house. This formula is VERY simplified and not at all close to the real calculation which can get [quite complicated](https://www.kaggle.com/erick5/predicting-house-prices-with-machine-learning):
 
 ```js
 housePrice = volumeInMeters * 2.5 * 1000 + gardenSizeInM2 * 300;
@@ -150,7 +150,7 @@ git push origin javascript-javascript1-week1
 
 ---
 
-Go into the ` your hyf-homework` repo on https://github.com/ click on the `Pull requests` tab and then click the `New pull request` button
+Go into the `your hyf-homework` repo on <https://github.com/> click on the `Pull requests` tab and then click the `New pull request` button
 
 ![Create new pull request](assets/create-new-pull-request.png)
 

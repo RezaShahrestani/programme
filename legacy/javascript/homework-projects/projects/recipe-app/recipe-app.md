@@ -1,4 +1,3 @@
-
 # RECIPE APP
 
 ![Spongebob Squarepants, doing some cooking](https://media.giphy.com/media/N23cG6apipMmQ/giphy.gif)
@@ -40,8 +39,6 @@ const recipeObject = {
 - [ ] Implement a form to add a new recipe with a minimum of 5 ingredients.
 - [ ] Optional: implement functionality to add a new ingredient to a recipe.
 
-
-
 ### `JS2 week2` - Array functions, Arrow function
 
 Start with creating an array of recipe objects. Even a small one is perfectly enough, but go as big as you want!
@@ -52,13 +49,10 @@ Continue with the format of the recipe object you used last week or improve it a
 - find a recipe by a provided search word to check in the recipe title.
 - sort the recipe array by the amount of ingredients needed.
 
-
-
 ### `JS2 week3` - Callback function, Asynchronicity, Scope
 
 - [ ] Implement a cooking timer where the time is user-picked via an input or hard-coded. The timer should alert and/or ring once the time is up.
 - [ ] Implement a timer for how much time you have spent on the page.
-
 
 ### `JS3 week1` - Json, Apis, Fetch
 
@@ -67,8 +61,6 @@ Continue with the format of the recipe object you used last week or improve it a
 - [ ] Implement functionality to search for an ingredient, fetch and display the relevant ingredient prices for a recipe
 - [ ] Ensure all the functionality is working smoothly after refactoring.
 
----
-
 ### `JS3 week2` - Promises, Async/Await
 
 - [ ] You used promise chaining last week - now rewrite the fetch in the "async await" approach.
@@ -76,14 +68,11 @@ Continue with the format of the recipe object you used last week or improve it a
 - [ ] Find a recipe by a provided search word to check in the recipe title.
 - [ ] Sort the recipe array by the amount of ingredients needed.
 
-
 ### `JS3 week3` - Classes, Revision and Presentation of projects
 
 - [ ] Rest, revise JS fundamentals, finish, and brush up your project, prepare to present and explain it.
 - [ ] Make improvements to the style or functionality or add additional functionality.
 - [ ] Prepare to showcase your project to external people, talk through your code and explain what you have implemented.
-
-
 
 ## Project completion checklist ✅
 

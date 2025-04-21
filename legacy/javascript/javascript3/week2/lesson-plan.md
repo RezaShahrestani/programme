@@ -39,13 +39,13 @@ This class is a little poor on real world examples. Make a PR if you have any go
     - Example, call some function that returns a promise (like fetch)
     - [Exercises 2](#exercise-2)
   - Creation
-    - [Code inspiration](#promise-creation)
+    - [Code inspiration](#promise-creation---a-recipe-for-creating-your-own-promise)
     - [Exercises 3](#exercise-3) and then [Exercises 4](#exercise-4)
   - Async await
     - [Exercises 5](#exercise-5)
   - `Promise.all` - Let students investigate
   - Optional - Chaining. Calling `.then` returns a promise. Only get to here when they understand async/await and promise consumption and creation.
-    - [Code inspiration](#reason-for-promise)
+    - ?Code inspiration?
     - Reason for promise: <https://mobile.twitter.com/addyosmani/status/1097035418657144832?s=19>
   - [Exercises 5](#exercise-5) and [Exercises 6](#exercise-6)
 
@@ -117,7 +117,7 @@ scrollTo("section.features")
 // When you have a promise you can call two functions on that promise (.then and .catch). '.then' is called when the promise is resolved. '.catch' is called when the promise is rejected.
 ```
 
-### Promise creation - A recepy for creating your own promise
+### Promise creation - A recipe for creating your own promise
 
 When you create a new promise you give it a function that has two functions as parameters (resolve and reject). Resolve is called when everything in a promise goes well. Reject is called when something goes wrong.
 

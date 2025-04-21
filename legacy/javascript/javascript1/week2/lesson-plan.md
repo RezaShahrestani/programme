@@ -31,7 +31,7 @@ If you find anything that could be improved then please create a pull request! W
 - Global vs local scope
   - Lexical scope - inner functions contain the scope of parent functions even if the parent function has returned.
   - [Code inspiration](#scope)
-  - [Exercise](#scope-1)
+  - [Exercise](#exercise-scope)
 - For loop
   - Try start off with giving the students the [Exercise string logger](#for-loop-1) and not explain for loop. Let them figure it out through the exercise (problem based learning)
   - [Code inspiration](#for-loop)
@@ -240,7 +240,7 @@ console.log(spam(14) === "huehuehuehuehuehuehuehuehuehuehuehuehuehue");
 
 ## Exercises
 
-### If sentences
+### `if` sentences
 
 Create an `if` sentence that will give a user a message based on his bank account balance. Use the `balance` variable and change that.
 
@@ -262,7 +262,7 @@ Create a function called `celciusToFahreneit` it should have a parameter called 
 
 Try call the function and check with google if the function returns the right value.
 
-### Scope
+### Exercise: Scope
 
 With pen and paper write what is logged out.
 
@@ -286,13 +286,13 @@ function scopeTest() {
 scopeTest();
 ```
 
-### For loop
+### `for` loop
 
-#### Simple for loop
+#### Simple `for` loop
 
 Create a for loop that logs out the numbers from 74 - 98
 
-#### For loop in a function
+#### `for` loop in a function
 
 Create a function that has two parameters: `stringToLog` and `numberOfTimesToLog`
 

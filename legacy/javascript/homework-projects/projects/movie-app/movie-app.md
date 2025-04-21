@@ -1,4 +1,3 @@
-
 # MOVIE APP
 
 ![Garfield, slouched in a chair and changing the TV channel](https://media.giphy.com/media/KZe02gpoAj4yVjxKQt/giphy.gif)

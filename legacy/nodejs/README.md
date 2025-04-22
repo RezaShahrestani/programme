@@ -17,9 +17,9 @@ Most of this course will focus on the backend part. Meaning building a webserver
 
 | Week | Topic                                           | Preparation                         | Homework                             | Lesson plan                         |
 | ---- | ----------------------------------------------- | ----------------------------------- | ------------------------------------ | ----------------------------------- |
-| 1.   | HTTP; Introduction to node js; Simple webserver | [Preparation](week1/preparation.md) | [Homework](week1/homework/readme.md) | [Lesson plan](week1/lesson-plan.md) |
-| 2.   | Express                                         | [Preparation](week2/preparation.md) | [Homework](week2/homework/readme.md) | [Lesson plan](week2/lesson-plan.md) |
-| 3.   | Database connection; API                        | [Preparation](week3/preparation.md) | [Homework](week3/homework/readme.md) | [Lesson plan](week3/lesson-plan.md) |
+| 1.   | HTTP; Introduction to node js; Simple webserver | [Preparation](week1/preparation.md) | [Homework](week1/homework/README.md) | [Lesson plan](week1/lesson-plan.md) |
+| 2.   | Express                                         | [Preparation](week2/preparation.md) | [Homework](week2/homework/README.md) | [Lesson plan](week2/lesson-plan.md) |
+| 3.   | Database connection; API                        | [Preparation](week3/preparation.md) | [Homework](week3/homework/README.md) | [Lesson plan](week3/lesson-plan.md) |
 
 ## Pre-requisites
 

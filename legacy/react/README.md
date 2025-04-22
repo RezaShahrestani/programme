@@ -18,7 +18,7 @@ Next.js is a popular framework which further enhances the development process an
 
 This course is divided in 2 modules
 
-### [React 1](./react1/readme.md) (3 weeks)
+### [React 1](./react1/README.md) (3 weeks)
 
 Here we will focus on:
 
@@ -27,7 +27,7 @@ Here we will focus on:
 - How to use **props** and **state** in components
 - How to react to events using **hooks**
 
-### [React 2](./react2/readme.md) (3 weeks)
+### [React 2](./react2/README.md) (3 weeks)
 
 In React 2 we will further expand our skills and learn:
 

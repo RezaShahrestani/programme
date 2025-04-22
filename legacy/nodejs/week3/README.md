@@ -14,7 +14,7 @@
 ## Relevant links
 
 - [Preparation](preparation.md)
-- [Homework](homework/readme.md)
+- [Homework](homework/README.md)
 - [Lesson plan](lesson-plan.md)
 
 ### 1. What is Representational State Transfer (REST)?

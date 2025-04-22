@@ -15,7 +15,7 @@ This page provides you with:
 - `/first-meal`
 - `/last-meal`
 
-[Full description](https://github.com/HackYourFuture-CPH/node.js/blob/main/week1/homework/readme.md#meal-sharing-endpoints)
+[Full description](https://github.com/HackYourFuture-CPH/node.js/blob/main/week1/homework/README.md#meal-sharing-endpoints)
 
 ### Week 2: CRUD routes for meals and reservations
 
@@ -35,7 +35,7 @@ This page provides you with:
 - PUT `/api/reservations/:id`
 - DELETE `/api/reservations/:id`
 
-[Full description](https://github.com/HackYourFuture-CPH/node.js/blob/main/week2/homework/readme.md#meal-sharing-endpoints)
+[Full description](https://github.com/HackYourFuture-CPH/node.js/blob/main/week2/homework/README.md#meal-sharing-endpoints)
 
 ### Week 3: Meal filtering and CRUD routes for reviews
 
@@ -61,7 +61,7 @@ This page provides you with:
 - PUT `/api/reviews/:id`
 - DELETE `/api/reviews/:id`
 
-[Full description](https://github.com/HackYourFuture-CPH/node.js/blob/main/week3/homework/readme.md#meal-sharing-endpoints)
+[Full description](https://github.com/HackYourFuture-CPH/node.js/blob/main/week3/homework/README.md#meal-sharing-endpoints)
 
 ## React 1
 

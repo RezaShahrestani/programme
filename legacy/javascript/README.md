@@ -14,21 +14,21 @@ This JavaScript course is divided in three modules. Starting from the simple use
 
 ## Module goals
 
-### [JS1 Module:](/javascript1)
+### [JS1 Module:](./javascript1)
 
 A basic program with multiple functions (reacting to user input)
 
-### [JS2 Module:](/javascript2)
+### [JS2 Module:](./javascript2)
 
 A tool capable of loading a JSON file and representing it in the DOM
 
-### [JS3 Module:](/javascript3)
+### [JS3 Module:](./javascript3)
 
 A web app with external data source using at least one API
 
 ### Overall
 
 A good understanding of all the above mentioned topics. Want to check your Knowledge?
-Go through the [JavaScript Fundamentals readme](/fundamentals) and research/ask for help [(Slack!)](https://hackyourfuture-cph.slack.com) with the concepts that are not entirely clear.
+Go through the [JavaScript Fundamentals readme](./fundamentals) and research/ask for help [(Slack!)](https://hackyourfuture-cph.slack.com) with the concepts that are not entirely clear.
 
 Helpful resource: <http://jsbooks.revolunet.com/> (here you can find tons of free JavaScript books online)

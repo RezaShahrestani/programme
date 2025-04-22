@@ -106,7 +106,7 @@ So what event should we listen for in the `addEventListener` method? And what el
 
 Use the overview shown above and the `renderProducts` function.
 
-![Searching for a product](homework/hyf-bay-searching.gif)
+![Searching for a product](optional-homework/hyf-bay-searching.gif)
 
 ### 2.3. Filter products based on max price
 
@@ -114,7 +114,7 @@ Lets help a user to find cheap products! When the **user writes a maximum price*
 
 _Hint: Break this task into smaller tasks!_
 
-![Searching for a product](homework/hyf-bay-price.gif)
+![Searching for a product](optional-homework/hyf-bay-price.gif)
 
 ### 2.4. Make the website look nicer!
 

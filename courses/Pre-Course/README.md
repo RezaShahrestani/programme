@@ -1,6 +1,9 @@
 # Pre-course
 
-> [!IMPORTANT]
-> Work in progress. Proposed content defined [here](https://docs.google.com/document/d/151MLm-8WA6jSk0-9JhBTuG1xZ9Fo9HRLplJx6Bhps6A/edit?tab=t.0).
+The pre-course is a collection of modules that you should complete before joining HackYourFuture.
 
 ## Modules
+
+### [Technical Application](./Technical-Application)
+
+### [Self Study](./Self-Study)

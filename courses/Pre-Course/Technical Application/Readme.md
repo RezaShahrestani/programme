@@ -43,13 +43,13 @@ You should have received a deadline from your contact person at HYF.
 ## Submission checklist
 Check if you are ready and submit!
 
-- [ ] I have created a `GitHub` account
-- [ ] I have signed up to `freeCodeCamp` with my GitHub account
-- [ ] I have have signed up to `codepen` with my Github account 
-- [ ] I have made my `freeCodeCamp` profile timeline public
-- [ ] I have completed the first 2 Courses in the `freeCodeCamp` `Responsive Web Design` Certification, and taken a screenshot of the finished courses 
-- [ ] I have created the Event Page project in `codepen` and completed the tasks
-- [ ] I have made a project overview video
+* [ ] I have created a `GitHub` account
+* [ ] I have signed up to `freeCodeCamp` with my GitHub account
+* [ ] I have have signed up to `codepen` with my Github account 
+* [ ] I have made my `freeCodeCamp` profile timeline public
+* [ ] I have completed the first 2 Courses in the `freeCodeCamp` `Responsive Web Design` Certification, and taken a screenshot of the finished courses 
+* [ ] I have created the Event Page project in `codepen` and completed the tasks
+* [ ] I have made a project overview video
 
 Have you completed the list?
 👉 [CLICK HERE](https://forms.gle/u4xxb6XrJ1rBVeSV9) to go to the submission form. 🏁 
@@ -57,7 +57,7 @@ Have you completed the list?
 ## 📫 After submission
 After submitting, please be patient and wait to hear from us while we review all the submissions. We will let you know the date to expect an answer from us by.
 
-Make sure to save **cph@hackyourfuture.dk** and **info@hackyourfuture.dk** in your contacts, so our emails don't end up in your spam folder.
+Make sure to save `cph@hackyourfuture.dk` and `info@hackyourfuture.dk` in your contacts, so our emails don't end up in your spam folder.
 
 * ✅ If you make it to the next stage, you will receive an email from us with an invitation to a short online interview with two members from HackYourFuture. 
 * ⛔️ If you do not make it to the interview stage, we will also let you know via email.

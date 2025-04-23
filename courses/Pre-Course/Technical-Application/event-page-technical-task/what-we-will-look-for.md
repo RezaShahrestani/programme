@@ -1,8 +1,5 @@
----
-description: This section describes what the evaluators of your assignment will look for.
----
-
 # What we will look for
+This section describes what the evaluators of your assignment will look for.
 
 Check the list to make sure you have done your best work before submitting!&#x20;
 

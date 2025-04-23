@@ -1,8 +1,8 @@
 # 📺 Project overview video
 
-The purpose of the project overview video is for us to learn a little bit about you and hear about your experience building the Event Page improvements.&#x20;
+The purpose of the project overview video is for us to learn a little bit about you and hear about your experience building the Event Page improvements.
 
-1. Make a video recording of yourself talking about your experiences building the project[event-page-technical-task](event-page-technical-task/ "mention")
+1. Make a video recording of yourself talking about your experiences building the project [event-page-technical-task](event-page-technical-task/ "mention")
 
 Please don't be worried, we know this may be your first time doing something like this, so try not to be intimidated! The video does not need to be very polished and professional - we just want to get to know you a bit and see how the technical task was for you!
 

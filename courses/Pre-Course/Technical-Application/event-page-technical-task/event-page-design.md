@@ -1,8 +1,5 @@
----
-description: Use Figma for Your Project Design
----
-
 # Event Page Design
+Use Figma for Your Project Design
 
 **Access the Figma Design:**
 

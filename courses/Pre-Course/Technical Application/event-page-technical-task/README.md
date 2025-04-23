@@ -86,12 +86,12 @@ Build a navigation bar and make it look like in the [event-page-design.md](event
 * [ ] Use [<mark style="color:blue;">CSS flexbox layout</mark>](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) to position the elements in the navigation bar.
 * [ ] Make sure to add the logo to navigation bar.
 
-### About Details:
+### About Details
 
 * [ ] Add an about section detailing the event (date, time, location, etc.).
 * [ ] Use semantic HTML tags and Flexbox for layout.
 
-### Events Section:
+### Events Section
 
 * [ ] Create a list of events with an image, icons and banner.
 * [ ] Include a brief description of the event.
@@ -117,7 +117,7 @@ Apply _Media Query_ in your CSS file to achieve the mobile layout as seen in the
 
 
 
-## A sprinkle of Javascript!
+## A sprinkle of Javascript
 
 You are now familiar with HTML and CSS and have been through quite a journey of learning. Good job! \
 Let's take a peak at the next building block of any proper website - [<mark style="color:blue;">Javascript</mark>](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript).&#x20;
@@ -127,7 +127,7 @@ Let's take a peak at the next building block of any proper website - [<mark styl
 
 
 
-### :tada: You did it!
+### :tada: You did it
 
 Go through all the steps once again and refer to the design images to make sure you did your best with this task. \
 Take some rest and, when you are ready, go on to make the [project-overview-video.md](../project-overview-video.md "mention").

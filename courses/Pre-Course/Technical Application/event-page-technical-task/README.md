@@ -44,30 +44,27 @@ Include the following sections on your page:
 2.  **Start a New Pen**:\
     Begin a new "pen" on CodePen.
 
-    <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    ![](../assets/image (12).png)
 3.  **HTML and CSS Setup:**
 
     * Copy the HTML and CSS structure provided below into the HTML and CSS sections in CodePen.
 
-    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    ![](../assets/image (6).png)
 4. **Learning Resources:**
 
-{% hint style="info" %}
-Be curious and google it! Search for articles, blog posts, documentation, youtube tutorials and alike to learn more and understand how to implement any of the steps.
-{% endhint %}
+> [!INFO]
+> Be curious and google it! Search for articles, blog posts, documentation, youtube tutorials and alike to learn more and understand how to implement any of the steps.
 
-{% hint style="info" %}
-While doing this task, [<mark style="color:blue;">inspect</mark>](https://blog.hubspot.com/website/how-to-inspect) the website to see what is happening with the elements and the styling. Refer to the [<mark style="color:blue;">CSS Box Model</mark>](https://www.w3schools.com/css/css_boxmodel.asp) to understand which styling properties to change to make things look right.&#x20;
-{% endhint %}
+> [!INFO]
+> While doing this task, [inspect](https://blog.hubspot.com/website/how-to-inspect) the website to see what is happening with the elements and the styling. Refer to the [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp) to understand which styling properties to change to make things look right.
 
 5. **Inspect and Debug:**\
    While doing this task, inspect the website elements to understand the styling. Refer to the CSS Box Model to identify and adjust the necessary styling properties.
 
 
-
 ## General Steps
 
-* [ ] **Responsive Units**: Ensure there are no large (>50) pixel values in your stylesheet. Apply responsive units instead. Study and try to apply responsive units. See the article about [<mark style="color:blue;">responsive web design</mark>](https://medium.com/analytics-vidhya/responsive-web-design-choosing-the-right-unit-4cf2e7d72db7) and investigate _CSS units_.
+* [ ] **Responsive Units**: Ensure there are no large (>50) pixel values in your stylesheet. Apply responsive units instead. Study and try to apply responsive units. See the article about [responsive web design](https://medium.com/analytics-vidhya/responsive-web-design-choosing-the-right-unit-4cf2e7d72db7) and investigate _CSS units_.
 * [ ] **Layout with Flexbox**:
   * Use CSS Flexbox to layout the entire page.
   * Apply Flexbox properties to ensure elements are properly aligned and spaced.
@@ -77,13 +74,13 @@ While doing this task, [<mark style="color:blue;">inspect</mark>](https://blog.h
 
 ### Navigation bar
 
-Build a navigation bar and make it look like in the [event-page-design.md](event-page-design.md "mention").&#x20;
+Build a navigation bar and make it look like in the [event-page-design.md](event-page-design.md "mention").
 
 * [ ] Build a navigation bar that includes links to the various sections of the page.
 * [ ] Place the navigation bar at the top of the page.
 * [ ] Use the colors from the design.
 * [ ] Use the \<nav> semantic HTML tag for the navigation bar.
-* [ ] Use [<mark style="color:blue;">CSS flexbox layout</mark>](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) to position the elements in the navigation bar.
+* [ ] Use [CSS flexbox layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) to position the elements in the navigation bar.
 * [ ] Make sure to add the logo to navigation bar.
 
 ### About Details
@@ -112,7 +109,7 @@ Build the footer to make it look like in the [event-page-design.md](event-page-d
 
 Apply _Media Query_ in your CSS file to achieve the mobile layout as seen in the [event-page-design.md](event-page-design.md "mention").
 
-* [ ] Notice how, if you apply flexbox and responsive units, your design will already be responsive for most elements! Investigate the [<mark style="color:blue;">mobile view</mark>](https://blog.hubspot.com/website/how-to-inspect) in your browser and see what needs to be styled in order to match the mobile layout design.&#x20;
+* [ ] Notice how, if you apply flexbox and responsive units, your design will already be responsive for most elements! Investigate the [<mark style="color:blue;">mobile view</mark>](https://blog.hubspot.com/website/how-to-inspect) in your browser and see what needs to be styled in order to match the mobile layout design.
 * [ ] For the footer, find a way to _remove flex in css for mobile size screen._
 
 
@@ -120,10 +117,10 @@ Apply _Media Query_ in your CSS file to achieve the mobile layout as seen in the
 ## A sprinkle of Javascript
 
 You are now familiar with HTML and CSS and have been through quite a journey of learning. Good job! \
-Let's take a peak at the next building block of any proper website - [<mark style="color:blue;">Javascript</mark>](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript).&#x20;
+Let's take a peak at the next building block of any proper website - [Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript).
 
-* [ ] Remake the logo element in the navigation bar into a button, choose a logo which you like or represents something about you and style it so it looks good and fits in with the design.&#x20;
-* [ ] Find a way to make the button functional so it _alerts some text_ on click. The text could be a fun fact about you!&#x20;
+* [ ] Remake the logo element in the navigation bar into a button, choose a logo which you like or represents something about you and style it so it looks good and fits in with the design.
+* [ ] Find a way to make the button functional so it _alerts some text_ on click. The text could be a fun fact about you!
 
 
 

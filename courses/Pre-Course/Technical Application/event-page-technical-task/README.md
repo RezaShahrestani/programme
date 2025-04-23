@@ -1,11 +1,5 @@
----
-description: >-
-  Create a simple, responsive landing page for a fictional event. The page
-  should be designed using only HTML and CSS, showcasing a basic understanding
-  of these technologies.
----
-
 # ☕ Event Page Technical Task
+Create a simple, responsive landing page for a fictional event. The page should be designed using only HTML and CSS, showcasing a basic understanding of these technologies.
 
 ## Objectives
 
@@ -14,10 +8,9 @@ description: >-
 * Implement a mobile-first approach.
 
 
-
 ## Requirements
 
-**HTML Structure**
+### HTML Structure
 
 * Use semantic HTML5 elements where appropriate (\<header>, \<nav>, \<main>, \<section>, \<footer>, etc.).
 
@@ -28,7 +21,7 @@ Include the following sections on your page:
 * Events Section: A prominent section with an image/banner and a brief description of the events.
 * Footer: Contains contact information, map and social media links.
 
-**CSS Styling**
+### CSS Styling
 
 * Use an external CSS file for styling.
 * Implement a responsive design using media queries.

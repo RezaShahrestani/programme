@@ -4,6 +4,6 @@ The pre-course is a collection of modules that you should complete before joinin
 
 ## Modules
 
-### Technical Application
+### [Technical Application](./Technical-Application)
 
-### [Self Study](./Self Study)
+### [Self Study](./Self-Study)

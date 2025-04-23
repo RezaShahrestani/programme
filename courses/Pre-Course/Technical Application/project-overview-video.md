@@ -8,11 +8,9 @@ Please don't be worried, we know this may be your first time doing something lik
 
 The video should include the following:
 
-* State your name
-* In 2-3 sentences, describe how the freeCodeCamp courses went for you - how much time did you spend on them? Was it all new material for you? Was it difficult?
-* In 3-5 sentences, describe how you built the \<footer> - what methods did you use to make it look like the [event-page-design.md](event-page-technical-task/event-page-design.md "mention")?
-* In 3-5 sentences, describe how you built the navigation, what methods did you use to make it look like the [event-page-design.md](event-page-technical-task/event-page-design.md "mention")?
+- State your name
+- In 2-3 sentences, describe how the freeCodeCamp courses went for you - how much time did you spend on them? Was it all new material for you? Was it difficult?
+- In 3-5 sentences, describe how you built the \<footer> - what methods did you use to make it look like the [event-page-design.md](event-page-technical-task/event-page-design.md "mention")?
+- In 3-5 sentences, describe how you built the navigation, what methods did you use to make it look like the [event-page-design.md](event-page-technical-task/event-page-design.md "mention")?
 
 The video should be maximum 5 minutes long. \
-
-

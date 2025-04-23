@@ -1,11 +1,12 @@
 # ❓ FAQ
+
 This section covers some of the doubts you might have while completing the assignment.
 
 ## Can I submit after the deadline?
 
 Late submissions will not be accepted. Remember there are multiple application rounds a year, so if this time does not work for you, you can try again.
 
-## What if I cannot finish the assignment on time? 
+## What if I cannot finish the assignment on time?
 
 The scope of the assignment is carefully considered and the days until submission deadline should be enough to complete all the parts. This may seem difficult, but it is a reflection of the fast pace of HackYourFuture, if you get in. If you are not able to meet this deadline, you should ask yourself if you can keep up with 8 months of intense study that only gets progressively harder. Practice a bit more, find the best learning methods that fit you, and continue on your own, and once you feel ready, apply again!
 

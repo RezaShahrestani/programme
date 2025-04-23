@@ -109,7 +109,7 @@ Build the footer to make it look like in the [event-page-design.md](event-page-d
 
 Apply _Media Query_ in your CSS file to achieve the mobile layout as seen in the [event-page-design.md](event-page-design.md "mention").
 
-* [ ] Notice how, if you apply flexbox and responsive units, your design will already be responsive for most elements! Investigate the [<mark style="color:blue;">mobile view</mark>](https://blog.hubspot.com/website/how-to-inspect) in your browser and see what needs to be styled in order to match the mobile layout design.
+* [ ] Notice how, if you apply flexbox and responsive units, your design will already be responsive for most elements! Investigate the [mobile view](https://blog.hubspot.com/website/how-to-inspect) in your browser and see what needs to be styled in order to match the mobile layout design.
 * [ ] For the footer, find a way to _remove flex in css for mobile size screen._
 
 

@@ -35,13 +35,13 @@ Include the following sections on your page:
 2. **Start a New Pen**:\
    Begin a new "pen" on CodePen.
 
-   ![](../assets/image (12).png)
+   ![image12](../assets/image12.png)
 
 3. **HTML and CSS Setup:**
 
    - Copy the HTML and CSS structure provided below into the HTML and CSS sections in CodePen.
 
-   ![](../assets/image (6).png)
+   ![image6](../assets/image6.png)
 
 4. **Learning Resources:**
 

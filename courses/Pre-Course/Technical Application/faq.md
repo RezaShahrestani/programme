@@ -18,7 +18,7 @@ The assignment and the additional parts should take you not more than 30 hours i
 
 The completed courses and your profile picture should be visible:
 
-![](../assets/image (16).png>)
+![image16](./assets/image16.png)
 
 ## How should I make the video?
 

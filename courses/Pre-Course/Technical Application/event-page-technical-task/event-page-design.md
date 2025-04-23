@@ -24,5 +24,4 @@ description: Use Figma for Your Project Design
 - Use the **grid and guides** in Figma to understand the layout structure.
 
 Link to the design: \
-[https://www.figma.com/design/q0FzbL7oq2H4hnyJW6tVtb/HYF?node-id=1-3\&t=oPag8iubHiF0qDVP-0](https://www.figma.com/design/q0FzbL7oq2H4hnyJW6tVtb/HYF?node-id=1-3&t=oPag8iubHiF0qDVP-0)\
-\
+[https://www.figma.com/design/q0FzbL7oq2H4hnyJW6tVtb/HYF?node-id=1-3\&t=oPag8iubHiF0qDVP-0](https://www.figma.com/design/q0FzbL7oq2H4hnyJW6tVtb/HYF?node-id=1-3&t=oPag8iubHiF0qDVP-0)

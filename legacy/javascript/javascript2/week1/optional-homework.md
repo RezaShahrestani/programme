@@ -1,7 +1,7 @@
 # Optional Homework
 
 > [!WARNING]
-> These are optional homework exercises that you can complete on top of your [homework project](/homework-projects/readme.md), if you wish. There is no requirement for these to be reviewed, but feel free to ask a mentor if you wish for some feedback.
+> These are optional homework exercises that you can complete on top of your [homework project](../../homework-projects/README.md), if you wish. There is no requirement for these to be reviewed, but feel free to ask a mentor if you wish for some feedback.
 
 ## So why this homework?
 
@@ -79,7 +79,7 @@ We are going to be building this website step by step, so have patience :)
 
 ### 3.1. Lets get started!
 
-In the [homework/hyf-bay folder](homework/hyf-bay) there is a project template you should continue working on. So copy all the files into your `hyf-homework/javascript/javascript2/week1` folder.
+In the [optional-homework/hyf-bay folder](optional-homework/hyf-bay) there is a project template you should continue working on. So copy all the files into your `hyf-homework/javascript/javascript2/week1` folder.
 
 The `index.html` is very basic. It simply loads two javascript files and include some css. The two javascript files are `hyfBayHelpers.js` and the `main.js`. `hyfBayHelpers.js` contains a function (`getAvailableProducts`) that we can use to get an array of products. In the `main.js` we will be writing all our code!
 

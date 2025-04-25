@@ -7,7 +7,7 @@ Understanding the basics of Javascript is SUPER important. Therefore this homewo
 If you struggle to do this weeks homework there are a couple of things to do:
 
 - Watch the class recording. If it for some reason is missing. Then watch these: [part 1](https://www.youtube.com/watch?v=Mo54btMPN7Q), [part 2](https://www.youtube.com/watch?v=mSUAoual5sE), [part 3](https://www.youtube.com/watch?v=uq3NnTtXqsU)
-- Go through the last 3 weeks readme files. [Week 1](../week1/readme.md#variables), [week 2](../week2/readme.md#recap-logical-operators), [week 3](../week3/readme.md#objects)
+- Go through the last 3 weeks readme files. [Week 1](../week1/README.md#variables), [week 2](../week2/README.md#recap-logical-operators), [week 3](../week3/README.md#objects)
 
 ## Finishing class exercises
 

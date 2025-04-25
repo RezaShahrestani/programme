@@ -1,7 +1,7 @@
 # Optional Homework
 
 > [!WARNING]
-> These are optional homework exercises that you can complete on top of your [homework project](/homework-projects/readme.md), if you wish. There is no requirement for these to be reviewed, but feel free to ask a mentor if you wish for some feedback.
+> These are optional homework exercises that you can complete on top of your [homework project](../../homework-projects/README.md), if you wish. There is no requirement for these to be reviewed, but feel free to ask a mentor if you wish for some feedback.
 
 For this weeks homework we will create a web applications that generates a screenshot of a website based on a url. We will combine two API's one to generate the screenshot and one to allow the user to save the screenshot.
 

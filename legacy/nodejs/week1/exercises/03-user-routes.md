@@ -48,8 +48,6 @@ Create a `users` table with the following fields:
 - `/gmail-users` should respond with users with an @gmail.com email
 - `/2022-users` should respond with users created in 2022
 
----
-
 ## More routes
 
 - `/user-count` should respond with the number of users

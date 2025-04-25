@@ -4,6 +4,6 @@ In the first week of the module we will focus on a general introduction starting
 
 ## Planning
 
-| Week | Topic                                           | Preparation                     | Homework                         | Lesson plan                     |
-| ---- | ----------------------------------------------- | ------------------------------- | -------------------------------- | ------------------------------- |
-| 1.   | HTTP; Introduction to node js; Simple webserver | [Preparation](./preparation.md) | [Homework](./homework/README.md) | [Lesson plan](./lesson-plan.md) |
+| Week | Topic                                           | Preparation                          | Homework                              | Lesson plan                          |
+| ---- | ----------------------------------------------- | ------------------------------------ | ------------------------------------- | ------------------------------------ |
+| 1.   | HTTP; Introduction to node js; Simple webserver | [Preparation](/week1/preparation.md) | [Homework](/week1/homework/README.md) | [Lesson plan](/week1/lesson-plan.md) |

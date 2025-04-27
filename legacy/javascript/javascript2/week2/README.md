@@ -8,13 +8,13 @@
   - [ ] [Filter](#filter)
 - [ ] [Arrow function](#arrow-functions)
 <!---
-- [ ] Code flow, using the [call stack](../../javaScript1/week3/readme.md#call-stack)
+- [ ] Code flow, using the [call stack](../../javaScript1/week3/README.md#call-stack)
       -->
 
 ## Relevant links
 
 - [Preparation](preparation.md)
-- [Homework](/homework-projects/readme.md)
+- [Homework](../../homework-projects/README.md)
 - [Lesson plan](lesson-plan.md)
 
 ## Array methods map, filter and sort

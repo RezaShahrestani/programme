@@ -1,7 +1,7 @@
 # Optional Homework
 
 > [!WARNING]
-> These are optional homework exercises that you can complete on top of your [homework project](/homework-projects/readme.md), if you wish. There is no requirement for these to be reviewed, but feel free to ask a mentor if you wish for some feedback.
+> These are optional homework exercises that you can complete on top of your [homework project](../../homework-projects/README.md), if you wish. There is no requirement for these to be reviewed, but feel free to ask a mentor if you wish for some feedback.
 
 ## Why should I even do this homework?
 
@@ -30,7 +30,7 @@ If you struggle to do this weeks homework there are a couple of things to do:
 
 - Try watch this video: <https://www.youtube.com/watch?v=Urwzk6ILvPQ>
 - Watch the class recording. If it for some reason is missing. Then watch these: [part 1](https://www.youtube.com/watch?v=AJt_O0EFDC8), [part 2](https://www.youtube.com/watch?v=4tj7CvD7ka8), [part 3](https://www.youtube.com/watch?v=CO40FG6pK2k) [part 4](https://www.youtube.com/watch?v=eA2tCs0AaaM)
-- Read up on array functions [here](https://github.com/HackYourFuture-CPH/JavaScript/blob/main/javascript2/week2/readme.md#array-methods-map-filter-and-sort)
+- Read up on array functions [here](https://github.com/HackYourFuture-CPH/JavaScript/blob/main/javascript2/week2/README.md#array-methods-map-filter-and-sort)
 
 ### 1.1. Doubling of number
 
@@ -64,7 +64,7 @@ Complete these Katas:
 
 ![cinema](https://media.giphy.com/media/l6mBchxYZc7Sw/giphy.gif)
 
-Copy the movies array in the [movies](homework/movies.js) file. Use this array to do the following tasks:
+Copy the movies array in the [movies](optional-homework/movies.js) file. Use this array to do the following tasks:
 
 1. Create an array of movies containing the **movies with a short title** (you define what short means)
 2. Create an array of movie titles with **long movie titles**
@@ -78,7 +78,7 @@ Copy the movies array in the [movies](homework/movies.js) file. Use this array t
 
 ## 2. hyfBay - get the okay'est products here - continued
 
-**Continue work on your homework regarding the Hyfbay** from previous week. Please copy the files from last week into this weeks `hyf-homework` folder and continue working there. If you have not made last weeks homework the solution for it is included in [this weeks homework folder](homework/hyf-bay) in the `main.js` file.
+**Continue work on your homework regarding the Hyfbay** from previous week. Please copy the files from last week into this weeks `hyf-homework` folder and continue working there. If you have not made last weeks homework the solution for it is included in [this week's homework folder](optional-homework/hyf-bay) in the `main.js` file.
 
 ### 2.1. Filter products
 

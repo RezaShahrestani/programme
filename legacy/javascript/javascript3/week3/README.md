@@ -5,7 +5,7 @@
 ## Relevant links
 
 - [Preparation](preparation.md)
-- [Homework](/homework-projects/readme.md)
+- [Homework](../../homework-projects/README.md)
 - [Lesson plan](lesson-plan.md)
 
 ## So what now?

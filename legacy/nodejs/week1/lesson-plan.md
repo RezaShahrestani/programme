@@ -54,7 +54,7 @@ In the first week of the module we will focus on a general introduction starting
 
 ### What is backend?
 
-In software development, we separate the user experience and utility (the `frontend`) from the code that actually makes it work (the `backend`). The real world contains many examples of this division: take for example an [ATM](../images/atm.jpg). What you can interact with it (press a button or insert a card), you are dealing with the `user interface`; which is the end result of frontend code. However, everything that's needed to make it work like that is found within the device: this is the hardware and software needed to make it work the way it does.
+In software development, we separate the user experience and utility (the `frontend`) from the code that actually makes it work (the `backend`). The real world contains many examples of this division: take for example an ATM. What you can interact with it (press a button or insert a card), you are dealing with the `user interface`; which is the end result of frontend code. However, everything that's needed to make it work like that is found within the device: this is the hardware and software needed to make it work the way it does.
 
 In web development the term backend can be boiled down to 3 components:
 
@@ -129,7 +129,7 @@ Look into the following resources to increase your understanding:
 - [The Http and the Web: Http explained](https://www.youtube.com/watch?v=eesqK59rhGA)
 - [Basics concepts of web applications](https://www.youtube.com/watch?v=RsQ1tFLwldY)
 
-- [@NoerGitKat (lots of web app clones/examples to learn from)](https://www.github.com/NoerGitKat)
+- [@NoerGitKat (lots of web app clones/examples to learn from)](https://github.com/NoerGitKat)
 
 ### Flipped classroom videos
 

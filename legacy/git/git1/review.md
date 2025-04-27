@@ -81,7 +81,7 @@ and create a new git repository using:
 git init
 ```
 
-You can also create a repository on your local machine by cloning a remote repository with `git clone <URL>` command. This copies the repository from a remote machine (typically github) and initializes it on your machine. You can try to clone some public repositories on [github.com](www.github.com).
+You can also create a repository on your local machine by cloning a remote repository with `git clone <URL>` command. This copies the repository from a remote machine (typically github) and initializes it on your machine. You can try to clone some public repositories on [github.com](https://github.com/).
 
 Before creating any repository make sure you are not inside a git repository already. This is very important!!! To do so type `git status`, if you get an error it means you are not inside a git repository and you can safely create a new one.
 

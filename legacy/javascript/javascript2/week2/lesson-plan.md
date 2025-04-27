@@ -39,7 +39,7 @@ If you find anything that could be improved, please create a pull request! We we
   - [Exercises](#arrow-functions)
 
 <!---
-- Code flow, using the [call stack](../../JavaScript1/Week3/readme.md#call-stack)
+- Code flow, using the [call stack](../../JavaScript1/Week3/README.md#call-stack)
 -->
 
 [Listing project](#listing-project)

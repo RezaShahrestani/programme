@@ -6,7 +6,7 @@ This is the preparation for the flipped classroom (vs. "old style" presential cl
 
 Github:
 
-- if you haven't created an account on [github.com](www.github.com) yet, please create it now :)
+- if you haven't created an account on [github.com](https://github.com/) yet, please create it now :)
 
 Git:
 

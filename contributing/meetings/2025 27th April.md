@@ -25,7 +25,7 @@ Also mega thanks to Natlia for putting together the proposal for splitting js/no
 - Github kanban board for managing issues, priority, visibility etc. is nice
 
 #### Actions:
-1. Switch to one required reviewer
+1. Switch to one required reviewer (update contributing readme, share in slack. note that more reviewers should often be requested when necessray (give examples) it's just not enforced in github). Reminder that all staff can merge stuff, if it's fully approved, ping anyone if something is blocked.
 2. Keep meeting agendas/notes in github, link to them from other places (invites, slack reminders).
 3. Continue to consider how to best keep conversations in the right/organised places, it feels disjointed right now.
 

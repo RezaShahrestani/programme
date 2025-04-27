@@ -12,6 +12,31 @@ else
     fi
   ' 0
 
-  npm exec -- markdownlint --ignore 'node_modules/' '**/*.md'
-  npm exec -- prettier --check .
+  rc=0
+
+  echo "validateLinks: ..."
+  if npm exec -- node dist/validateLinks.js ; then
+    echo validateLinks: PASS
+  else
+    echo validateLinks: FAIL
+    rc=1
+  fi
+
+  echo "markdownlint: ..."
+  if npm exec -- markdownlint --ignore 'node_modules/' '**/*.md' ; then
+    echo "markdownlint: PASS"
+  else
+    echo "markdownlint: FAIL"
+    rc=1
+  fi
+
+  echo "prettier: ..."
+  if npm exec -- prettier --check . ; then
+    echo "prettier: PASS"
+  else
+    echo "prettier: FAIL"
+    rc=1
+  fi
+
+  exit $rc
 fi

@@ -7,7 +7,7 @@
 
 | Name                                                       | Weeks |
 | ---------------------------------------------------------- | ----- |
-| [HTML & CSS](./HTML-CSS)                                   | 1     |
+| [HTML & CSS](./html-css)                                   | 1     |
 | [Git](./git)                              | 1     |
 | [Javascript Foundation](./javascript-foundation/README.md) | 6     |
 | [Databases](./databases/)                                  | 1     |

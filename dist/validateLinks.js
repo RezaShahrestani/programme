@@ -25,6 +25,12 @@ const scanForLinks = async (filenames) => {
         return { filename, ...parse(content) };
     }));
 };
+const showError = (filename, sourceLocation, code, message) => {
+    const src = sourceLocation
+        ? `${sourceLocation.line0 + 1}:${sourceLocation.column0 + 1}`
+        : "0";
+    console.log(`${filename}:${src} ${code} ${message}`);
+};
 const externalLinkPattern = /^\w+:/;
 const isExternalLink = (t) => externalLinkPattern.test(t);
 const main = async () => {
@@ -40,7 +46,7 @@ const main = async () => {
                 const resolved = path.join(dirname(parsedFile.filename), img.src);
                 const exists = lowercaseGitFiles.includes(resolved.toLocaleLowerCase());
                 if (!exists) {
-                    console.log(`error BROKEN-INTERNAL-IMAGE ${parsedFile.filename}:0 Broken internal image reference ${img.src}`);
+                    showError(parsedFile.filename, img.sourceLocation, "VL002/missing-image-target", `Image source does not exist: ${img.src}`);
                     ++errors;
                 }
             }
@@ -65,7 +71,7 @@ const main = async () => {
                     : `${resolved.toLocaleLowerCase()}/`;
                 const isDirectory = lowercaseGitFiles.some((s) => s.startsWith(resolvedWithTrailingSlash));
                 if (!isFile && !isDirectory) {
-                    console.log(`error BROKEN-INTERNAL-LINK ${parsedFile.filename}:0 Link target does not exist: ${target}`);
+                    showError(parsedFile.filename, link.sourceLocation, "VL001/missing-link-target", `Link target does not exist: ${target}`);
                     ++errors;
                 }
             }

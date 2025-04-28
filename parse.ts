@@ -1,14 +1,17 @@
 import mit from "markdown-it";
 import type { Token } from "markdown-it/index.js";
+import { sourceLocationOf, type SourceLocation } from "./sourceLocation.js";
 
 export type ParsedLink = {
   readonly target: string;
   readonly content: string;
+  readonly sourceLocation: SourceLocation | null;
 };
 
 export type ParsedImage = {
   readonly src: string;
   readonly alt: string;
+  readonly sourceLocation: SourceLocation | null;
 };
 
 export type ParseResult = {
@@ -31,21 +34,26 @@ export const parse = (content: string): ParseResult => {
         );
 
         if (indexOfNextClose > index) {
+          const target = token.attrGet("href") as string;
           parsedLinks.push({
-            target: token.attrGet("href") as string,
+            target,
             content: tokens
               .slice(index + 1, indexOfNextClose)
               .map((t) => t.content)
               .join(""),
+            sourceLocation: sourceLocationOf(`(${target})`, content),
           });
         }
       }
 
-      if (token.type === "image")
+      if (token.type === "image") {
+        const src = token.attrGet("src") as string;
         parsedImages.push({
-          src: token.attrGet("src") as string,
+          src,
           alt: token.content,
+          sourceLocation: sourceLocationOf(`(${src})`, content),
         });
+      }
 
       if (token.children) scan(token.children);
     });

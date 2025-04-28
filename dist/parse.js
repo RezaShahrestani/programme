@@ -1,4 +1,5 @@
 import mit from "markdown-it";
+import { sourceLocationOf } from "./sourceLocation.js";
 export const parse = (content) => {
     const parser = mit();
     const tokens = parser.parse(content, {});
@@ -9,20 +10,25 @@ export const parse = (content) => {
             if (token.type === "link_open") {
                 const indexOfNextClose = tokens.findIndex((t2, i2) => i2 > index && t2.type === "link_close");
                 if (indexOfNextClose > index) {
+                    const target = token.attrGet("href");
                     parsedLinks.push({
-                        target: token.attrGet("href"),
+                        target,
                         content: tokens
                             .slice(index + 1, indexOfNextClose)
                             .map((t) => t.content)
                             .join(""),
+                        sourceLocation: sourceLocationOf(`(${target})`, content),
                     });
                 }
             }
-            if (token.type === "image")
+            if (token.type === "image") {
+                const src = token.attrGet("src");
                 parsedImages.push({
-                    src: token.attrGet("src"),
+                    src,
                     alt: token.content,
+                    sourceLocation: sourceLocationOf(`(${src})`, content),
                 });
+            }
             if (token.children)
                 scan(token.children);
         });

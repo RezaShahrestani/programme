@@ -5,4 +5,14 @@
 
 ## Modules
 
-### [HTML & CSS](./HTML-CSS)
+| Name                                                       | Weeks |
+| ---------------------------------------------------------- | ----- |
+| [HTML & CSS](./HTML-CSS)                                   | 1     |
+| [Git](../../legacy/git/git1/)                              | 1     |
+| [Javascript Foundation](./javascript-foundation/README.md) | 6     |
+| [Databases](./databases/)                                  | 1     |
+| [Introduction to backend / APIs](./intro-to-backend/)      | 1     |
+| [Team processes](./team-processes/)                        | 1     |
+| [Final project](./final-project/)                          | 2–3   |
+
+Total: 13—14 weeks.

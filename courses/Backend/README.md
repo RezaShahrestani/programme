@@ -11,6 +11,6 @@
 | Backend JavaScript stuff                                                   | ?     |
 | [Databases](./databases/)                                                  | 2     |
 | More JS stuff                                                              | ?     |
-| [Team processes advanced)](../../shared-modules/team-processes-advanced/)                            | 1     |
+| [Team processes advanced)](../../shared-modules/team-processes-advanced/)  | 1     |
 | [Final project](./final-project/)                                          | 3     |
-| [Career training](../../legacy/career-training/)                           | 3     |
+| [Career training](../../shared-modules/career-training-advanced/)          | 3     |

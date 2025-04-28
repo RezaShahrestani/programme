@@ -8,5 +8,12 @@
     "@types/markdown-it": "^14.1.2",
     "@types/node": "^22.14.1",
     "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "lint": "./lint",
+    "lint:fix": "./lint --fix",
+    "lint:validate-links": "./lint validate-links",
+    "lint:validate-links:watch": "node dist/watch.js ./lint validate-links",
+    "lint:watch": "node dist/watch.js ./lint"
   }
 }

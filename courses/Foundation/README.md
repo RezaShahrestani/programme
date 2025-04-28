@@ -14,5 +14,6 @@
 | [Introduction to backend / APIs](./intro-to-backend/)      | 1     |
 | [Team processes](./team-processes/)                        | 1     |
 | [Final project](./final-project/)                          | 2–3   |
+| [Career Training](./career-training/)                          | 2–3   |
 
 Total: 13—14 weeks.

@@ -12,7 +12,7 @@
 | [Javascript Foundation](./javascript-foundation/README.md) | 6     |
 | [Databases](./databases/)                                  | 1     |
 | [Introduction to backend / APIs](./intro-to-backend/)      | 1     |
-| [Team processes](./team-processes/)                        | 1     |
+| [Team processes](./team-processes-intro)                        | 1     |
 | [Final project](./final-project/)                          | 2–3   |
 | [Career Training](./career-training/)                          | 2–3   |
 

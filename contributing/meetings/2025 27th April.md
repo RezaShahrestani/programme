@@ -41,12 +41,12 @@ Also mega thanks to Natlia for putting together the proposal for splitting js/no
 3. Start splitting tasks up already...
 
 **Next steps:**
-Our plan should be to start getting content into the courses, small PRs, and easily to iterate later.
-So, create course outlines in the readmes, link to legacy content, make notes of new stuff to be added as stubs, etc.
-Create tickets for additional changes (e.g. final projects, or smaller stuff like "change exercises in module x)
-Note: Legacy modules should not be modified. Linking is fine for now, but we need to copy them over at some point, and if/when we want to modify the content, it's a good time to do that!
+* Our plan should be to start getting content into the courses, small PRs, and easily to iterate later.
+* So, create course outlines in the readmes, link to legacy content, make notes of new stuff to be added as stubs, etc.
+* Create tickets for additional changes (e.g. final projects, or smaller stuff like "change exercises in module x)
+* **Note: Legacy modules should not be modified.** Linking is fine for now, but we need to copy them over at some point, and if/when we want to modify the content, it's a good time to do that!
 
-**Goals for next time (2 weeks)**
+## Goals for next time (2 weeks)
 1. Foundation learning goal outline (according to the "next steps" just above)
 2. Implement JS split plan according to proposal, and any remaining "large" tasks written up on the board.
 

@@ -2,41 +2,59 @@
 
 set -eu
 
-if [ "${1:-}" == "--fix" ] ; then
-  npm exec -- markdownlint --ignore 'node_modules/' --fix '**/*.md'
-  npm exec -- prettier --write .
-else
-  trap '
-    if [ $? -ne 0 ] ; then
-      echo "Try '\''./lint --fix'\'' to see if any automatic fixes are possible"
+validate-links() {
+    echo "validate-links: RUN"
+    if npm exec -- node dist/validateLinks.js ; then
+      echo validate-links: PASS
+    else
+      echo validate-links: FAIL
+      return 1
     fi
-  ' 0
+}
 
-  rc=0
-
-  echo "validateLinks: ..."
-  if npm exec -- node dist/validateLinks.js ; then
-    echo validateLinks: PASS
-  else
-    echo validateLinks: FAIL
-    rc=1
-  fi
-
-  echo "markdownlint: ..."
+markdownlint() {
+  echo "markdownlint: RUN"
   if npm exec -- markdownlint --ignore 'node_modules/' '**/*.md' ; then
     echo "markdownlint: PASS"
   else
     echo "markdownlint: FAIL"
-    rc=1
+    return 1
   fi
+}
 
-  echo "prettier: ..."
+prettier() {
+  echo "prettier: RUN"
   if npm exec -- prettier --check . ; then
     echo "prettier: PASS"
   else
     echo "prettier: FAIL"
-    rc=1
+    return 1
+  fi
+}
+
+all() {
+  local rc=0
+  echo "lint: RUN"
+  validate-links || rc=1
+  markdownlint || rc=1
+  prettier || rc=1
+
+  if [ $rc -eq 0 ] ; then
+    echo "lint: PASS"
+  else
+    echo "lint: FAIL"
+    echo "Try '\''./lint --fix'\'' to see if any automatic fixes are possible"
   fi
 
-  exit $rc
+  return $rc
+}
+
+if [ "${1:-}" == "--fix" ] ; then
+  npm exec -- markdownlint --ignore 'node_modules/' --fix '**/*.md'
+  npm exec -- prettier --write .
+elif
+  [ "${1:-}" == "validate-links" ] ; then
+  validate-links
+else
+  all
 fi

@@ -8,7 +8,7 @@
 | Name                                                       | Weeks |
 | ---------------------------------------------------------- | ----- |
 | [HTML & CSS](./HTML-CSS)                                   | 1     |
-| [Git](../../legacy/git/git1/)                              | 1     |
+| [Git](./git)                              | 1     |
 | [Javascript Foundation](./javascript-foundation/README.md) | 6     |
 | [Databases](./databases/)                                  | 1     |
 | [Introduction to backend / APIs](./intro-to-backend/)      | 1     |

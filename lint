@@ -43,17 +43,16 @@ all() {
     echo "lint: PASS"
   else
     echo "lint: FAIL"
-    echo "Try '\''./lint --fix'\'' to see if any automatic fixes are possible"
+    echo "Try './lint --fix' to see if any automatic fixes are possible"
   fi
 
   return $rc
 }
 
 if [ "${1:-}" == "--fix" ] ; then
-  npm exec -- markdownlint --ignore 'node_modules/' --fix '**/*.md'
-  npm exec -- prettier --write .
-elif
-  [ "${1:-}" == "validate-links" ] ; then
+  npm exec -- markdownlint --ignore 'node_modules/' --fix '**/*.md' || :
+  npm exec -- prettier --write . || :
+elif [ "${1:-}" == "validate-links" ] ; then
   validate-links
 else
   all

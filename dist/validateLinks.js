@@ -3,15 +3,18 @@ import { readFile } from "node:fs/promises";
 import { parse } from "./parse.js";
 import path, { dirname, normalize } from "node:path/posix";
 import { isAbsolute } from "node:path";
-const findAllFilesInGit = async () => {
+const findAllFiles = async () => {
     return await new Promise((resolve, reject) => {
-        exec("git ls-files -z", (error, stdout, stderr) => {
+        exec("find . -mindepth 1 -name node_modules -prune -o -name .git -prune -o -print0", (error, stdout, stderr) => {
             if (error)
                 reject(error);
             if (stderr)
-                reject(new Error(`git ls-files outputted on stderr: ${stderr}`));
+                reject(new Error(`'find' outputted on stderr: ${stderr}`));
             else
-                resolve(stdout.split("\0").filter(Boolean));
+                resolve(stdout
+                    .split("\0")
+                    .filter(Boolean)
+                    .map((s) => s.substring(2)));
         });
     });
 };
@@ -34,7 +37,7 @@ const showError = (filename, sourceLocation, code, message) => {
 const externalLinkPattern = /^\w+:/;
 const isExternalLink = (t) => externalLinkPattern.test(t);
 const main = async () => {
-    const gitFiles = await findAllFilesInGit();
+    const gitFiles = await findAllFiles();
     // For now, we assume that there are no case clashes
     const lowercaseGitFiles = gitFiles.map((s) => s.toLocaleLowerCase());
     const markdownFilenames = findMarkdownFiles(gitFiles);

@@ -11,7 +11,7 @@ We want you to realise that **functions are just variables** in javascript. It i
 
 ## 1. Warmup
 
-### 1.1 codewars!
+### 1.1 CodeWars!
 
 - [7 kyu Product Array (Array Series #5)](https://www.codewars.com/kata/5a905c2157c562994900009d/javascript)
 
@@ -54,7 +54,7 @@ The warmup is a **little abstract**, it will get more concrete later on!
 
 ## 2. Function as a variable
 
-Create funtions that are used in these different ways:
+Create functions that are used in these different ways:
 
 - Create an array with 3 items. All items should be functions. Iterate through the array and call all the functions.
 - Create a function as a const and try creating a function normally. Call both functions. Read up on this if you are interested: <https://stackoverflow.com/questions/1013385/what-is-the-difference-between-a-function-expression-vs-declaration-in-javascrip>
@@ -80,7 +80,7 @@ You can implement it exactly like you want to, but here is my recommended order:
 
 1. **Create an input and a button in html**. When the button is clicked, get the value of the input. This value will be the amount of time the game should run.
 2. **Set a timeout for the time specified by the user.** After that time has run out just log out a simple string.
-3. **Create an event listener** so you can call a function **when any key is pressed**. Now grap the actual key that was pressed. Fx was it a `j` or an `i`. We are interested in `s` and `l`. Here google is your friend!
+3. **Create an event listener** so you can call a function **when any key is pressed**. Now grab the actual key that was pressed. For example, was it a `j` or an `i`. We are interested in `s` and `l`. Here google is your friend!
 4. **Keep a counter** for how many times `l` and `s` was pressed.
 5. **Now put it all together!** After the timeout is done figure out which of the counters is largest. Give some kind of feedback to the users indicating who won.
 
@@ -88,7 +88,7 @@ You can implement it exactly like you want to, but here is my recommended order:
 
 1. **Start a new game** functionality. Create some functionality so that the users can restart a game.
 2. Try and give the site some **styling so it looks nice** :)
-3. **Custom feature**. Add something unique to the game! If you dont know how to implement it, just describe what it should do!
+3. **Custom feature**. Add something unique to the game! If you don't know how to implement it, just describe what it should do!
 4. **Countdown to end of game** - _optional_. Have a countdown that simply counts down until the game is done.
 
 Here are some general things to consider:

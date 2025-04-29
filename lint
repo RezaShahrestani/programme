@@ -4,7 +4,7 @@ set -eu
 
 validate-links() {
     echo "validate-links: RUN"
-    if npm exec -- node dist/validateLinks.js ; then
+    if npm exec -- node support/dist/validateLinks.js ; then
       echo validate-links: PASS
     else
       echo validate-links: FAIL

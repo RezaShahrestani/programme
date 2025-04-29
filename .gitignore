@@ -1,3 +1,4 @@
 # Ignore hidden Mac OS directory files
 **/.DS_Store
 node_modules/
+support/dist/

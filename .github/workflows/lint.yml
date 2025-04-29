@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      - name: npm install
-        run: npm install
+      - name: Compile
+        run: npm install && npm run build
       - name: Run the linter
         run: ./lint

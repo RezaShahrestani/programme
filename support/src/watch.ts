@@ -3,7 +3,7 @@ import { watch } from "node:fs";
 
 const args = process.argv.slice(2);
 if (args.length === 0) {
-  console.error("Usage: node dist/watch.js COMMAND [ARGS...]");
+  console.error("Usage: node watch.js COMMAND [ARGS...]");
   process.exit(1);
 }
 

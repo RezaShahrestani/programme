@@ -13,13 +13,13 @@ These are some examples of previously created materials by mentors that you can 
 
 Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you don't have access, write to one from the core team. You can see an example below!
 
-To find examples of what teachers have taught before go to the class branches in the classwork folder, Fx [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
+To find examples of what teachers have taught before go to the class branches in the classwork folder, e.g. [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
 
 If you find anything that could be improved then please create a pull request! We welcome changes, so please get involved if you have any ideas!!!
 
 - Function as a variable - function can be called inside another function, like we saw with the home-made `forEach`
   - [Code inspiration](#calling-a-function-within-a-function)
-- Callback function and asynchronicity - shows a practical example of function that gets called by another function (fx `setTimeout` or `addEventListener`)
+- Callback function and asynchronicity - shows a practical example of function that gets called by another function (e.g. `setTimeout` or `addEventListener`)
   - [Code inspiration](#callback-functions)
 - Anonymous function vs named function
   - [Code inspiration](#anonymous-vs-named-function)
@@ -86,7 +86,7 @@ Events in javascript are thing like:
 A timer has just finished, a user clicked a button, our page has loaded,
 someone types into an input element or we have just gotten some data from a server.
 When these events happen, we usually want to add some functionality.
-Fx when a user clicks the like button (event), we want to increment the like counter and color the like button blue.
+For example, when a user clicks the like button (event), we want to increment the like counter and color the like button blue.
 Or when someone clicks "Close cookies" (event) we want to remove the cookie div.
 Lets first try to create some js that waits for 2 seconds and the console.logs out "2 seconds has elapsed!"
 In javascript we use an event listener to listen

@@ -19,11 +19,11 @@ If you struggle to do this weeks homework there are a couple of things to do:
 
 Create your own json file with something that **interests you**. Maybe that could be computers, pets, music etc.
 
-Remember to validate the json using a tool like fx this: <https://jsonlint.com/>
+Remember to validate the json using a tool like e.g. this: <https://jsonlint.com/>
 
 ## Find a cool api
 
-Find a cool api and **explain how it works** and what kind of **json data** the api responds with. Is it an array, an object, a string. How is the data structure. Is it fx an array of objects or how is it structured.
+Find a cool api and **explain how it works** and what kind of **json data** the api responds with. Is it an array, an object, a string. How is the data structure. Is it e.g. an array of objects or how is it structured.
 
 There are a few examples of apis here:
 <https://github.com/toddmotto/public-apis>

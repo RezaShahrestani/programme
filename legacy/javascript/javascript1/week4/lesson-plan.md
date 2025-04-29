@@ -7,7 +7,7 @@
 
 Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you don't have access, write to one from the core team. You can see an example below!
 
-To find examples of what teachers have taught before go to the class branches in the classwork folder, Fx [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
+To find examples of what teachers have taught before go to the class branches in the classwork folder, e.g. [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
 
 If you find anything that could be improved then please create a pull request! We welcome changes, so please get involved if you have any ideas!!!
 
@@ -74,7 +74,7 @@ When that works. Make the two number for multiples into parameters. So it can be
 
 A sentiment analyzer is some functionality that figures out how positive/negative a sentence is.
 
-Fx the sentence `I am mega super awesome happy" Should have a high score
+For example, the sentence `I am mega super awesome happy" Should have a high score
 The sentence "I hate doing boring stuff" should have a low score.
 
 Create a function that takes a string as a parameter. calling the function will return an object with `score`, `positiveWords` and `negativeWords`. You decide how the score should be implemented and what words are negative and positive.
@@ -96,7 +96,9 @@ console.log(sentimentScoreObject);
 
 ### Credit card number formatter
 
-This is a very real world example of a problem i got at my previous work. I was tasked to implement one of the smart credit card input fields, where the credit card numbers are separated with a space. Fx inputting 123456789 would show 1234 5678 9.
+This is a very real world example of a problem i got at my previous work. I
+was tasked to implement one of the smart credit card input fields, where the
+credit card numbers are separated with a space. e.g. inputting 123456789 would show 1234 5678 9.
 
 ![Credit card formatter](assets/credit-card-formatter.gif)
 

@@ -13,7 +13,7 @@ These are some examples of previously created materials by mentors that you can 
 
 Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you don't have access, write to one from the core team. You can see an example below!
 
-To find examples of what teachers have taught before go to the class branches in the classwork folder, Fx [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
+To find examples of what teachers have taught before go to the class branches in the classwork folder, e.g. [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
 
 If you find anything that could be improved then please create a pull request! We welcome changes, so please get involved if you have any ideas!!!
 
@@ -60,7 +60,7 @@ At this point good coding practices is starting to get very important! Check our
 ### Async/await - simple usage
 
 ```js
-// Warm up exercise. The students has to say everything they can about a variable, ONLY from the variable name. Fx the type, what it returns, what object we could expect etc.
+// Warm up exercise. The students has to say everything they can about a variable, ONLY from the variable name. e.g. the type, what it returns, what object we could expect etc.
 // cars, car, title, getTitle, addTitle, isTitle, hasTitle, hasItem, users, year, yearIndex, user, review.
 ```
 
@@ -253,7 +253,7 @@ Using async await
 Using promises
 
 1. `fetch` yes or no from this api: `https://yesno.wtf/api`. log out the answer
-2. Try fetching a url that rejects fx `https://knajskdskj.jasdk`. Log out the error message
+2. Try fetching a url that rejects e.g. `https://knajskdskj.jasdk`. Log out the error message
 
 ## Exercise 3
 

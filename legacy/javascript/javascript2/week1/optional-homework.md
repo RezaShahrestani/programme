@@ -38,7 +38,7 @@ notThisFunctionName(danishString2); // returns {total: 4, æ: 1, ø: 2, å: 1}
 
 ## 2. Spirit animal name generator
 
-Let's create a page where **a user writes his name** in an input element. The user then clicks a button. The user will now **receive a spirit animal name**, fx Benjamin - The fullmoon wolf.
+Let's create a page where **a user writes his name** in an input element. The user then clicks a button. The user will now **receive a spirit animal name**, e.g. Benjamin - The fullmoon wolf.
 
 ### 2.1. Markup time!
 
@@ -50,7 +50,7 @@ When the user clicks the button, get the name the user wrote in the input field.
 
 ### 2.3. Spirit animal part
 
-Now we can get the users name, next step is to **add the spirit animal string** and display that the users name, a dash and then the spirit animal. Fx Name: Peter: Peter - The crying butterfly
+Now we can get the users name, next step is to **add the spirit animal string** and display that the users name, a dash and then the spirit animal. e.g. Name: Peter: Peter - The crying butterfly
 For creating the spirit animal create an array with 10 string representing spirit animals. Now get a random item in the array that will represent the spirit animal.
 
 ### 2.4. New spirit animal

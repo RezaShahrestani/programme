@@ -24,7 +24,7 @@ If you already have such a repository, just go on to the next step.
 
 1. Once the repository has been made, head over to your terminal and clone that repository into a directory of your choosing.
 2. Once the repository been cloned to your computer, open the project folder in VS Code.
-3. Create a folder for your APIs or just create a file in the root of the repository. You might want to organize it into a folder (fx. “data”) if you plan to create more APIs in the future and/or if you plan to also host your site on Github Pages. In the case of your JS project, you would just copy and paste the array of objects that you have been using so far and perhaps add more objects to it, if needed.
+3. Create a folder for your APIs or just create a file in the root of the repository. You might want to organize it into a folder (e.g. “data”) if you plan to create more APIs in the future and/or if you plan to also host your site on Github Pages. In the case of your JS project, you would just copy and paste the array of objects that you have been using so far and perhaps add more objects to it, if needed.
 4. Once you are ready with your JSON file, add, commit and push the changes to `main` so that you have the file on your repository.
 5. Head over to the repo on GitHub and verify that your file is there and that all is good.
 

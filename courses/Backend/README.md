@@ -5,11 +5,12 @@
 
 ## Modules
 
-| Name                                                                       | Weeks |
-| -------------------------------------------------------------------------- | ----- |
-| [Collaboration via GitHub](../../shared-modules/collaboration-via-github/) | 1     |
-| Backend JavaScript stuff                                                   | ?     |
-| [Databases](./databases/)                                                  | 2     |
-| More JS stuff                                                              | ?     |
-| [Final project](./final-project/)                                          | 3     |
-| [Career training](../../legacy/career-training/)                           | 3     |
+| Name                                                                         | Weeks |
+| ---------------------------------------------------------------------------- | ----- |
+| [Collaboration via GitHub](../../shared-modules/collaboration-via-github/)   | 1     |
+| Backend JavaScript stuff                                                     | ?     |
+| [Databases](./databases/)                                                    | 2     |
+| More JS stuff                                                                | ?     |
+| [Team processes (advanced)](../../shared-modules/team-processes-advanced/)   | 1     |
+| [Final project](./final-project/)                                            | 3     |
+| [Career training (advanced)](../../shared-modules/career-training-advanced/) | 3     |

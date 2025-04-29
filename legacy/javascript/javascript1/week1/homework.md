@@ -110,7 +110,7 @@ Create a variable called `startupName` that will contain the created startup nam
 Using a random index (you choose) of the arrays and concatenation of strings, create and log the new startup name and the number of characters in it.
 An example could be: "The startup: "Easy Corporation" contains 16 characters"
 
-Hint: you can use this code to generate a random number from 0-9, if you dont want to specify the indexes yourself.
+Hint: you can use this code to generate a random number from 0-9, if you don't want to specify the indexes yourself.
 
 ```js
 const randomNumber = Math.floor(Math.random() * 10);
@@ -124,7 +124,7 @@ To be continued...
 
 ## Step 4: Hand in Homework
 
-We are going to be handing in homework using something called a **pull request (now PR)**. The reason for that is that **most companies use PR's** when they work with code. So you might aswell get used to it!
+We are going to be handing in homework using something called a **pull request (now PR)**. The reason for that is that **most companies use PRs** when they work with code. So you might as well get used to it!
 
 Watch [this video](https://www.youtube.com/watch?v=JcT4wmK1VcA) to go through the same process as is documented here
 

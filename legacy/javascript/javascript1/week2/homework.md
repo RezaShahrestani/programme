@@ -26,7 +26,7 @@ This will create and checkout the branch so you are ready make commits to it
 
 ## Why should I even do this homework?
 
-Functions and conditions are some of the basic building blocks of javascript. Functions ensure that we dont repeat ourselves when writing code. Conditions ensures that we can handle different cases when programming.
+Functions and conditions are some of the basic building blocks of javascript. Functions ensure that we don't repeat ourselves when writing code. Conditions ensures that we can handle different cases when programming.
 
 If you struggle to do this weeks homework there are a couple of things to do:
 

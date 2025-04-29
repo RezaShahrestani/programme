@@ -1,7 +1,7 @@
 # Lesson plan
 
 - Focus on having lots of in class exercises.
-- DONT teach everything, let the students investigate topics on their own aswell!
+- DON'T teach everything, let the students investigate topics on their own as well!
 - Focus on how to read documentation, google answers and google errors!!
 - Teach towards the students being able to solve the homework
 

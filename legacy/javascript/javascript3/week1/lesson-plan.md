@@ -1,7 +1,7 @@
 # Lesson plan
 
 - Focus on having lots of in class exercises.
-- DONT teach everything, let the students investigate topics on their own aswell!
+- DON'T teach everything, let the students investigate topics on their own as well!
 - Focus on how to read documentation, google answers and google errors!!
 - Teach towards the students being able to solve the homework
 
@@ -11,7 +11,7 @@ These are some examples of previously created materials by mentors that you can 
 
 - [Notion Page Handout](https://dandy-birth-1b2.notion.site/HYF-Aarhus-JS-3-Week-1-c6fd6d7243454ac0b519c17829bf8761?pvs=4) (by [Thomas](https://github.com/te-online))
 
-Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you dont have access, write to one from the core team. You can see an example below!
+Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you don't have access, write to one from the core team. You can see an example below!
 
 To find examples of what teachers have taught before go to the class branches in the classwork folder, Fx [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
 
@@ -30,7 +30,7 @@ If you find anything that could be improved then please create a pull request! W
   - [Exercise](#meal-ordering-website)
 - Apis
   - The focus should be on consuming api's with `get` method.
-  - Give an example of an api (preferably one with an accesstoken, showing that part aswell)
+  - Give an example of an API (preferably one with an access token, showing that part as well)
   - Explain conceptually what an api is (interface that hides abstraction). Explain how paths and query parameters work. Do not show how an api is implemented. We show that in the node class. Good analogy [here](https://www.reddit.com/r/webdev/comments/en04ct/i_created_a_word_suggestions_api_to_use_on_a/fdtmj60/)
   - [Code inspiration](#apis)
 - Fetch (No promise explanation! Focus on usage)
@@ -107,7 +107,7 @@ What is an interface?
 
 Programmers can use an api to access complex functionality in a simple way.
 Electricity socket. You just plug your appliance into the wall and it works.
-We dont have to worry about the wiring or anything. The complex functionality has been abstracted away.
+We don't have to worry about the wiring or anything. The complex functionality has been abstracted away.
 Web API's are like that, but just for getting data from a server.
 
 There are some funny apis to play with:

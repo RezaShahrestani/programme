@@ -17,9 +17,21 @@ export type ParsedImage = {
 export type ParseResult = {
   readonly links: readonly ParsedLink[];
   readonly images: readonly ParsedImage[];
+  readonly trailingWhitespace: readonly SourceLocation[];
 };
 
 export const parse = (content: string): ParseResult => {
+  const trailingWhitespace: SourceLocation[] = [];
+
+  content.split(/\n/).forEach((line, index) => {
+    if (line.endsWith(" ")) {
+      trailingWhitespace.push({
+        line0: index,
+        column0: line.trimEnd().length,
+      });
+    }
+  });
+
   const parser = mit();
   const tokens = parser.parse(content, {});
 
@@ -64,5 +76,6 @@ export const parse = (content: string): ParseResult => {
   return {
     links: parsedLinks,
     images: parsedImages,
+    trailingWhitespace,
   };
 };

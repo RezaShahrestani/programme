@@ -4,17 +4,26 @@ import { readFile } from "node:fs/promises";
 import { parse, type ParseResult } from "./parse.js";
 import path, { dirname, normalize } from "node:path/posix";
 import { isAbsolute } from "node:path";
+import type { SourceLocation } from "./sourceLocation.js";
 
 type ParsedFile = ParseResult & { readonly filename: string };
 
-const findAllFilesInGit = async (): Promise<string[]> => {
+const findAllFiles = async (): Promise<string[]> => {
   return await new Promise((resolve, reject) => {
-    exec("git ls-files -z", (error, stdout, stderr) => {
-      if (error) reject(error);
-      if (stderr)
-        reject(new Error(`git ls-files outputted on stderr: ${stderr}`));
-      else resolve(stdout.split("\0").filter(Boolean));
-    });
+    exec(
+      "find . -mindepth 1 -name node_modules -prune -o -name .git -prune -o -print0",
+      (error, stdout, stderr) => {
+        if (error) reject(error);
+        if (stderr) reject(new Error(`'find' outputted on stderr: ${stderr}`));
+        else
+          resolve(
+            stdout
+              .split("\0")
+              .filter(Boolean)
+              .map((s) => s.substring(2)), // Remove leading "./"
+          );
+      },
+    );
   });
 };
 
@@ -34,11 +43,23 @@ const scanForLinks = async (filenames: string[]): Promise<ParsedFile[]> => {
   );
 };
 
+const showError = (
+  filename: string,
+  sourceLocation: SourceLocation | null,
+  code: string,
+  message: string,
+) => {
+  const src = sourceLocation
+    ? `${sourceLocation.line0 + 1}:${sourceLocation.column0 + 1}`
+    : "0";
+  console.log(`${filename}:${src} ${code} ${message}`);
+};
+
 const externalLinkPattern = /^\w+:/;
 const isExternalLink = (t: string) => externalLinkPattern.test(t);
 
 const main = async () => {
-  const gitFiles = await findAllFilesInGit();
+  const gitFiles = await findAllFiles();
 
   // For now, we assume that there are no case clashes
   const lowercaseGitFiles = gitFiles.map((s) => s.toLocaleLowerCase());
@@ -56,8 +77,11 @@ const main = async () => {
         const exists = lowercaseGitFiles.includes(resolved.toLocaleLowerCase());
 
         if (!exists) {
-          console.log(
-            `error BROKEN-INTERNAL-IMAGE ${parsedFile.filename}:0 Broken internal image reference ${img.src}`,
+          showError(
+            parsedFile.filename,
+            img.sourceLocation,
+            "VL002/missing-image-target",
+            `Image source does not exist: ${img.src}`,
           );
           ++errors;
         }
@@ -90,8 +114,11 @@ const main = async () => {
         );
 
         if (!isFile && !isDirectory) {
-          console.log(
-            `error BROKEN-INTERNAL-LINK ${parsedFile.filename}:0 Link target does not exist: ${target}`,
+          showError(
+            parsedFile.filename,
+            link.sourceLocation,
+            "VL001/missing-link-target",
+            `Link target does not exist: ${target}`,
           );
           ++errors;
         }

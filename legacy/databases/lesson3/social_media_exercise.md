@@ -55,4 +55,4 @@ It should however **not** be possible for a user to react to something with the 
 
 ### Friendship
 
-Fx: User 1 is friends with user 2
+e.g. User 1 is friends with user 2

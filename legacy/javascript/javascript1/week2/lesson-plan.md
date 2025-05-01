@@ -7,7 +7,7 @@
 
 Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you don't have access, write to one from the core team. You can see an example below!
 
-To find examples of what teachers have taught before go to the class branches in the classwork folder, Fx [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
+To find examples of what teachers have taught before go to the class branches in the classwork folder, e.g. [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
 
 If you find anything that could be improved then please create a pull request! We welcome changes, so please get involved if you have any ideas!!!
 
@@ -38,7 +38,7 @@ If you find anything that could be improved then please create a pull request! W
   - [Exercise string logger](#for-loop-1)
   - [Exercise send emails](#send-emails)
 
-The students really struggle with the **return** value. What it means, how it is captured. What happens when nothing is returned etc. Try really hammering in this concept with lots of simple examples and exercises! Fx if a function is called get something. That means that something is returned from that function.
+The students really struggle with the **return** value. What it means, how it is captured. What happens when nothing is returned etc. Try really hammering in this concept with lots of simple examples and exercises! e.g. if a function is called get something. That means that something is returned from that function.
 
 Zoey Zou made a nice Notion lesson plan here: <https://www.notion.so/JS1-Week2-8f2d4b7e7ba0425ea4a9e97816e9ceb7>
 

@@ -7,7 +7,7 @@
 - [ ] Global vs local scope
 - [ ] For loop
 
-Teaching note. Start off explaining functions with how to use a function fx explain why the Math.random function is smart, or Math.max.
+Teaching note. Start off explaining functions with how to use a function e.g. explain why the Math.random function is smart, or Math.max.
 
 ## Relevant links
 
@@ -78,7 +78,7 @@ console.log(randomNumber); // logs out some number between 0 and 1
 
 Here `Math.random` is a function. To activate the function we call it using parentheses `()`. When calling it we get a randomNumber! We now don't need to think about all the code it takes to create a random number in javascript, we simply call the function and get a random number. Code has been abstracted away for us!
 
-Some functions is called with arguments fx:
+Some functions is called with arguments, for example:
 
 ```js
 const maxNumber = Math.max(3, 5); // 3 and 5 are arguments
@@ -142,7 +142,7 @@ multiply(10 * 4);
 
 ##### Return value
 
-Sometimes we want to get a value back when calling a function. Fx in the sum example. We want to call the function and get the sum back!
+Sometimes we want to get a value back when calling a function. e.g. in the sum example. We want to call the function and get the sum back!
 
 ```js
 function sum(a, b) {

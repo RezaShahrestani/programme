@@ -4,7 +4,7 @@
 
 Array's has lots of helper functions, that is used all the time when developing js applications. It is super helpful to be able to **manipulate an array** like **removing elements** or **adding elements** at specific indexes. Another helpful function of arrays is to know **where a specific item is** in the array.
 
-Objects can be used for **representing data** and it can **help structure your code**. An object can fx represent a user that has a firstname, surname, profile picture and a list of friends. It is constantly used in javascript and **essential to learning the language**.
+Objects can be used for **representing data** and it can **help structure your code**. An object can e.g. represent a user that has a firstname, surname, profile picture and a list of friends. It is constantly used in javascript and **essential to learning the language**.
 
 If you struggle to do this weeks homework there are a couple of things to do:
 

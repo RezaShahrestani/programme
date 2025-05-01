@@ -13,7 +13,7 @@ These are some examples of previously created materials by mentors that you can 
 
 Remember to add the code you wrote in the class to the relevant class's work folder on a branch. If the branch has not been created just create and push it :) If you don't have access, write to someone from the core team. You can see an example below!
 
-To find examples of what teachers have taught before, go to the class branches in the classwork folder, Fx [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
+To find examples of what teachers have taught before, go to the class branches in the classwork folder, e.g. [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
 
 If you find anything that could be improved, please create a pull request! We welcome changes, so please get involved if you have any ideas!!!
 
@@ -353,11 +353,11 @@ Rewrite the code above (`forEach`, `map` and `filter`) to arrow functions.
 
 ### Listing project
 
-Imagine we have a website like <https://danskebank.dk/bolig/sogning?sorter=hoejt-forbrug> where a user can search for different parameters. Fx What type the listing should be, the price, size, location etc etc.
+Imagine we have a website like <https://danskebank.dk/bolig/sogning?sorter=hoejt-forbrug> where a user can search for different parameters. e.g. What type the listing should be, the price, size, location etc etc.
 
 #### Filter listings
 
-If a user fx click on a button indicating that the user only wants listings that are of the type farm. Lets try and imagine how we would use a function to create this functionality:
+If a user e.g. click on a button indicating that the user only wants listings that are of the type farm. Lets try and imagine how we would use a function to create this functionality:
 
 ```js
 const listings = generateListings(20);

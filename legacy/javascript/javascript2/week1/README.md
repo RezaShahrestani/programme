@@ -127,7 +127,7 @@ Events in JavaScript are things like:
 A timer has just finished, a user clicked a button, our page has loaded,
 someone types into an input element or we have just gotten some data from a server.
 When these events happen, we usually want to add some functionality.
-Fx when a user clicks the like button (event), we want to increment the like counter and color the like button blue.
+For example, when a user clicks the like button (event), we want to increment the like counter and color the like button blue.
 Or when someone clicks "Close cookies" (event) we want to remove the cookie div.
 
 Lets first try to create some js that waits for 2 seconds and the console.logs out "2 seconds has elapsed!"

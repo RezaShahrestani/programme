@@ -36,9 +36,9 @@ These are the commands you should be able to give the voice assistant:
 - `Add fishing to my todo` - Should respond with "fishing added to your todo". Should add fishing to a list of todos
 - `Add singing in the shower to my todo` - Should add singing in the shower to a list of todos
 - `Remove fishing from my todo` - Should respond with "Removed fishing from your todo"
-- `What is on my todo?` - should respond with the todos. Fx you have 2 todos - fishing and singing in the shower
+- `What is on my todo?` - should respond with the todos. e.g. you have 2 todos - fishing and singing in the shower
 - `What day is it today?` - Should respond with the date in a human readable format. E.g. if today is 30/8/2019 then it should respond with 30. of August 2019
-- Should be able to do simple math. fx `what is 3 + 3` should respond with 6. Or `what is 4 * 12` should respond with 48
+- Should be able to do simple math. e.g. `what is 3 + 3` should respond with 6. Or `what is 4 * 12` should respond with 48
 - `Set a timer for 4 minutes` - Should respond with "Timer set for 4 minutes". When 4 minutes is up: "Timer done". How do we set a timer in js? Google is your friend here!
 - Add one or more command to your voice assistant
 

@@ -44,7 +44,7 @@ Here is the analogy in a quick writeup:
 
 There is a a man called mr. X. You can call him with any problem and he will answer your right away. He picks up the phone and answers RIGHT away. This is like synchronous js code. It runs right away, no waiting.
 
-Now mr. X gets lots of calls. Therefore he hires a person to take his calls. This guy passes on a message to mr x once he is completely free. So now when you call mr. X you leave his assistant a message and then wait for his assistant to call back. Once Mr x is done with all his other calls his assistant calls you back with mr x's answer. This is like asynchronous js code. We now have to wait for our answer. You ask for some task to get done with a callback function, fx log "hello" after one second. Once one second has elapsed javascript runs your callback function.
+Now mr. X gets lots of calls. Therefore he hires a person to take his calls. This guy passes on a message to mr x once he is completely free. So now when you call mr. X you leave his assistant a message and then wait for his assistant to call back. Once Mr x is done with all his other calls his assistant calls you back with mr x's answer. This is like asynchronous js code. We now have to wait for our answer. You ask for some task to get done with a callback function, e.g. log "hello" after one second. Once one second has elapsed javascript runs your callback function.
 
 ### Synchronous
 

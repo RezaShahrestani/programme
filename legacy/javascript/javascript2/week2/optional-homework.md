@@ -72,9 +72,9 @@ Copy the movies array in the [movies](optional-homework/movies.js) file. Use thi
 4. Create a new array that has an **extra key called tag**. The tag is based on the rating: Good (>= 7), Average (>= 4 and < 7), Bad (< 4)
 5. **Using [chaining](readme.md#chaining)**, first filter the movies array to only contain the movies rated higher than 6. Now map the movies array to only the rating of the movies.
 6. **Count the total number of movies** containing any of following keywords: `Surfer`, `Alien` or `Benjamin`. So if there were 3 movies that contained `Surfer`, 1 with `Alien` and 2 with `Benjamin`, you would return 6. Can you make sure the search is case insensitive?
-7. Create an array of movies where a **word in the title is duplicated**. Fx "Star **Wars**: The Clone **Wars**" the word **Wars** is duplicated. Here are some madeup examples of movies with duplicated words in the title: "**The** three men and **the** pistol", "**Chase** three - The final **chase**"
+7. Create an array of movies where a **word in the title is duplicated**. e.g. "Star **Wars**: The Clone **Wars**" the word **Wars** is duplicated. Here are some madeup examples of movies with duplicated words in the title: "**The** three men and **the** pistol", "**Chase** three - The final **chase**"
 8. Calculate the **average rating** of all the movies using [reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce). _Optional_
-9. **Count the total number** of Good, Average and Bad movies using [reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce). A return could fx be `{goodMovies: 33, averageMovies: 45, goodMovies: 123}` _Optional_
+9. **Count the total number** of Good, Average and Bad movies using [reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce). A return could e.g. be `{goodMovies: 33, averageMovies: 45, goodMovies: 123}` _Optional_
 
 ## 2. hyfBay - get the okay'est products here - continued
 
@@ -86,7 +86,7 @@ A very normal usecase for a product site is that a **user wants to search for so
 
 BUT first lets figure out what happens on a conceptual level, when a user filters some products:
 
-1. Some kind of **event happens**, fx a user searches for a product, we need to listen for that event
+1. Some kind of **event happens**, e.g. a user searches for a product, we need to listen for that event
 2. When that event happens we need to **filter the products** the user wants
 3. Then we should **render those products**
 
@@ -128,6 +128,6 @@ No matter how small or how big. Create some feature that would be **cool/helpful
 
 ### 2.6 Sort the products - _optional_
 
-This task is more open ended! So you need to come up with fx how the user should interact with the functionality.
+This task is more open ended! So you need to come up with e.g. how the user should interact with the functionality.
 
-Give the user the possibility to sort the products. That could fx be on price, name, rating or all of the above!
+Give the user the possibility to sort the products. That could e.g. be on price, name, rating or all of the above!

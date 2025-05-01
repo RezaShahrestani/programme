@@ -132,7 +132,7 @@ Or when someone clicks "Close cookies" (event) we want to remove the cookie div.
 
 Lets first try to create some js that waits for 2 seconds and the console.logs out "2 seconds has elapsed!"
 
-In JavaScript we use the word eventlistener to listen
+In JavaScript we use an _event listener_ to listen:
 
 ```javascript
 setTimeout(function () {
@@ -149,9 +149,9 @@ setTimeout(fourSecondLog, 4000);
 
 Now lets try and log out "button clicked!" when a button is clicked.
 
-To check if a button gets clicked we use a what is called an eventlistener.
+To check if a button gets clicked we use a what is called an _event listener_.
 
-Imagine a person listening to the click of a button and everytime he hears a click he yells out "CLICKED".
+Imagine a person listening to the click of a button and every time he hears a click he yells out "CLICKED".
 
 ```javascript
 const buttonElement = document.querySelector("button");

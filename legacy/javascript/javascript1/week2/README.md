@@ -76,7 +76,7 @@ const randomNumber = Math.random();
 console.log(randomNumber); // logs out some number between 0 and 1
 ```
 
-Here `Math.random` is a function. To activate the function we call it using paranthesis `()`. When calling it we get a randomNumber! We now dont need to think about all the code it takes to create a random number in javascript, we simply call the function and get a random number. Code has been abstracted away for us!
+Here `Math.random` is a function. To activate the function we call it using parentheses `()`. When calling it we get a randomNumber! We now don't need to think about all the code it takes to create a random number in javascript, we simply call the function and get a random number. Code has been abstracted away for us!
 
 Some functions is called with arguments fx:
 
@@ -101,7 +101,7 @@ function checkItem() {
 }
 
 // use the function by calling it using ()
-// If we dont call the function that code will NEVER EVER IN A MILLION YEARS run!
+// If we don't call the function that code will NEVER EVER IN A MILLION YEARS run!
 checkItem();
 console.log(todoItem);
 ```
@@ -151,7 +151,7 @@ function sum(a, b) {
 const returnedSum = sum(5, 10); // the variable returnedSum captures the return value from calling the function!
 console.log(returnedSum); // logs 15
 
-// If we dont return, we cannot capture the returned value!
+// If we don't return, we cannot capture the returned value!
 function sumNoReturn(a, b) {
   a + b; // no return!
 }
@@ -159,7 +159,7 @@ const returnedSum = sum(5, 10);
 console.log(returnedSum); // logs undefined
 ```
 
-If we dont return anything from the function, it will automatically return `undefined`. This is the functions way of saying that nothing was returned.
+If we don't return anything from the function, it will automatically return `undefined`. This is the functions way of saying that nothing was returned.
 
 ### Calling a function on something
 

@@ -1,11 +1,11 @@
 # Lesson plan
 
 - Focus on having lots of in class exercises.
-- DONT teach everything, let the students investigate topics on their own aswell!
+- DON'T teach everything, let the students investigate topics on their own as well!
 - Focus on how to read documentation, google answers and google errors!!
 - Teach towards the students being able to solve the homework
 
-Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you dont have access, write to one from the core team. You can see an example below!
+Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you don't have access, write to one from the core team. You can see an example below!
 
 To find examples of what teachers have taught before go to the class branches in the classwork folder, Fx [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
 
@@ -118,7 +118,7 @@ function checkItem() {
 }
 
 // use the function by calling it using ()
-// If we dont call the function that code will NEVER EVER IN A MILLION YEARS run!
+// If we don't call the function that code will NEVER EVER IN A MILLION YEARS run!
 checkItem();
 console.log(todoItem);
 
@@ -148,7 +148,7 @@ function sum(a, b) {
 const returnedSum = sum(5, 10); // the variable returnedSum captures the return value from calling the function!
 console.log(returnedSum); // logs 15
 
-// If we dont return, we cannot capture the returned value!
+// If we don't return, we cannot capture the returned value!
 function sumNoReturn(a, b) {
   a + b; // no return!
 }
@@ -256,9 +256,9 @@ const balance = 1000;
 
 ### Function
 
-Create a function called `getCircleArea`. It should have the `radius` of the circle as parameter and return the circle area. What happens if we dont return anything in the function?
+Create a function called `getCircleArea`. It should have the `radius` of the circle as parameter and return the circle area. What happens if we don't return anything in the function?
 
-Create a function called `celciusToFahreneit` it should have a parameter called `celcius`. It should return the temperature in fahrenheit.
+Create a function called `celsiusToFahrenheit` it should have a parameter called `celsius`. It should return the temperature in fahrenheit.
 
 Try call the function and check with google if the function returns the right value.
 
@@ -307,16 +307,16 @@ logString("hello", 3);
 
 ### Send emails
 
-Imagine we work at a company. Peter from the HR department wants us to send out a couple of emails to some recepients. The only problem is that he sent us the email in a weird format: `benjamin@gmail.com|peter@gmail.com|hans@gmail.com|ahmad@gmail.com|sana@gmail.com|virgeen@gmail.com|mohammed@gmail.com`
+Imagine we work at a company. Peter from the HR department wants us to send out a couple of emails to some recipients. The only problem is that he sent us the email in a weird format: `benjamin@gmail.com|peter@gmail.com|hans@gmail.com|ahmad@gmail.com|sana@gmail.com|virgeen@gmail.com|mohammed@gmail.com`
 
-Use the `sendEmailTo` function to send an email to all the recepients that we got from Peter.
+Use the `sendEmailTo` function to send an email to all the recipients that we got from Peter.
 
 _Hint_ use the `.split` method and look up `iterating an array js for loop` on google.
 
 ```js
-// This function emulates sending emails to receipients
-function sendEmailTo(recepient) {
+// This function emulates sending emails to recipients
+function sendEmailTo(recipient) {
   // But really it only logs out a string
-  console.log("email sent to " + recepient);
+  console.log("email sent to " + recipient);
 }
 ```

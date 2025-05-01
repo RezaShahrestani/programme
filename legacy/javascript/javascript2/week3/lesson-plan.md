@@ -7,21 +7,21 @@ These are some examples of previously created materials by mentors that you can 
 - [Notion Page Handout](https://dandy-birth-1b2.notion.site/HYF-Aarhus-JS-2-Week-3-6bce73b3a0bf47a3ad32ed12ee4d0519?pvs=4) (by [Thomas](https://github.com/te-online))
 
 - Focus on having lots of in class exercises.
-- DONT teach everything, let the students investigate topics on their own aswell!
+- DON'T teach everything, let the students investigate topics on their own as well!
 - Focus on how to read documentation, google answers and google errors!!
 - Teach towards the students being able to solve the homework
 
-Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you dont have access, write to one from the core team. You can see an example below!
+Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you don't have access, write to one from the core team. You can see an example below!
 
 To find examples of what teachers have taught before go to the class branches in the classwork folder, Fx [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
 
 If you find anything that could be improved then please create a pull request! We welcome changes, so please get involved if you have any ideas!!!
 
-- Function as a variable - function can be called inside another function, like we saw with the homemade `forEach`
+- Function as a variable - function can be called inside another function, like we saw with the home-made `forEach`
   - [Code inspiration](#calling-a-function-within-a-function)
-- Callback function and asyncronicity - shows a practical example of function that gets called by another function (fx `setTimeout` or `addEventListener`)
+- Callback function and asynchronicity - shows a practical example of function that gets called by another function (fx `setTimeout` or `addEventListener`)
   - [Code inspiration](#callback-functions)
-- Anonomyous function vs named function
+- Anonymous function vs named function
   - [Code inspiration](#anonymous-vs-named-function)
 - [Exercise 1](#click-counter), [exercises 2](#delay-clicker), [exercise 3](#page-onload), [exercises 4](#mouse-position)
 - Scope - Only if the students needs this! Ask to their abilities!
@@ -31,8 +31,8 @@ The students should after the class **feel comfortable with callback functions**
 Also hammer in the point of the difference between:
 
 ```js
-document.querySelector("button").addEventListner("click", logOuttext);
-document.querySelector("button").addEventListner("click", logOuttext());
+document.querySelector("button").addEventListener("click", logOuttext);
+document.querySelector("button").addEventListener("click", logOuttext());
 ```
 
 Good example of practical example of callbacks: <https://github.com/HackYourFuture-CPH/JavaScript/blob/class08/JavaScript2/Week5/classwork/extra_examples.md>
@@ -51,7 +51,7 @@ This is super good at explaining function logic
 ### Calling a function within a function
 
 ```js
-// Here we create a funtion that as a parameter takes a function!! Super weird right!?
+// Here we create a function that as a parameter takes a function!! Super weird right!?
 // Functions works just like any other type in js.
 function functionRunner(functionToRun) {
   console.log(typeof functionToRun);
@@ -63,7 +63,7 @@ functionRunner(function () {
   console.log("hello");
 });
 
-// We dont see anything, why??
+// We don't see anything, why??
 functionRunner(Math.random);
 
 // Lets rewrite functionRunner to log out the return of a function
@@ -89,7 +89,7 @@ When these events happen, we usually want to add some functionality.
 Fx when a user clicks the like button (event), we want to increment the like counter and color the like button blue.
 Or when someone clicks "Close cookies" (event) we want to remove the cookie div.
 Lets first try to create some js that waits for 2 seconds and the console.logs out "2 seconds has elapsed!"
-In javascript we use the word eventlistener to listen
+In javascript we use an event listener to listen
 */
 
 // Tried to find actual webkit implementation, but failed. To show that the setTimeout implementation is just calling the provided function after a given time
@@ -105,8 +105,8 @@ const fourSecondLog = function () {
 setTimeout(fourSecondLog, 4000);
 
 // Now lets try and log out "button clicked!" when a button is clicked.
-// To check if a button gets clicked we use a what is called an eventlistener.
-// Imagine a person listening to the click of a button and everytime he hears a click he yells out "CLICKED".
+// To check if a button gets clicked we use a what is called an event listener.
+// Imagine a person listening to the click of a button and every time he hears a click he yells out "CLICKED".
 const buttonElement = document.querySelector("button");
 buttonElement.addEventListener("click", function () {
   console.log("Button clicked!");

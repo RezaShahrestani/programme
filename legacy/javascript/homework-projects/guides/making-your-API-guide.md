@@ -30,7 +30,7 @@ If you already have such a repository, just go on to the next step.
 
 ![See the JSON file](../assets/API-guide-2.png)
 
-❗Be mindful about your data format. Note wether you should use an object or an array of objects and form your file accordingly.
+❗Be mindful about your data format. Note whether you should use an object or an array of objects and form your file accordingly.
 
 ### Using the API
 

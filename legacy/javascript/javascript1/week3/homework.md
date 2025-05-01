@@ -185,7 +185,7 @@ logOutNotesFormatted(); // should log out the text below
 
 Suddenly you get this great idea for making the note app even better!
 
-Come up with a unique feature **you think would make this app better.** Write down the idea and see if you can implement it. If not dont worry :) If it is too hard to implement try and ask in the slack channel :)
+Come up with a unique feature **you think would make this app better.** Write down the idea and see if you can implement it. If not don't worry :) If it is too hard to implement try and ask in the slack channel :)
 
 Try an **interactive version 💻 of your code** [here](https://codepen.io/dalsHughes/pen/poJGejX). Remember to insert your code in the top of the codepen :)
 
@@ -244,7 +244,7 @@ Come up with one feature you think would be helpful for this program.
 
 Optional
 
-- Lets improve the `addActivity`, so that we dont need to specify the date, but the function automatically figures out what the date is. Check out this link: <https://stackoverflow.com/a/34015511>
+- Lets improve the `addActivity`, so that we don't need to specify the date, but the function automatically figures out what the date is. Check out this link: <https://stackoverflow.com/a/34015511>
 - Improve the `showStatus` function by only showing the number of actitivies for that specific day.
 - Create a function for calculating the activity a user has spent the most time on.
 

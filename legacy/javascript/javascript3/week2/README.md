@@ -19,7 +19,7 @@ const fastCarBrands = cars
   .map((car) => car.brand);
 ```
 
-We can chain promise function aswell, and it works exactly like with chaining array methods or chaining anything in js. We use the return of calling the previous function:
+We can chain promise function as well, and it works exactly like with chaining array methods or chaining anything in js. We use the return of calling the previous function:
 
 ```js
 doesBenjaminEndWithN = "BENJAMIN"

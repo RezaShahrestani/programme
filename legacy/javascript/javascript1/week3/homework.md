@@ -86,7 +86,7 @@ const seriesDurations = [
 
 How much time of my life have i been watching series on tv? Lets find out! Calculate **how much time a tv series** have taken as a **percentage of an average lifespan** of 80 years.
 
-Firstly change the `seriesDurations` array found above to include your favorite series. Find the duration of a series here: <http://tiii.me/>
+Firstly change the `seriesDurations` array found above to include your favorite series. Find the duration of a series here: <https://tiii.me/>
 
 Create a function that logs out the following text using the `seriesDurations` array:
 

@@ -47,7 +47,7 @@ Remember that there is a very big difference between `obj[name]` and `obj["name"
 When a function is called it is pushed to the call stack.
 When a function is finished the function gets shifted from the call stack.
 
-Visualize here: <http://latentflip.com/loupe>
+Visualize here: <http://latentflip.com/loupe> <!-- no-https -->
 
 ```js
 function pickUpKids() {

@@ -42,7 +42,7 @@ game changer, so it’s good for you if you at least know what it is :slightly_s
 
 ## Reference Material
 
-- [TutorialsPoint MySQL Introduction](http://www.tutorialspoint.com/mysql/mysql-introduction.htm)
+- [TutorialsPoint MySQL Introduction](https://www.tutorialspoint.com/mysql/mysql-introduction.htm)
 - [w3schools tutorial (easy to find how specific commands work)](https://www.w3schools.com/sql/default.asp)
 - [Official MySQL Documentation](https://dev.mysql.com/doc/refman/8.0/en/)
 - [Official MySQL Tutorial (pretty dense)](https://dev.mysql.com/doc/refman/8.0/en/tutorial.html)

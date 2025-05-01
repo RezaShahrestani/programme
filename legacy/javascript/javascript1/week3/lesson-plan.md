@@ -31,7 +31,7 @@ If you find anything that could be improved then please create a pull request! W
 - [Codewar exercises](#codewar-exercises)
 - Call stack
   - Used for figuring code flow in js! Where does my function go when it is done here.
-  - <http://latentflip.com/loupe>
+  - <http://latentflip.com/loupe> <!-- no-https -->
   - [Code inspiration](#inspiration-call-stack)
   - [Exercise](#exercise-call-stack)
 

@@ -6,9 +6,9 @@ Objective: the students should be able to build CRUD functionality using SQL sta
 
 ## Pre-Class Readings
 
-- [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+- [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [What is a Database Foreign Key](https://www.educative.io/blog/what-is-foreign-key-database)
-- [Example Entity Relationship Diagram (including associative entities)](http://users.csc.calpoly.edu/~jdalbey/308/Lectures/HOWTO-ERD.html)
+- [Example Entity Relationship Diagram (including associative entities)](https://users.csc.calpoly.edu/~jdalbey/308/Lectures/HOWTO-ERD.html)
 
 The students should watch this video before class: <https://youtu.be/9hTKUT_SZWU>
 
@@ -33,8 +33,8 @@ The students should watch this video before class: <https://youtu.be/9hTKUT_SZWU
 
 ## Reference Material
 
-- [Floating Point Inaccuracy](http://stackoverflow.com/questions/2100490/floating-point-inaccuracy-examples#2100502)
-- [TutorialsPoint MySQL Introduction](http://www.tutorialspoint.com/mysql/mysql-introduction.htm)
+- [Floating Point Inaccuracy](https://stackoverflow.com/questions/2100490/floating-point-inaccuracy-examples#2100502)
+- [TutorialsPoint MySQL Introduction](https://www.tutorialspoint.com/mysql/mysql-introduction.htm)
 - [w3schools tutorial (easy to find how specific commands work)](https://www.w3schools.com/sql/default.asp)
 - [Official MySQL Documentation](https://dev.mysql.com/doc/refman/8.0/en/)
 

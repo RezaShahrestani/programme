@@ -41,7 +41,7 @@ If you open that URL in the browser you will see “hello world” (without any 
 This is a very basic example of an express application. There many parameters to tweak and cases to take into consideration.
 One of the first things we’d like to do in a typical Express application is to not return strings or HTML, but instead use JSON as the transport encoding format. Meaning we accept JSON in requests and we can respond with JSON formatted data.
 
-There are a few good extensions or middleware that is easy to plug into express and allows us to tweak and change some of the parts of the webserver. Some of these middleware extensions include body-parser, compression, cors, errorhandler - find the full list here: <http://expressjs.com/en/resources/middleware.html>.
+There are a few good extensions or middleware that is easy to plug into express and allows us to tweak and change some of the parts of the webserver. Some of these middleware extensions include body-parser, compression, cors, errorhandler - find the full list here: <https://expressjs.com/en/resources/middleware.html>.
 
 ## More resources
 

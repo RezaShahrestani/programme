@@ -143,7 +143,7 @@ For this week's homework, we will add two categories of routes: meals and reserv
 - The reservation routes will live in `/api/src/routers/reservations.js`
 
 This means that we will end up having two Routers: a meals router and a reservations router.
-You can read more about Express Routers [here](http://expressjs.com/en/4x/api.html#router).
+You can read more about Express Routers [here](https://expressjs.com/en/4x/api.html#router).
 
 You can reference the file `/api/src/routers/nested.js` for an example, and see how it is used in `/api/src/index.js`.
 

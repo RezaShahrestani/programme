@@ -113,7 +113,7 @@ Single line comments at end of the line:
 const x = 5; // Declare x, give it the value of 5
 ```
 
-Writing js documentation: [JSDoc](http://usejsdoc.org/)
+Writing js documentation: [JSDoc](https://usejsdoc.org/) <!-- http-trash -->
 
 ### When to comment?
 

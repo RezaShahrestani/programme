@@ -112,7 +112,7 @@ Web API's are like that, but just for getting data from a server.
 
 There are some funny apis to play with:
 
-- <http://deckofcardsapi.com/>
+- <https://deckofcardsapi.com/>
 - <https://github.com/toddmotto/public-apis>
 
 This incredibly unique service generates true random numbers by measuring quantum fluctuations of a vacuum in real-time!
@@ -148,7 +148,7 @@ Think about what what type the data should be saved as!
 
 ## Astronauts in space
 
-Use [this api](http://api.open-notify.org/astros.json) to fetch how many astronauts are currently in spaces.
+Use [this api](http://api.open-notify.org/astros.json) <!-- no-https--> to fetch how many astronauts are currently in spaces.
 
 Add the following text to the DOM, using the data about astronauts:
 

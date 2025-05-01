@@ -97,7 +97,7 @@ export default class BugChallenge {
     }
 
     fetch({
-      url: "http://www.example.com",
+      url: "https://www.example.com",
       useCaching: false,
     });
   }

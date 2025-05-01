@@ -25,7 +25,7 @@ A "variable" is a place where you can store information, such as a string, or a 
 > Think of variables names like **labels** on boxes, while the value of the variable are the **contents** of the box - you could change the contents of a box and leave the label intact, the contents of the boxes can have different types, the boxes should have good labels (a box of books being labeled pens would be very confusing),
 >
 > ![Variables are like boxes](./assets/box.png)
-> Photo from [Khan Academy](http://cs-blog.khanacademy.org/2013/09/teaching-variables-analogies-and.html)
+> Photo from [Khan Academy](https://cs-blog.khanacademy.org/2013/09/teaching-variables-analogies-and.html)
 
 ### Variable declaration
 
@@ -41,7 +41,7 @@ const bar;
 
 - read about [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 - read about [const](https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Statements/const)
-- [let vs const](http://wesbos.com/let-vs-const/)
+- [let vs const](https://wesbos.com/let-vs-const/)
 
 Here, we say: "declare variable x and initialize it with the integer (number) 5".
 

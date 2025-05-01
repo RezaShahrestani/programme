@@ -82,7 +82,7 @@ First setTimeout is added to the call stack. The call stack hands it over to the
 
 When the timer is expired it sends the callback of our setTimeout function to the eventloop. The eventloop then works like this: if the call stack is empty it will take the first thing in the event loop and add it to the call stack. When it is added to the call stack it is javascript call stack business as usual. Call the function and pop it from the call stack.
 
-This is perfectly visualised here: <http://latentflip.com/loupe>
+This is perfectly visualised here: <http://latentflip.com/loupe> <!-- no-https -->
 
 ### So why do we have async code in js?
 

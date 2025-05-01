@@ -28,10 +28,7 @@ const findAllFiles = async (): Promise<string[]> => {
 };
 
 const findMarkdownFiles = (files: string[]): string[] => {
-  const ignorePattern = /^(README|LICENSE|contributing\/)/;
-  return files.filter(
-    (f) => f.toLocaleLowerCase().endsWith(".md") && !ignorePattern.test(f),
-  );
+  return files.filter((f) => f.toLocaleLowerCase().endsWith(".md"));
 };
 
 const scanForLinks = async (filenames: string[]): Promise<ParsedFile[]> => {
@@ -70,6 +67,16 @@ const main = async () => {
   let errors = 0;
 
   for (const parsedFile of parsedFiles) {
+    for (const ws of parsedFile.trailingWhitespace) {
+      showError(
+        parsedFile.filename,
+        ws,
+        "VL003/trailing-whitespace",
+        "Trailing whitespace",
+      );
+      ++errors;
+    }
+
     for (const img of parsedFile.images) {
       if (!isExternalLink(img.src)) {
         const resolved = path.join(dirname(parsedFile.filename), img.src);

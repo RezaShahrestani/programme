@@ -1,14 +1,14 @@
-# Homework
+# Assignment
 
 ![Hacking](https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif)
 
-## Step 1: Before you start with the homework
+## Step 1: Before you start with the assignment
 
 1. Watch: [What is programming?](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro). Just watch the 2 min video, you do not have to do the entire JavaScript course (It could be useful later on though).
 
-### Get git ready to work on homework
+### Get git ready to work on the assignment
 
-Using the `your hyf-homework` repo. In the terminal run `git status`
+Using the `your hyf-assignments` repo. In the terminal run `git status`
 
 If there are changes that have not been committed, figure out what to do with those changes
 
@@ -16,11 +16,11 @@ If there are changes that have not been committed, figure out what to do with th
 - Should they be committed to `main`?
 - Should they be discarded?
 
-When you have figured out what to do with the changes and fixed those. Write `git status` again. If it says `nothing to commit, working tree clean`. Then you are ready to create the branch for this weeks homework.
+When you have figured out what to do with the changes and fixed those. Write `git status` again. If it says `nothing to commit, working tree clean`. Then you are ready to create the branch for this weeks assignment.
 
 #### Creating the branch
 
-Using the `your hyf-homework` repo write this command
+Using the `your hyf-assignments` repo write this command
 
 `git checkout main` - You are now on the `main` branch
 
@@ -30,13 +30,13 @@ This will create and checkout the branch so you are ready make commits to it
 
 [This video](https://www.youtube.com/watch?v=JcT4wmK1VcA) can help. On slack use the #git-support channel to ask questions about git
 
-## Why should I do this homework?
+## Why should I do this assignment?
 
 > One must be able to crawl before understanding the true nature of Javascript - Albert Einstein
 
-This homework will get you started developing in javascript. What you learn the first 3 modules of javascript will be building blocks for creating great javascript web applications.
+This assignment will get you started developing in javascript. What you learn the first 3 modules of javascript will be building blocks for creating great javascript web applications.
 
-If you struggle to do this weeks homework there are a couple of things to do:
+If you struggle to do this weeks assignment there are a couple of things to do:
 
 - Watch the class recording. If it for some reason is missing. Then watch these: [part 1](https://www.youtube.com/watch?v=uhTRC33cpp0), [part 2](https://www.youtube.com/watch?v=mVgyjr9MV5U)
 - Read up on javascript basics [here](readme.md#variables)
@@ -122,9 +122,9 @@ const randomNumber = Math.floor(Math.random() * 10);
 
 To be continued...
 
-## Step 4: Hand in Homework
+## Step 4: Hand in Assignment
 
-We are going to be handing in homework using something called a **pull request (now PR)**. The reason for that is that **most companies use PRs** when they work with code. So you might as well get used to it!
+We are going to be handing in the assignment using something called a **pull request (now PR)**. The reason for that is that **most companies use PRs** when they work with code. So you might as well get used to it!
 
 Watch [this video](https://www.youtube.com/watch?v=JcT4wmK1VcA) to go through the same process as is documented here
 
@@ -132,7 +132,7 @@ Watch [this video](https://www.youtube.com/watch?v=JcT4wmK1VcA) to go through th
 
 ---
 
-Use the `hyf-homework` repo and find the folder on your computer that contains this repo
+Use the `hyf-assignments` repo and find the folder on your computer that contains this repo
 
 ---
 
@@ -140,7 +140,7 @@ Using the branch called `javascript-javascript1-week1`
 
 ---
 
-To add your files go to the folder `javascript/javascript1/week1`. Here you **add all the files relevant for the homework**. Remember to **seperate the code into meaningful commits**. You can now push the commits
+To add your files go to the folder `javascript/javascript1/week1`. Here you **add all the files relevant for the assignment**. Remember to **seperate the code into meaningful commits**. You can now push the commits
 
 ```shell
 git add <file_name>
@@ -150,7 +150,7 @@ git push origin javascript-javascript1-week1
 
 ---
 
-Go into the `your hyf-homework` repo on <https://github.com/> click on the `Pull requests` tab and then click the `New pull request` button
+Go into the `your hyf-assignments` repo on <https://github.com/> click on the `Pull requests` tab and then click the `New pull request` button
 
 ![Create new pull request](assets/create-new-pull-request.png)
 
@@ -158,7 +158,7 @@ Where it says compare, choose the `javascript-javascript1-week1` branch. Just ke
 
 ![Create new pull request](assets/open-a-pull-request.png)
 
-You have now handed in homework, but you are not quite done yet
+You have now handed in the assignment, but you are not quite done yet
 
 ---
 
@@ -166,7 +166,7 @@ A mentor will look through your code and give you some feedback.
 
 ![Pull request comment](assets/pull-request-comment.png)
 
-Based on the feedback, implement improvements to the homework. Then add, commit and push these improvements.
+Based on the feedback, implement improvements to the assignment. Then add, commit and push these improvements.
 
 ```shell
 git add <file_name>
@@ -176,7 +176,7 @@ git push origin javascript-javascript1-week1
 
 ---
 
-Now you can merge the changes. Congrats, you are completely done with the homework 🎉🎉🎉
+Now you can merge the changes. Congrats, you are completely done with the assignment 🎉🎉🎉
 
 ![Merge the pull request](assets/merge-pull-request.png)
 

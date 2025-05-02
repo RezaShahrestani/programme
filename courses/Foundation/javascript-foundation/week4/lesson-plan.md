@@ -3,7 +3,7 @@
 - Focus on having lots of in class exercises.
 - DON'T teach everything, let the students investigate topics on their own as well!
 - Focus on how to read documentation, google answers and google errors!!
-- Teach towards the students being able to solve the homework
+- Teach towards the students being able to solve the assignment
 
 Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you don't have access, write to one from the core team. You can see an example below!
 
@@ -240,4 +240,4 @@ Try and make the game playable! _optional_
 
 <https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life>
 
-And finally, feel free to fill out the form to help us improve the module and the exercises. The [survey](https://forms.gle/irckYkBdvSb6Tdz57) here is addressed to the teacher and teacher assistant, while this [survey](https://forms.gle/ttdDLcSJ88ksz6xe7) is for homework helpers.
+And finally, feel free to fill out the form to help us improve the module and the exercises. The [survey](https://forms.gle/irckYkBdvSb6Tdz57) here is addressed to the teacher and teacher assistant, while this [survey](https://forms.gle/ttdDLcSJ88ksz6xe7) is for assignment helpers.

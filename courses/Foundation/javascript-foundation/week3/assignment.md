@@ -1,12 +1,12 @@
-# Homework
+# Assignment
 
-## Why should I even do this homework?
+## Why should I even do this assignment?
 
 Array's has lots of helper functions, that is used all the time when developing js applications. It is super helpful to be able to **manipulate an array** like **removing elements** or **adding elements** at specific indexes. Another helpful function of arrays is to know **where a specific item is** in the array.
 
 Objects can be used for **representing data** and it can **help structure your code**. An object can e.g. represent a user that has a firstname, surname, profile picture and a list of friends. It is constantly used in javascript and **essential to learning the language**.
 
-If you struggle to do this weeks homework there are a couple of things to do:
+If you struggle to do this weeks assignment there are a couple of things to do:
 
 - Watch the class recording. If it for some reason is missing. Then watch these: [part 1](https://www.youtube.com/watch?v=idfGCqAItGI), [part 2](https://www.youtube.com/watch?v=cNRFY0RW5L8)
 - Read up on objects and arrays [here](readme.md#objects)
@@ -21,7 +21,7 @@ Its warmup time!
 
 Remove the item in `names` that is equal to `nameToRemove`
 
-Copy the code below to your homework
+Copy the code below to your assignment
 
 ```js
 const names = [
@@ -248,9 +248,9 @@ Optional
 - Improve the `showStatus` function by only showing the number of actitivies for that specific day.
 - Create a function for calculating the activity a user has spent the most time on.
 
-## Bonus homework
+## Bonus assignment
 
-The bonus homework for this week (for those of you want an extra challenge) do the following:
+The bonus assignment for this week (for those of you want an extra challenge) do the following:
 
 - <https://www.codewars.com/kata/job-matching-number-1/train/javascript>
 - <https://www.codewars.com/kata/job-matching-number-2/train/javascript>

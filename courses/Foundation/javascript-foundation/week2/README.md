@@ -12,7 +12,7 @@ Teaching note. Start off explaining functions with how to use a function e.g. ex
 ## Relevant links
 
 - [Preparation](preparation.md)
-- [Homework](homework.md)
+- [Assignment](assignment.md)
 - [Lesson plan](lesson-plan.md)
 
 ### Recap Logical operators

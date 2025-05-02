@@ -3,7 +3,7 @@
 - Focus on having lots of in class exercises.
 - DON'T teach everything, let the students investigate topics on their own as well!
 - Focus on how to read documentation, google answers and google errors!!
-- Teach towards the students being able to solve the homework
+- Teach towards the students being able to solve the assignment
 
 Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you don't have access, write to one from the core team. You can see an example below!
 

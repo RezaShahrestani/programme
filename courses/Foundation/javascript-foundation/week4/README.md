@@ -16,5 +16,5 @@
 ## Relevant links
 
 - [Preparation](preparation.md)
-- [Homework](homework.md)
+- [Assignment](assignment.md)
 - [Lesson plan](lesson-plan.md)

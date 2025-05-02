@@ -1,4 +1,4 @@
-# JavaScript 1, Week 3
+# JavaScript Foundation, Week 3
 
 ## Learning goals
 

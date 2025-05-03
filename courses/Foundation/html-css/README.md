@@ -1,10 +1,10 @@
 # HTML-CSS
 
-This repository contains the course material for the one and only HTML-CSS session. During the session we will review the concepts learned from the [Pre-Course](../../Pre-Course/README.md) materials and work hands-on with a large [exercise](./The-one-and-only-week1/README.md).
+This repository contains the course material for the one and only HTML/CSS session. During the session we will review the concepts learned from the [Pre-Course](../../Pre-Course/README.md) materials and work hands-on with a large [exercise](./The-one-and-only-week1/README.md).
 
-| Week | Topic                                                                                                       | Preparation                              | Session Plan                                       | Assignment                    |
-| ---- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------- | ----------------------------- |
-| 1.   | Advanced HTML & CSS concepts, hands-on exercise turning Figma Wireframe into code, teamwork & peer-learning | [Pre-Course](../../Pre-Course/README.md) | [Session Plan](./The-one-and-only-week1/README.md) | [Assignment](./assignment.md) |
+| Week | Topic                                                                                                       | Preparation                              | Lesson Plan                                       | Assignment                    |
+| ---- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------- | ----------------------------- |
+| 1.   | Advanced HTML & CSS concepts, hands-on exercise turning Figma Wireframe into code, teamwork & peer-learning | [Pre-Course](../../Pre-Course/README.md) | [Lesson Plan](./The-one-and-only-week1/README.md) | [Assignment](./assignment.md) |
 
 ## Learning goals
 

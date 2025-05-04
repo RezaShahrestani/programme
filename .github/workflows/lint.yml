@@ -23,3 +23,5 @@ jobs:
         run: npm install && npm run build
       - name: Run the linter
         run: ./lint
+      - name: Lint the git tree
+        run: npx @blaahaj/lint-git-tree@1.0.0

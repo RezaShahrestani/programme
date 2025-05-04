@@ -1,6 +1,6 @@
 # Order form exercise
 
-Build the Order form visible bellow using the [provided markup](./Session-exercise-template/index.html) and [Figma Design](https://www.figma.com/file/VwksDkp1vSPhpfa62LWIAz/HTML%2FCSS-session1?type=design&node-id=0-1&mode=design&t=seawrJIXVyPoIt9L-0)\*
+Build the Order form visible below using the [provided markup](./Session-exercise-template/index.html) and [Figma Design](https://www.figma.com/file/VwksDkp1vSPhpfa62LWIAz/HTML%2FCSS-session1?type=design&node-id=0-1&mode=design&t=seawrJIXVyPoIt9L-0)\*
 
 Make sure that your code is:
 

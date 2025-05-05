@@ -8,9 +8,11 @@
 | Name                                                                         | Weeks |
 | ---------------------------------------------------------------------------- | ----- |
 | [Collaboration via GitHub](../../shared-modules/collaboration-via-github/)   | 1     |
-| Backend JavaScript stuff                                                     | ?     |
+| [JavaScript Advanced](../../shared-modules/javascript-advanced/)             | 4     |
 | [Databases](./databases/)                                                    | 2     |
-| More JS stuff                                                                | ?     |
+| [Node.js](Node.js/)                                                          | 2     |
 | [Team processes (advanced)](../../shared-modules/team-processes-advanced/)   | 1     |
 | [Final project](./final-project/)                                            | 3     |
 | [Career training (advanced)](../../shared-modules/career-training-advanced/) | 3     |
+
+Current total: 16 weeks

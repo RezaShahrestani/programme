@@ -9,7 +9,7 @@
 | ------------------------------------------------- | ----- |
 | [HTML & CSS](./html-css)                          | 1     |
 | [Git](./git)                                      | 1     |
-| [Javascript Foundation](./javascript-foundation/) | 4     |
+| [Intro to JavaScript](./intro-to-javascript/)     | 4     |
 | [Web Architecture 101](./web-architecture-101/)   | 1     |
 | [Databases](./databases/)                         | 1     |
 | [Intro to Backend](./intro-to-backend/)           | 1     |

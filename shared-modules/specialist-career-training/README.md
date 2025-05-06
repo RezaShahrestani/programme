@@ -1,4 +1,4 @@
-# Career Training (Advanced)
+# Specialist Career Training
 
 We introduced career training in foundation, but here we should reiterate, go deeper, and more specialist focussed.
 

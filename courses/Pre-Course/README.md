@@ -1,9 +1,9 @@
-# Pre-course
+# Pre-Course
 
-The pre-course is a collection of modules that you should complete before joining HackYourFuture.
+The Pre-Course is a collection of modules that you should complete before joining HackYourFuture.
 
 ## Modules
 
-### [Technical Application](./Technical-Application)
+### [Technical Application](./Technical-Application/README.md)
 
-### [Self Study](./Self-Study)
+### [Self Study](./Self-Study/README.md)

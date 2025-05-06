@@ -15,7 +15,7 @@ Lets exercise our problem solving abilities!
 
 ![mind exercise](https://media.giphy.com/media/l41m04gr7tRet7Uas/giphy.gif)
 
-### 1.1. codewars!
+### 1.1. codeWars!
 
 Complete these Katas:
 
@@ -38,7 +38,7 @@ notThisFunctionName(danishString2); // returns {total: 4, æ: 1, ø: 2, å: 1}
 
 ## 2. Spirit animal name generator
 
-Let's create a page where **a user writes his name** in an input element. The user then clicks a button. The user will now **receive a spirit animal name**, e.g. Benjamin - The fullmoon wolf.
+Let's create a page where **a user writes his name** in an input element. The user then clicks a button. The user will now **receive a spirit animal name**, e.g. Benjamin - The full moon wolf.
 
 ### 2.1. Markup time!
 
@@ -69,7 +69,7 @@ How can we give a user multiple options to select from in html? Maybe time for g
 
 An example is: A user select that she only wants to generate a spirit animal when the input is hovered. That means that if the user writes her name in the input and clicks the button nothing happens. BUT when she hovers the input, NOW a new spirit animal is generated.
 
-![Spiritanimal](https://media.giphy.com/media/IMSq59ySKydYQ/giphy.gif)
+![Spirit animal](https://media.giphy.com/media/IMSq59ySKydYQ/giphy.gif)
 
 ## 3. hyfBay - get the okay'est products here
 

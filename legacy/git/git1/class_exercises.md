@@ -32,7 +32,7 @@ It will basically follow the second part of the class videos.
 5. add more text to the `my_homework.txt` file;
 6. add and commit the changes in the `my_homework.txt` file;
 7. push your changes to github;
-8. on github, create a pull request from the exercis branch to `main`;
+8. on github, create a pull request from the exercise branch to `main`;
 9. on your computer add some more text to the `my_homework.txt` file;
 10. on your computer, add and commit the changes in the `my_homework.txt` file;
 11. push the changes to github;

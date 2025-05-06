@@ -69,7 +69,7 @@ The exercises suggested for the flipped classroom can be found [here](./class_ex
     - slide 17
 13. Do a little exercise where the students:
 
-    - have them clone their class homweork repo into their computer (this is to get everyone on the same page, otherwise it is a mess)
+    - have them clone their class homework repo into their computer (this is to get everyone on the same page, otherwise it is a mess)
     - create a folder named `class_playground` under `git/week1`
     - add some files
     - commit the changes
@@ -89,6 +89,6 @@ The exercises suggested for the flipped classroom can be found [here](./class_ex
 Here you can find all the materials used to teach the first Git class ✨:
 
 - **[Review](review.md)** - contains a short review over the materials taught in class;
-- **[Cheatsheet](cheatsheet.md)** - contains a cheatsheet with the commands used during the class (and a few extra);
+- **[Cheat-sheet](cheatsheet.md)** - contains a cheat-sheet with the commands used during the class (and a few extra);
 - **[Resources](resources.md)** - contains some resources about Git that might be useful;
 - **[Git Basics](Git_basics.pdf)** - the slides used to teach some concepts during class.

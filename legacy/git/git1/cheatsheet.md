@@ -20,10 +20,10 @@ To remove a git repository but still keep your files do `rm -rf .git` in the fol
 
 We used these commands in the first part of the class to work with a local git repository on our own computers.
 
-- `git add <file_name>` - tells git to start tracking a file or to update what will be commited. Always do that before `git commit`.
+- `git add <file_name>` - tells git to start tracking a file or to update what will be committed. Always do that before `git commit`.
 - `git commit -m "commit_message"` - commit your changes.
 - `git push origin <branch_name>` - push (upload) your changes in your current branch to your github repository into the branch named `<branch_name>`.
-- `git status` - shows you which files are ready to be commited, or not tracked by git. Often tells you what to do as well. It is your best friend when using git :)
+- `git status` - shows you which files are ready to be committed, or not tracked by git. Often tells you what to do as well. It is your best friend when using git :)
 - `git log` - shows the history of commits in the current branch.
 - `git log --oneline` - shows the history of commits in the current branch in a single line per commit.
 - `git diff <file_name>` - to see the difference between the file contents now and in the latest commit.

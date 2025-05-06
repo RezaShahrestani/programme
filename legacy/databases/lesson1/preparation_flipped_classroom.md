@@ -4,13 +4,13 @@ This is the preparation for the (semi) flipped classroom (vs. "old style" presen
 
 We say (semi) flipped classroom, because part of the teaching is still done on the Sunday class.
 
-## Setting up MySQL and MySQL Workench
+## Setting up MySQL and MySQL Workbench
 
 Before the class you should install MySQL and MySQL on your computer:
 
 - Instructions for macOS: [click here](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=290s)
 - Instructions for Windows: [click here](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=588s)
-- Intructions for Linux: [click here](https://drive.google.com/file/d/1I4_iIxI3QZApVawOFbSEY89Cs4BMby5F/view?usp=sharing)
+- Instructions for Linux: [click here](https://drive.google.com/file/d/1I4_iIxI3QZApVawOFbSEY89Cs4BMby5F/view?usp=sharing)
 
 ## Class videos
 

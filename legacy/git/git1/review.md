@@ -113,7 +113,7 @@ To expand.
 Trees need branches to expand.
 Banks needs (office) branches to expand.
 Company needs (code) branches to expand.
-E.g. Branches for Bugs, testing, featuers, production, staging etc.
+E.g. Branches for Bugs, testing, features, production, staging etc.
 
 #### 3.2 Working with branches
 
@@ -158,7 +158,7 @@ When you have an existing local repository (in your computer) that you want to c
 git remote add origin <link_to_gihub_repository>
 ```
 
-Here you are basically adding the connection to a remote repository named `origin`, where `origin` stands for the link to the github respository, for instance `https://github.com/marta_matos/git_example.git`.
+Here you are basically adding the connection to a remote repository named `origin`, where `origin` stands for the link to the github repository, for instance `https://github.com/marta_matos/git_example.git`.
 To check if your local repository is connected to a remote repository (e.g. on Github) and what is the address of that repository you can always run:
 
 ```shell

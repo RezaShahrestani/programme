@@ -2,7 +2,7 @@
 
 This page provides you with:
 
-1. A summary of the homeworks from the NodeJS and React modules that **relate** to the meal-sharing project
+1. A summary of the homework from the NodeJS and React modules that **relate** to the meal-sharing project
 2. Some additional steps to complete **after** the meal sharing session
 
 ## NodeJS
@@ -114,7 +114,7 @@ Sorting meals:
 Showing available spots:
 
 - Add an indicator to the `Meal` component for how many spots are left to be reserved for a given meal
-  > Hint: You can extend the `GET /meals` and `GET meals/:id` endpoints to include this information! Another alternative is to create a new endpoint just for this information and call it as an addiontal effect inside of the `<Meal`> component.
+  > Hint: You can extend the `GET /meals` and `GET meals/:id` endpoints to include this information! Another alternative is to create a new endpoint just for this information and call it as an additional effect inside of the `<Meal`> component.
 
 > Bonus: How can you update this information every 5 seconds?
 

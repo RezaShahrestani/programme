@@ -31,7 +31,7 @@ If you find anything that could be improved then please create a pull request! W
     - Document object
     - [Code inspiration simple](#dom)
     - [Code inspiration change logo](#change-logo)
-    - Exercises: [Favorite dishes](#favorite-dishes), [podcasts](#podcast), [image inserter](#image-inserter)
+    - Exercises: [Favourite dishes](#favourite-dishes), [podcasts](#podcast), [image inserter](#image-inserter)
 
 - Event listeners - Focus on usage, no explanation of callback
   - Click, mouseover, etc. Explain one and let students investigate another, like mouseover or mousemove
@@ -81,7 +81,7 @@ function changeLogo() {
 changeLogo();
 ```
 
-### Eventlistener
+### EventListener
 
 ```js
 // change the event type
@@ -94,13 +94,13 @@ document.querySelector("button").addEventListener("click", function (event) {
 
 ## Exercises
 
-### Favorite dishes
+### Favourite dishes
 
-Create an array of strings with your favorite dishes.
+Create an array of strings with your favourite dishes.
 
 With js select a `ul` in the DOM. You add the `ul` to the html file.
 
-Now loop through each element of the favorite dishes array, you create an `li` element and set the text to the favorite dish.
+Now loop through each element of the favourite dishes array, you create an `li` element and set the text to the favourite dish.
 
 Then append the `li` element to the `ul` element.
 
@@ -128,8 +128,8 @@ const podcasts = [
 
 1. Create a `ul`
 2. Loop through the podcasts
-3. For every podast:
-   1. Creat an `li`
+3. For every podcast:
+   1. Create an `li`
    2. Create an `h1` element
    3. Change the innerHTML of the `h1` to equal the name of the current podcast
    4. Append the `h1` to the `li`
@@ -148,7 +148,7 @@ notThisFunctionName(
 );
 ```
 
-### Simple eventlistener
+### Simple eventListener
 
 When clicking a button, change the text on the button to say "Button clicked"
 

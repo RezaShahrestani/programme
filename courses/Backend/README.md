@@ -11,7 +11,7 @@
 | [Advanced JavaScript](../../shared-modules/advanced-javascript/)             | 4     |
 | [Databases](./databases/)                                                    | 2     |
 | [Node.js](Node.js/)                                                          | 2     |
-| [Team processes (advanced)](../../shared-modules/team-processes-advanced/)   | 1     |
+| [Advanced Team Processes](../../shared-modules/advanced-team-processes/)     | 1     |
 | [Final project](./final-project/)                                            | 3     |
 | [Career training (advanced)](../../shared-modules/career-training-advanced/) | 3     |
 

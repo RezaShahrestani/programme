@@ -3,7 +3,7 @@
 ## Learning goals
 
 - [ ] Arrays continued: pop, push, shift, unshift, length, indexOf. No map, filter or reduce
-- [ ] [Objects](#objects): Access properties two ways, key value. Array of objects. Use real world examples (users, products, houselistings)
+- [ ] [Objects](#objects): Access properties two ways, key value. Array of objects. Use real world examples (users, products, house listings)
 - [ ] [Call stack](#call-stack)
 
 ## Relevant links

@@ -37,7 +37,7 @@ If you struggle to do this weeks assignment there are a couple of things to do:
 
 Just like last the last assignment, lets **warmup our brain**!
 
-Do these freecodecamp challenges. We know this seems like a lot, but the tasks are not so big, so hang in there! If you get stuck on one of the tasks, just go to the next and then return to the difficult task later on.
+Do these freeCodeCamp challenges. We know this seems like a lot, but the tasks are not so big, so hang in there! If you get stuck on one of the tasks, just go to the next and then return to the difficult task later on.
 
 - [ ] [Passing values to functions with arguments](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments/)
 - [ ] [Return a value from a function with return](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return/)
@@ -49,7 +49,7 @@ Do these freecodecamp challenges. We know this seems like a lot, but the tasks a
 - [ ] [Iterate with javascript for loops](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-for-loops/)
 - [ ] [Iterate through an array with a for loop](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/iterate-through-an-array-with-a-for-loop/)
 
-Please add your freecodecamp username as answer for this exercise!
+Please add your freeCodeCamp username as answer for this exercise!
 
 ## Step 3: Smart-ease - Goes Global!
 
@@ -61,37 +61,37 @@ BUT people are asking: What will be the next product that truly defines Smart-ea
 
 Even for a startup as successful as Smart-ease there needs to be money in the bank. A customer from a flight booking website has asked for our help creating a specific part of their application:
 
-When a user books a flight they **write their firstname and surname**, but when the ticket is printed a **fullname should be displayed**. It is our responsibility to create that.
+When a user books a flight they **write their firstName and surname**, but when the ticket is printed a **fullname should be displayed**. It is our responsibility to create that.
 
-Create a function called `getFullname` that returns a fullname.
-It should have two parameters: `firstname` and `surname`.
+Create a function called `getFullName` that returns a fullname.
+It should have two parameters: `firstName` and `surname`.
 
 ```js
-getFullname("Benjamin", "Hughes"); // returns "Benjamin Hughes"
+getFullName("Benjamin", "Hughes"); // returns "Benjamin Hughes"
 ```
 
-Now try to create two variables `fullname1` and `fullname2` these two variables should be assigned to calling the `getFullname` function.
+Now try to create two variables `fullName1` and `fullName2` these two variables should be assigned to calling the `getFullName` function.
 
 Log out the two fullname variables.
 
 #### Formal fullname
 
-On the flight website the user has the possibility to **check a checkbox** that **indicates** if the user wants to be **adressed formally**. Lets also change `getFullname` to include support for formal name.
+On the flight website the user has the possibility to **check a checkbox** that **indicates** if the user wants to be **addressed formally**. Lets also change `getFullName` to include support for formal name.
 
 Create an extra parameter `useFormalName` that is a boolean. If it is true the function should add a `Lord` in front of the name.
 
 ```js
-getFullname("Benjamin", "Hughes", true); // returns "Lord Benjamin Hughes"`
-getFullname("Benjamin", "Hughes", false); // returns "Benjamin Hughes"
+getFullName("Benjamin", "Hughes", true); // returns "Lord Benjamin Hughes"`
+getFullName("Benjamin", "Hughes", false); // returns "Benjamin Hughes"
 ```
 
 What do we do if `useFormalName` is not given as an argument?
 
-Remember to consider someone calling the function with an empty string as firstname and lastname.
+Remember to consider someone calling the function with an empty string as `firstName` and `lastName`.
 
-Try out your code by pasting your `getFullname` function in the javascript part of this codepen: <https://codepen.io/hackyourfuture-cph/pen/jJWwbN>
+Try out your code by pasting your `getFullName` function in the javascript part of this codePen: <https://codepen.io/hackyourfuture-cph/pen/jJWwbN>
 
-But what if the person is a woman? Describe how you would fix the `getFullname` so it also works for women
+But what if the person is a woman? Describe how you would fix the `getFullName` so it also works for women
 
 ### Event application
 
@@ -99,13 +99,13 @@ Another customer has contacted us. He works for a secret company that rimes with
 
 You specify how many days from today an event is being held. The function then figures out what weekday the event is being held. Here is an example:
 
-Today is Sunday and the event is in 5 days. Therefore the event will be held on a friday.
+Today is Sunday and the event is in 5 days. Therefore the event will be held on a Friday.
 
 ```js
-// With todays weekday a tuesday
+// With today's weekday a tuesday
 console.log(getEventWeekday(9)); // Logs out "Thursday"
 
-// With todays weekday a Friday
+// With today's weekday a Friday
 console.log(getEventWeekday(2)); // Logs out "Sunday"
 ```
 
@@ -174,7 +174,7 @@ To see your code applied on a webapp, go here: <https://codepen.io/hackyourfutur
 
 ### Candy helper _optional_
 
-> We are at the candystore. We have taken some shovels of the **caramel-strawberry-cola-lemon-gravy winegums**, a few of the **banana chocolate diesel-motors** and a handful of the **salmon-potato covered toffee encrusted pizzas**. But what is all this worth? And can you even afford it?
+> We are at the candy store. We have taken some shovels of the **caramel-strawberry-cola-lemon-gravy wine gums**, a few of the **banana chocolate diesel-motors** and a handful of the **salmon-potato covered toffee encrusted pizzas**. But what is all this worth? And can you even afford it?
 
 Let's solve this problem with some functions.
 
@@ -183,7 +183,7 @@ Let's solve this problem with some functions.
 Create a function called `addCandy`. It has two parameters:
 
 - `candyType` - specifies the candy type. Could be 'sweet, chocolate, toffee or chewing-gum'
-- `weight` - specifies the weigth of the candy in grams
+- `weight` - specifies the weight of the candy in grams
 
 The function should **add the price of the candy** to an array called `boughtCandyPrices` using [push](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
 

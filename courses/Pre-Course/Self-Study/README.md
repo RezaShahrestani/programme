@@ -81,4 +81,4 @@ Before the first Sunday session, you must have completed all the steps listed ab
 
 - If you have not completed the steps listed above from the `Responsive Web Design` certification and the `JavaScript Algorithms and Data Structures` certification by the time of the first Sunday session, you will not be able to continue with the course.
 
-- Stuck or need help? Please use your team Slack channel to ask for help from your fellow trainees. Asking for help, explaining the problems you have, and sharing your own knowledge with your fellow trainees are all very important skills to succeed in HackYourFuture, so start practicing now!
+- Stuck or need help? Please use your team Slack channel to ask for help from your fellow trainees. Asking for help, explaining the problems you have, and sharing your own knowledge with your fellow trainees are all very important skills to succeed in HackYourFuture, so start practising now!

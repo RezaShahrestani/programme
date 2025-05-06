@@ -5,14 +5,14 @@
 
 ## Modules
 
-| Name                                                                         | Weeks |
-| ---------------------------------------------------------------------------- | ----- |
-| [Collaboration via GitHub](../../shared-modules/collaboration-via-github/)   | 1     |
-| [JavaScript Advanced](../../shared-modules/javascript-advanced/)             | 4     |
-| [Databases](./databases/)                                                    | 2     |
-| [Node.js](Node.js/)                                                          | 2     |
-| [Team processes (advanced)](../../shared-modules/team-processes-advanced/)   | 1     |
-| [Final project](./final-project/)                                            | 3     |
-| [Career training (advanced)](../../shared-modules/career-training-advanced/) | 3     |
+| Name                                                                            | Weeks |
+| ------------------------------------------------------------------------------- | ----- |
+| [Collaboration via GitHub](../../shared-modules/collaboration-via-github/)      | 1     |
+| [Advanced JavaScript](../../shared-modules/advanced-javascript/)                | 4     |
+| [Databases](./databases/)                                                       | 2     |
+| [Node.js](Node.js/)                                                             | 2     |
+| [Advanced Team Processes](../../shared-modules/advanced-team-processes/)        | 1     |
+| [Final project](./final-project/)                                               | 3     |
+| [Specialist Career Training)](../../shared-modules/specialist-career-training/) | 3     |
 
 Current total: 16 weeks

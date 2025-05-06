@@ -32,12 +32,23 @@ prettier() {
   fi
 }
 
+lint-git-tree() {
+  echo "lint-git-tree: RUN"
+  if npx @blaahaj/lint-git-tree ; then
+    echo "lint-git-tree: PASS"
+  else
+    echo "lint-git-tree: FAIL"
+    return 1
+  fi
+}
+
 all() {
   local rc=0
   echo "lint: RUN"
   validate-links || rc=1
   markdownlint || rc=1
   prettier || rc=1
+  lint-git-tree || rc=1
 
   if [ $rc -eq 0 ] ; then
     echo "lint: PASS"

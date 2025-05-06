@@ -18,16 +18,27 @@ export type ParseResult = {
   readonly links: readonly ParsedLink[];
   readonly images: readonly ParsedImage[];
   readonly trailingWhitespace: readonly SourceLocation[];
+  readonly deprecatedTerminology: readonly SourceLocation[];
 };
 
 export const parse = (content: string): ParseResult => {
   const trailingWhitespace: SourceLocation[] = [];
+  const deprecatedTerminology: SourceLocation[] = [];
 
   content.split(/\n/).forEach((line, index) => {
     if (line.endsWith(" ")) {
       trailingWhitespace.push({
         line0: index,
         column0: line.trimEnd().length,
+      });
+    }
+
+    for (const match of line.matchAll(
+      /homework|student|bootcamp|class|teacher/gi,
+    )) {
+      deprecatedTerminology.push({
+        line0: index,
+        column0: match.index,
       });
     }
   });
@@ -77,5 +88,6 @@ export const parse = (content: string): ParseResult => {
     links: parsedLinks,
     images: parsedImages,
     trailingWhitespace,
+    deprecatedTerminology,
   };
 };

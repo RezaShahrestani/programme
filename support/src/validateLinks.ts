@@ -77,6 +77,21 @@ const main = async () => {
       ++errors;
     }
 
+    for (const sourceLocation of parsedFile.deprecatedTerminology) {
+      // showError(
+      //   parsedFile.filename,
+      //   sourceLocation,
+      //   "VL004/deprecated-terminology",
+      //   "Deprecated terminology",
+      // );
+      // ++errors;
+
+      // https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/workflow-commands-for-github-actions#setting-a-notice-message
+      console.log(
+        `::notice file=${parsedFile.filename},line=${sourceLocation.line0 + 1},col=${sourceLocation.column0 + 1},title=Deprecated terminology::See [Adam's note](https://hackyourfuture-cph.slack.com/archives/C070USK1UET/p1746517867976759)`,
+      );
+    }
+
     for (const img of parsedFile.images) {
       if (!isExternalLink(img.src)) {
         const resolved = path.join(dirname(parsedFile.filename), img.src);

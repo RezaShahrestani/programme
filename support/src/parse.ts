@@ -1,6 +1,11 @@
 import mit from "markdown-it";
 import type { Token } from "markdown-it/index.js";
-import { sourceLocationOf, type SourceLocation } from "./sourceLocation.js";
+import {
+  markUpContent,
+  sourceLocationOf,
+  unMarkUpContent,
+  type SourceLocation,
+} from "./sourceLocation.js";
 
 export type ParsedLink = {
   readonly target: string;
@@ -33,7 +38,7 @@ export const parse = (content: string): ParseResult => {
   });
 
   const parser = mit();
-  const tokens = parser.parse(content, {});
+  const tokens = parser.parse(markUpContent(content), {});
 
   const parsedLinks: ParsedLink[] = [];
   const parsedImages: ParsedImage[] = [];
@@ -46,24 +51,24 @@ export const parse = (content: string): ParseResult => {
         );
 
         if (indexOfNextClose > index) {
-          const target = token.attrGet("href") as string;
+          const markedUpTarget = token.attrGet("href") as string;
           parsedLinks.push({
-            target,
+            target: unMarkUpContent(markedUpTarget),
             content: tokens
               .slice(index + 1, indexOfNextClose)
-              .map((t) => t.content)
+              .map((t) => unMarkUpContent(t.content))
               .join(""),
-            sourceLocation: sourceLocationOf(`(${target})`, content),
+            sourceLocation: sourceLocationOf(markedUpTarget),
           });
         }
       }
 
       if (token.type === "image") {
-        const src = token.attrGet("src") as string;
+        const markedUpSrc = token.attrGet("src") as string;
         parsedImages.push({
-          src,
-          alt: token.content,
-          sourceLocation: sourceLocationOf(`(${src})`, content),
+          src: unMarkUpContent(markedUpSrc),
+          alt: unMarkUpContent(token.content),
+          sourceLocation: sourceLocationOf(markedUpSrc),
         });
       }
 

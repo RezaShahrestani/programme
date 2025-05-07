@@ -103,10 +103,10 @@ Today is Sunday and the event is in 5 days. Therefore the event will be held on 
 
 ```js
 // With today's weekday a tuesday
-console.log(getEventWeekday(9)); // Logs out "Thursday"
+console.log(getEventWeekday(9)); // Outputs "Thursday"
 
 // With today's weekday a Friday
-console.log(getEventWeekday(2)); // Logs out "Sunday"
+console.log(getEventWeekday(2)); // Outputs "Sunday"
 ```
 
 You should get the today's day from the system.

@@ -37,8 +37,8 @@ If you find anything that could be improved then please create a pull request! W
   - Click, mouseover, etc. Explain one and let students investigate another, like mouseover or mousemove
   - Input Change, input
   - Event parameter
-  - [Code inspiration](#eventlistener)
-  - [Exercise simple](#simple-eventlistener)
+  - [Code inspiration](#event-listener)
+  - [Exercise simple](#simple-event-listener)
   - [Exercise dark mode light mode](#light-mode-dark-mode)
 
 Really try in this class to do short teaching and lots of exercises!
@@ -81,7 +81,7 @@ function changeLogo() {
 changeLogo();
 ```
 
-### EventListener
+### Event listener
 
 ```js
 // change the event type
@@ -148,7 +148,7 @@ notThisFunctionName(
 );
 ```
 
-### Simple eventListener
+### Simple event listener
 
 When clicking a button, change the text on the button to say "Button clicked"
 

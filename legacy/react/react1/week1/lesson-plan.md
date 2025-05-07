@@ -48,7 +48,7 @@
 
 ### Importing / exporting .jsx (5 min)
 
-- defaults exports and named exports
+- default exports and named exports
 
 ### Importing .css (5 minutes)
 
@@ -174,4 +174,4 @@ my-app/
 - `app/` directory contains the React components that represent different pages in your application.
 - `components/` directory contains the React components that represent all the custom components built by you.
 - `public/` directory is where you can store static assets like images, documents, etc.
-- `next.config.js` is a configuration file for customizing Next.js behaviors.
+- `next.config.js` is a configuration file for customizing Next.js behaviours.

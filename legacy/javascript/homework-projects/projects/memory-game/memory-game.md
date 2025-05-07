@@ -1,6 +1,6 @@
 # MEMORY GAME
 
-![Agent J from "Men In Black": "Hey, don't even worry about it", while flashing the neutralizer](https://media.giphy.com/media/374pcIBVEGb6g/giphy.gif)
+![Agent J from "Men In Black": "Hey, don't even worry about it", while flashing the neuralyzer](https://media.giphy.com/media/374pcIBVEGb6g/giphy.gif)
 
 You joined an online game platform startup and your task is to build one of the small classic games.
 

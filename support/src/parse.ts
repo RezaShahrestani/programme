@@ -19,14 +19,22 @@ export type ParsedImage = {
   readonly sourceLocation: SourceLocation | null;
 };
 
+export type DeprecatedTerm = {
+  readonly term: string;
+  readonly word: string;
+  readonly sourceLocation: SourceLocation;
+};
+
 export type ParseResult = {
   readonly links: readonly ParsedLink[];
   readonly images: readonly ParsedImage[];
   readonly trailingWhitespace: readonly SourceLocation[];
+  readonly deprecatedTerm: readonly DeprecatedTerm[];
 };
 
 export const parse = (content: string): ParseResult => {
   const trailingWhitespace: SourceLocation[] = [];
+  const deprecatedTerm: DeprecatedTerm[] = [];
 
   content.split(/\n/).forEach((line, index) => {
     if (line.endsWith(" ")) {
@@ -72,6 +80,24 @@ export const parse = (content: string): ParseResult => {
         });
       }
 
+      if (token.type === "text") {
+        // console.dir(token, { depth: 2 });
+        for (const match of token.content.matchAll(
+          /L(?<line0>\d+)C(?<column0>\d+)T(?<word>[\p{Alpha}\p{Number}]*(?<term>homework|student|teacher|bootcamp|classroom|class)[\p{Alpha}\p{Number}]*)/giu,
+        )) {
+          // console.dir(match, { depth: 1 });
+          match.groups &&
+            deprecatedTerm.push({
+              term: match.groups.term.toLowerCase(),
+              word: match.groups.word,
+              sourceLocation: {
+                line0: Number(match.groups.line0),
+                column0: Number(match.groups.column0),
+              },
+            });
+        }
+      }
+
       if (token.children) scan(token.children);
     });
   };
@@ -82,5 +108,6 @@ export const parse = (content: string): ParseResult => {
     links: parsedLinks,
     images: parsedImages,
     trailingWhitespace,
+    deprecatedTerm,
   };
 };

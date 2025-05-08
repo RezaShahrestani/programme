@@ -30,7 +30,7 @@ Making requests
 ## Relevant links
 
 - [Preparation](preparation.md)
-- [Homework](../../homework-projects/README.md)
+- [Assignment](../../assignment-projects/)
 - [Lesson plan](lesson-plan.md)
 
 ## HTML interaction

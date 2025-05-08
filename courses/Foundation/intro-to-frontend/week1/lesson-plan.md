@@ -42,7 +42,7 @@ If you find anything that could be improved then please create a pull request! W
   - [Exercise dark mode light mode](#light-mode-dark-mode)
 
 - Fetch (No promise explanation! Focus on usage)
-  - Focus on usage let the students copy the fetch script and use it from there. Next week promises will be explained!
+  - Focus on usage let the students copy the fetch script and use it from there. Promises are out of scope in this module.
   - [Code inspiration](#fetch)
   - [Exercise 1](#astronauts-in-space), [exercise 2](#dog-fan-website)  
 

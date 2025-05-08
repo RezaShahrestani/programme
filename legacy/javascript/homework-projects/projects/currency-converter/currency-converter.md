@@ -69,8 +69,8 @@ Continue with the format of the object you used last week or improve it and refa
 - [ ] Implement a timeout to show an announcement when the market open or/and close. The market opens at 9AM and closes at 5PM local time.
 
 - [ ] optional bonus:
-      a. Implement a watcher to periodically check a specific currency conversion and alert the user when the value reaches a speicfic point. Let's say the user is interested in converting USD to Danish kroner but the rate today is very bad, 1 USD is 5 DKK. We wan to alert the user when 1 USD is 7 DKK so the user can convert with maximum gain
-      b. Watch currency updates and show a banner with the hotest currency exchange rate. I.e., currency conversion reaching the double value.
+      a. Implement a watcher to periodically check a specific currency conversion and alert the user when the value reaches a specific point. Let's say the user is interested in converting USD to Danish kroner but the rate today is very bad, 1 USD is 5 DKK. We wan to alert the user when 1 USD is 7 DKK so the user can convert with maximum gain
+      b. Watch currency updates and show a banner with the hottest currency exchange rate. I.e., currency conversion reaching the double value.
 
 ### `JS3 week1` - Json, Apis, Fetch
 
@@ -94,7 +94,7 @@ Continue with the format of the object you used last week or improve it and refa
 
 - [ ] I can insert a new currency rate
 - [ ] I can see a list of all currencies and rates
-- [ ] I can use the coverter to convert a currency and see the result
+- [ ] I can use the converter to convert a currency and see the result
 - [ ] I can search currencies to find a specific one
 - [ ] I can set a rate to be alerted when a currency reaches that rate
 - [ ] I can see an indicator for the market open/close

@@ -70,9 +70,9 @@ When that works. Make the two number for multiples into parameters. So it can be
 
 `fizzBuzz(4, 12);`
 
-### Build a sentiment analyzer
+### Build a sentiment analyser
 
-A sentiment analyzer is some functionality that figures out how positive/negative a sentence is.
+A sentiment analyser is some functionality that figures out how positive/negative a sentence is.
 
 For example, the sentence `I am mega super awesome happy" Should have a high score
 The sentence "I hate doing boring stuff" should have a low score.
@@ -192,7 +192,7 @@ console.log(renderedGame);
  */
 ```
 
-Create a new function called `getGameinfo(position)`. Calling the function should return an object with `winner` key, `loser` key, `hasEnded` and `nextPlayer`.
+Create a new function called `getGameInfo(position)`. Calling the function should return an object with `winner` key, `loser` key, `hasEnded` and `nextPlayer`.
 
 EXAMPLES!!!!
 
@@ -203,7 +203,7 @@ const position = [
   [" ", "o", "x"],
 ];
 
-const gameInfo = getGameinfo(position);
+const gameInfo = getGameInfo(position);
 console.log(gameInfo);
 
 /*
@@ -222,7 +222,7 @@ const position = [
   [" ", "o", "x"],
 ];
 
-const gameInfo = getGameinfo(position);
+const gameInfo = getGameInfo(position);
 console.log(gameInfo);
 
 /*

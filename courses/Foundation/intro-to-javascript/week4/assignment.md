@@ -13,15 +13,15 @@ If you struggle to do this weeks assignment there are a couple of things to do:
 
 Finish the exercises from the class!
 
-## Codewars
+## CodeWars
 
-Complete these Katas in codewars:
+Complete these Katas in codeWars:
 
 - [7kyu Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 - [7kyu Digit\*Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
 - [7kyu Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 
-Post a link to your codewars profile when you sumbmit the assignment!
+Post a link to your codeWars profile when you submit the assignment!
 
 ## Voice assistant
 

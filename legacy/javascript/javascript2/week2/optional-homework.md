@@ -53,7 +53,7 @@ console.log("The doubled numbers are", newNumbers); // [2, 6]
 
 Rewrite the above program using `map` and `filter` don't forget to use arrow functions.
 
-### 1.2. codewars!
+### 1.2. codeWars!
 
 Complete these Katas:
 
@@ -82,7 +82,7 @@ Copy the movies array in the [movies](optional-homework/movies.js) file. Use thi
 
 ### 2.1. Filter products
 
-A very normal usecase for a product site is that a **user wants to search for some product** or find products that are cheaper than a set price. Lets implement that functionality for a user!
+A very normal use case for a product site is that a **user wants to search for some product** or find products that are cheaper than a set price. Lets implement that functionality for a user!
 
 BUT first lets figure out what happens on a conceptual level, when a user filters some products:
 
@@ -90,7 +90,7 @@ BUT first lets figure out what happens on a conceptual level, when a user filter
 2. When that event happens we need to **filter the products** the user wants
 3. Then we should **render those products**
 
-Lets get a little closer to javacript:
+Lets get a little closer to JavaScript:
 
 1. `.addEventListener` on an element
 2. `.filter` on the products array

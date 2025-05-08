@@ -46,7 +46,7 @@ const cars = [
 
 // lets use the same cars array
 
-// Lets transfrom it from an array of car objects to an array of car colors
+// Lets transform it from an array of car objects to an array of car colors
 const carColors = cars.map(function (car) {
   return car.color;
 });
@@ -112,7 +112,7 @@ const getTimesTenArrowFunction = (a) => {
   return a * 10;
 };
 
-// If there is only one parameter, we can remove the paranthesis:
+// If there is only one parameter, we can remove the parentheses:
 const getTimesTenArrowFunction = (a) => {
   return a * 10;
 };
@@ -125,7 +125,7 @@ Here is how you **convert a function into an arrow function:**
 
 1. Remove the keyword function
 2. Add an arrow after the parameter
-3. If there is only one parameter, we can remove the paranthesis around the parameter
+3. If there is only one parameter, we can remove the parentheses around the parameter
 4. If the function is returning a single line of code, we can remove the return keyword and the curly braces.
 
 ### Chaining

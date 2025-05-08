@@ -26,7 +26,7 @@
   randomizeStartPosition();
 
   const targets = document.querySelectorAll("ul.targets li");
-  // continously check if circles has been added to the right targets
+  // continuously check if circles has been added to the right targets
   setInterval(() => {
     setTargetFulfilled(redBox, targets[0], { x: 20, y: 300 });
     setTargetFulfilled(blueBox, targets[1], { x: 400, y: 300 });

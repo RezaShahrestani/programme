@@ -33,7 +33,7 @@ Continue with the format of the picture object you used last week or improve it 
 
 ### `JS2 week3` - Callback function, Asynchronicity, Scope
 
-- [ ] implement a counter for how many times in total you have flipped a card (one counter for all the cards). Note that you are not supposed to count clicks! The purpose is to count how many times you have _revealed_ the card picture - in other words, you are couunting player moves.
+- [ ] implement a counter for how many times in total you have flipped a card (one counter for all the cards). Note that you are not supposed to count clicks! The purpose is to count how many times you have _revealed_ the card picture - in other words, you are counting player moves.
 - [ ] implement a timer for how much time has passed since you first clicked on a card.
 - [ ] adjust the functionality so that once 2 cards are flipped, they stay flipped for X seconds, after which they flip back down automatically.
 
@@ -69,7 +69,7 @@ At most:
 
 - [ ] at first, I can see a square grid of cards "flipped down" - seeing their backside pattern;
 - [ ] I can click on a card, which makes the card "flip" and reveal the picture/gif;
-- [ ] I can only reaveal 2 cards at a time;
+- [ ] I can only reveal 2 cards at a time;
 - [ ] the 2 revealed cards stay flipped for X seconds, after which they flip down again;
 - [ ] if I reveal 2 matching cards, they are removed from the page;
 - [ ] I can see a timer that starts once I flip the very first card in a new game;

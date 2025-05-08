@@ -30,7 +30,7 @@
 
 - Usage of `useEffect`
 - dependencies of effect (onMount)
-- cleanup after effect
+- clean up after effect
 
 ### Connecting to APIs (10 min)
 
@@ -74,7 +74,7 @@
 1. Create a new component called `Clock`.
 2. Use the `useState` hook to manage the current time.
 3. Use the `useEffect` hook to set up an interval that updates the time every second.
-4. Implement the cleanup function in `useEffect` to clear the interval when the component unmounts.
+4. Implement the clean up function in `useEffect` to clear the interval when the component unmounts.
 5. Render the current time in the component.
 
 #### 5. Build a DataFetcher component (15 minutes)
@@ -91,5 +91,5 @@
 2. Use the `useState` hook to manage the window size.
 3. Use the `useEffect` hook to set up an event listener for the `resize` event.
 4. Update the window size state whenever the `resize` event is triggered.
-5. Implement the cleanup function in `useEffect` to remove the event listener when the component unmounts.
+5. Implement the clean up function in `useEffect` to remove the event listener when the component unmounts.
 6. Render the current window size in the component.

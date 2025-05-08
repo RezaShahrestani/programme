@@ -19,9 +19,9 @@ If you find anything that could be improved then please create a pull request! W
 
 ---
 
-Promises is notoriously difficult to teach! I teach **consumption and creation of promises totally separate!** And show them that its just like with functions. There is a creation part and a comsumption part.
+Promises is notoriously difficult to teach! I teach **consumption and creation of promises totally separate!** And show them that its just like with functions. There is a creation part and a consumption part.
 
-First when they fully understand one part of promises, i move on! Don't overcomplicate things. Only mention the resolve function to begin with. When they get that, say that there also is a reject function. **Take as many babysteps as is possible!** Dont mention that resolve and reject can take an argument to begin with, first later explain that.
+First when they fully understand one part of promises, i move on! Don't overcomplicate things. Only mention the resolve function to begin with. When they get that, say that there also is a reject function. **Take as many baby steps as is possible!** Don't mention that resolve and reject can take an argument to begin with, first later explain that.
 
 This class is a little poor on real world examples. Make a PR if you have any good ideas!
 
@@ -35,7 +35,7 @@ This class is a little poor on real world examples. Make a PR if you have any go
     - So important to explain this, the students always ask this!
     - <https://stackoverflow.com/questions/39004567/why-do-we-need-promise-in-js>
   - Consumption
-    - [Code inspiration](#promise-comsumption)
+    - [Code inspiration](#promise-consumption)
     - Example, call some function that returns a promise (like fetch)
     - [Exercises 2](#exercise-2)
   - Creation
@@ -88,7 +88,7 @@ async function getAstronauts() {
 getAstronauts();
 ```
 
-### Promise comsumption
+### Promise consumption
 
 So how did the async/await example above actually work? Lets get into promises!
 
@@ -185,7 +185,7 @@ async function getAstronauts() {
     const astronauts = await astronautsResponse.json();
     return astronauts;
   } catch (err) {
-    throw "Fetchin the astronauts went wrong";
+    throw "Fetching the astronauts went wrong";
   }
 }
 

@@ -28,7 +28,7 @@ The students should watch this video before class: <https://youtu.be/9hTKUT_SZWU
 - Complicated values to store in MySQL
   - Storing prices (floating point errors)
   - Storing date and time (datetime vs. timestamp)
-  - Timezones when storing date and time
+  - Time zones when storing date and time
 - Creating an ER model and a database from existing data
 
 ## Reference Material

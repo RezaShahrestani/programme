@@ -89,7 +89,7 @@
 
 ### Importing / exporting .jsx (5 min)
 
-- defauls exports and named exports
+- default exports and named exports
 
 ## Exercises
 

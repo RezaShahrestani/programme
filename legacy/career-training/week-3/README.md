@@ -2,7 +2,7 @@
 
 ## Mock Technical Interviews
 
-This session is for practicing technical interviews and receiving feedback from peers and technical volunteers.
+This session is for practising technical interviews and receiving feedback from peers and technical volunteers.
 
 ### Materials
 

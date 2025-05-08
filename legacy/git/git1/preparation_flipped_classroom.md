@@ -27,7 +27,7 @@ Git:
   9. `Choosing HTTPS transport backend`, select `Use the OpenSSL library` and click next;
   10. `Configuring the line ending conversions`, select `Checkout Windows-style, commit Unix-style line endings` and click next;
   11. `Configuring the terminal emulator to use with Git Bash`, select `Use MinTTY` and click next;
-  12. `Choose the default behavior of "git pull"`, choose `Default (fast-forward or merge)`
+  12. `Choose the default behaviour of "git pull"`, choose `Default (fast-forward or merge)`
   13. `Choose a credential helper`, choose `Git Credential Manager Core`
   14. `Configuring extra options`, select `Enable file system caching` and `Enable Git Credential manager`, click next;
   15. `Configuring experimental options`, do not select any of them, and click install;

@@ -256,7 +256,7 @@ Now we will modify the program so that you can order multiple pizzas and also de
 
 3. Now write a formula to calculate the total price of your pizza order, and save it in a variable called totalPrice (if the pizza is family size the prize of the pizza is doubled.
 
-4. Modify the log statement for the pizza man so it includes wether or not the pizza is family size, and now show the total price of the order
+4. Modify the log statement for the pizza man so it includes whether or not the pizza is family size, and now show the total price of the order
    `New pizza order: <amount of pizzas> <family or not?> <name of pizza>. Total cost for the order is:  <total price>`
 
 5. Try to change the price of the pizza and if the pizza should be family size, and then check if the total price is calculated correctly.

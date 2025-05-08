@@ -11,7 +11,7 @@ use school
 Now we create a class in the school
 
 ```text
-db.classes.insert({"name": "class 12", "studens":[], "teachers": []})
+db.classes.insert({"name": "class 12", "students":[], "teachers": []})
 ```
 
 See the created class
@@ -19,7 +19,7 @@ See the created class
 ```text
 db.classes.find()
 
-{ "_id" : ObjectId("5e31778441832c965c0d270c"), "name" : "class 12", "studens" : [ ], "teachers" : [ ] }
+{ "_id" : ObjectId("5e31778441832c965c0d270c"), "name" : "class 12", "students" : [ ], "teachers" : [ ] }
 ```
 
 In the above example the "**classes**" is a **collection** and the inserted object is a "**document**"
@@ -34,17 +34,17 @@ db.createCollection("classes")
 
 ```text
 db.classes.insert([
-    {"name": "class 10", "studens":[], "teachers": []},
-    {"name": "class 11", "studens":[], "teachers": []},
-    {"name": "class 12", "studens":[], "teachers": []},
-    {"name": "class 13", "studens":[], "teachers": []},
+    {"name": "class 10", "students":[], "teachers": []},
+    {"name": "class 11", "students":[], "teachers": []},
+    {"name": "class 12", "students":[], "teachers": []},
+    {"name": "class 13", "students":[], "teachers": []},
 ])
 ```
 
 ### Controlling the \_id manually
 
 ```text
-db.classes.insert({_id:1, "name": "class 12", "studens":[], "teachers": []})
+db.classes.insert({_id:1, "name": "class 12", "students":[], "teachers": []})
 ```
 
 Duplicate \_id would result in write error
@@ -52,7 +52,7 @@ Duplicate \_id would result in write error
 Alternative syntax for insertion
 
 ```text
-db.classes.insert({_id:11, name: "class 12", studens:[], teachers: []})
+db.classes.insert({_id:11, name: "class 12", students:[], teachers: []})
 ```
 
 ### Querying the Collection
@@ -72,7 +72,7 @@ db.classes.find({name: "class 12"})
 ```text
 db.classes.find({name: "class 12", _id:10})
 //returns
-{"_id" : 10, "name" : "class 12", "studens" : [ ], "teachers" : [ ]}
+{"_id" : 10, "name" : "class 12", "students" : [ ], "teachers" : [ ]}
 ```
 
 ##### Filter with OR condition
@@ -83,13 +83,13 @@ db.classes.find({$or:[{name: "class 12"}, {name: "class 13"}]}).pretty()
 {
     "_id" : ObjectId("5e31778441832c965c0d270c"),
     "name" : "class 12",
-    "studens" : [ ],
+    "students" : [ ],
     "teachers" : [ ]
 }
 {
     "_id" : 10,
     "name" : "class 12",
-    "studens" : [ ],
+    "students" : [ ],
     "teachers" : [ ]
 }
 ```

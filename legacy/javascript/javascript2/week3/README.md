@@ -40,7 +40,7 @@ document.querySelector("input").addEventListener("input", callback);
 
 In this article you can find a really good analogy and description of the differences between async (asynchronous) and sync (synchronous) <https://www.hongkiat.com/blog/synchronous-asynchronous-javascript/>
 
-Here is the analogy in a quick writeup:
+Here is the analogy in a quick write up:
 
 There is a a man called mr. X. You can call him with any problem and he will answer your right away. He picks up the phone and answers RIGHT away. This is like synchronous js code. It runs right away, no waiting.
 
@@ -80,7 +80,7 @@ So how does javascript handle asynchronous code? Here is an example with setTime
 
 First setTimeout is added to the call stack. The call stack hands it over to the browser with the callback function given in the setTimeout function. The browser handles the timing of the setTimeout via Web APIs and then it is popped from the call stack.
 
-When the timer is expired it sends the callback of our setTimeout function to the eventloop. The eventloop then works like this: if the call stack is empty it will take the first thing in the event loop and add it to the call stack. When it is added to the call stack it is javascript call stack business as usual. Call the function and pop it from the call stack.
+When the timer is expired it sends the callback of our setTimeout function to the event loop. The event loop then works like this: if the call stack is empty it will take the first thing in the event loop and add it to the call stack. When it is added to the call stack it is javascript call stack business as usual. Call the function and pop it from the call stack.
 
 This is perfectly visualised here: <http://latentflip.com/loupe> <!-- no-https -->
 

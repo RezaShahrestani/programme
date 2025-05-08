@@ -45,7 +45,7 @@ If you struggle to do this weeks assignment there are a couple of things to do:
 
 Lets get started with some warm up exercises: On freeCodeCamp.com do the [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) exercises up and until the **"Manipulate Arrays With push()"** exercise (there are some topics we did not cover but you can do it).
 
-Please add your freecodecamp username as answer for this exercise!
+Please add your freeCodeCamp username as answer for this exercise!
 
 You have finished the warmup exercises, well done!
 
@@ -65,7 +65,7 @@ Cool now lets venture into the world and see which problems we can solve with so
 
 ### Age-ify (A future age calculator)
 
-> You are talking to a friend who suddently looks at you and asks: "How old will you be in 2045?" Hmm you remember the year you were born and try to do some calculation: Born in 1987 + 3 that's 1990. 90 - 40 is 50 + 5 thats 58. I will be 58! Wow that was painful! Let's fix that by making some code that automatically does this!
+> You are talking to a friend who suddenly looks at you and asks: "How old will you be in 2045?" Hmm you remember the year you were born and try to do some calculation: Born in 1987 + 3 that's 1990. 90 - 40 is 50 + 5 that's 58. I will be 58! Wow that was painful! Let's fix that by making some code that automatically does this!
 
 Create two variables called `yearOfBirth` and `yearFuture`. Assign these your birth year and a future year.
 What type will these two variables be? Using `yearOfBirth` and `yearFuture` calculate the age and store that in a variable called `age`.
@@ -118,7 +118,7 @@ const randomNumber = Math.floor(Math.random() * 10);
 
 ---
 
-4 projects from one startup, thats incredible! Lets hope one or more of these projects actually becomes popular!
+4 projects from one startup, that's incredible! Lets hope one or more of these projects actually becomes popular!
 
 To be continued...
 
@@ -140,7 +140,7 @@ Using the branch called `javascript-javascript1-week1`
 
 ---
 
-To add your files go to the folder `javascript/javascript1/week1`. Here you **add all the files relevant for the assignment**. Remember to **seperate the code into meaningful commits**. You can now push the commits
+To add your files go to the folder `javascript/javascript1/week1`. Here you **add all the files relevant for the assignment**. Remember to **separate the code into meaningful commits**. You can now push the commits
 
 ```shell
 git add <file_name>

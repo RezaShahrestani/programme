@@ -12,3 +12,4 @@ _Please go through the material and come to class prepared!_
 - [Executing Javascript in the browser environment](https://youtu.be/k8PEyCe3vK0)
 - [Interacting with the DOM using Javascript](https://youtu.be/YvHQIaKtOl8)
 - [DOM event listeners using Javascript](https://youtu.be/DwzApTvTngI)
+- [Fetching data from API using fetch - Javascript](https://youtu.be/pL_zEzunBKU)

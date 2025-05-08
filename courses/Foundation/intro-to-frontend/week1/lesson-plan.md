@@ -41,6 +41,11 @@ If you find anything that could be improved then please create a pull request! W
   - [Exercise simple](#simple-event-listener)
   - [Exercise dark mode light mode](#light-mode-dark-mode)
 
+- Fetch (No promise explanation! Focus on usage)
+  - Focus on usage let the students copy the fetch script and use it from there. Next week promises will be explained!
+  - [Code inspiration](#fetch)
+  - [Exercise 1](#astronauts-in-space), [exercise 2](#dog-fan-website)  
+
 Really try in this class to do short teaching and lots of exercises!
 
 ## Flipped classroom videos
@@ -91,6 +96,18 @@ document.querySelector("button").addEventListener("click", function (event) {
   body.style.backgroundColor = "red";
 });
 ```
+
+### Fetch
+
+```js
+fetch("https://yesno.wtf/api/")
+  .then((response) => response.json())
+  .then((yesOrNoData) => {
+    console.log(yesOrNoData);
+    // HERE IS WHERE YOU WRITE YOUR CODE!!!!!!!!
+  });
+```
+
 
 ## Exercises
 
@@ -158,3 +175,36 @@ Clicking a button should toggle the background color of the body and the text co
 If the background is white and the text is black, then clicking the button will make the background dark and the text white and vice versa
 
 _Optional_ also make the text on the button change.
+
+### Astronauts in space
+
+Use [this api](http://api.open-notify.org/astros.json) <!-- no-https--> to fetch how many astronauts are currently in spaces.
+
+Add the following text to the DOM, using the data about astronauts:
+
+```text
+There are NUMBER_OF_ASTRONAUTS astronauts in space, they are:
+ASTRONAUT_NAME1
+ASTRONAUT_NAME2
+ASTRONAUT_NAME3
+ASTRONAUT_NAME4
+ASTRONAUT_NAME5
+```
+
+An example with 2 astronauts could be:
+
+```text
+There are 2 astronauts in space, they are:
+Benjamin Hughes
+Jørgen Pedersen
+```
+
+### Dog fan website
+
+Let's create a site for dog lovers using this API: <https://dog.ceo/api/breeds/image/random>
+
+1. Get a random dog image and display it in the browser
+2. Get a new image every 2 sec.
+3. Get the list of all breeds from <https://dog.ceo/api/breeds/list/all>
+4. Display a random image of a breed from the list <https://dog.ceo/api/breed/[BREEDNAME]/images/random>
+5. Display the name of the breed under the image

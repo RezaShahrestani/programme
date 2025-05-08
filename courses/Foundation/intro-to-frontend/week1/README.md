@@ -23,6 +23,10 @@ Event listeners
 - [ ] Document onload
 - [ ] Click, submit, change, input - Focus on usage
 
+Making requests
+
+- [ ] Fetch (No promise explanation! Focus on usage)
+
 ## Relevant links
 
 - [Preparation](preparation.md)

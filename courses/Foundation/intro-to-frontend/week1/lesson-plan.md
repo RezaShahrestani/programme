@@ -34,6 +34,7 @@ If you find anything that could be improved then please create a pull request! W
     - Exercises: [Favourite dishes](#favourite-dishes), [podcasts](#podcast), [image inserter](#image-inserter)
 
 - Event listeners - Focus on usage, no explanation of callback
+
   - Click, mouseover, etc. Explain one and let students investigate another, like mouseover or mousemove
   - Input Change, input
   - Event parameter
@@ -44,7 +45,7 @@ If you find anything that could be improved then please create a pull request! W
 - Fetch (No promise explanation! Focus on usage)
   - Focus on usage let the students copy the fetch script and use it from there. Promises are out of scope in this module.
   - [Code inspiration](#fetch)
-  - [Exercise 1](#astronauts-in-space), [exercise 2](#dog-fan-website)  
+  - [Exercise 1](#astronauts-in-space), [exercise 2](#dog-fan-website)
 
 Really try in this class to do short teaching and lots of exercises!
 
@@ -107,7 +108,6 @@ fetch("https://yesno.wtf/api/")
     // HERE IS WHERE YOU WRITE YOUR CODE!!!!!!!!
   });
 ```
-
 
 ## Exercises
 

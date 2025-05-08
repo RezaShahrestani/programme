@@ -113,7 +113,6 @@ Here is a possible way to render the products
    2. Set the innerHTML of that `li` to the contain the title, price and rating
    3. [Append the `li`](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild) to the `ul`
 
-
 ## 4. Weather app
 
 Lets create a **weather app** that based on a **users location** can find the relevant weather for that user.

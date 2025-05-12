@@ -9,7 +9,7 @@ Objective: the students should know how SQL injections happen, and how to define
 Please read the following pages that explains the ACID database model:
 
 - [ACID Properties with real life examples](https://medium.com/%40tushar.rooks/acid-properties-with-real-life-examples-b83a37667338)
-- [Why you should never use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb)
+- [Why you should never use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb) <!-- no-https -->
 
 Also the students should watch this video: <https://youtu.be/HSt4nlUIF-A>
 
@@ -69,33 +69,33 @@ Create these queries
 
 #### Meal
 
-| Queries to write                                                                          |
-| ----------------------------------------------------------------------------------------- |
-| Get all meals                                                                             |
-| Add a new meal                                                                            |
-| Get a meal with any id, fx 1                                                              |
-| Update a meal with any id, fx 1. Update any attribute fx the title or multiple attributes |
-| Delete a meal with any id, fx 1                                                           |
+| Queries to write                                                                              |
+| --------------------------------------------------------------------------------------------- |
+| Get all meals                                                                                 |
+| Add a new meal                                                                                |
+| Get a meal with any id, e.g. 1                                                                |
+| Update a meal with any id, e.g. 1. Update any attribute e.g. the title or multiple attributes |
+| Delete a meal with any id, e.g. 1                                                             |
 
 #### Reservation
 
-| Queries to write                                                                                 |
-| ------------------------------------------------------------------------------------------------ |
-| Get all reservations                                                                             |
-| Add a new reservation                                                                            |
-| Get a reservation with any id, fx 1                                                              |
-| Update a reservation with any id, fx 1. Update any attribute fx the title or multiple attributes |
-| Delete a reservation with any id, fx 1                                                           |
+| Queries to write                                                                                     |
+| ---------------------------------------------------------------------------------------------------- |
+| Get all reservations                                                                                 |
+| Add a new reservation                                                                                |
+| Get a reservation with any id, e.g. 1                                                                |
+| Update a reservation with any id, e.g. 1. Update any attribute e.g. the title or multiple attributes |
+| Delete a reservation with any id, e.g. 1                                                             |
 
 #### Review
 
-| Queries to write                                                                            |
-| ------------------------------------------------------------------------------------------- |
-| Get all reviews                                                                             |
-| Add a new review                                                                            |
-| Get a review with any id, fx 1                                                              |
-| Update a review with any id, fx 1. Update any attribute fx the title or multiple attributes |
-| Delete a review with any id, fx 1                                                           |
+| Queries to write                                                                                |
+| ----------------------------------------------------------------------------------------------- |
+| Get all reviews                                                                                 |
+| Add a new review                                                                                |
+| Get a review with any id, e.g. 1                                                                |
+| Update a review with any id, e.g. 1. Update any attribute e.g. the title or multiple attributes |
+| Delete a review with any id, e.g. 1                                                             |
 
 #### Additional queries
 
@@ -103,11 +103,11 @@ Now add a couple of different meals, reservations and reviews with different att
 
 | Functionality                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------- |
-| Get meals that has a price smaller than a specific price fx 90                                                 |
+| Get meals that has a price smaller than a specific price e.g. 90                                               |
 | Get meals that still has available reservations                                                                |
 | Get meals that partially match a title. `Rød grød med` will match the meal with the title `Rød grød med fløde` |
 | Get meals that has been created between two dates                                                              |
-| Get only specific number of meals fx return only 5 meals                                                       |
+| Get only specific number of meals e.g. return only 5 meals                                                     |
 | Get the meals that have good reviews                                                                           |
 | Get reservations for a specific meal sorted by created_date                                                    |
 | Sort all meals by average number of stars in the reviews                                                       |

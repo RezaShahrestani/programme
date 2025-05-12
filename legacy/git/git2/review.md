@@ -43,7 +43,7 @@ git remote add origin https://github.com/marta_matos/my_first_repo.git
 ```
 
 Replace the URL with the URL of the repository that you actually want to add.
-Also, remember that `origin` is just a place holder, and the convention is to use `origin` for a repository that is in your own github account and `upstream` for a repository that is in someone else's github account (used in the forking worklow).
+Also, remember that `origin` is just a place holder, and the convention is to use `origin` for a repository that is in your own github account and `upstream` for a repository that is in someone else's github account (used in the forking workflow).
 
 Now you are able to push your changes to the selected remote server i.e. your remote repository on GitHub.
 

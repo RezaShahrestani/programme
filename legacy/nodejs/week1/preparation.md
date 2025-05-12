@@ -59,7 +59,7 @@ You can also feed node files to evaluate and this is where node becomes such a p
 
 ### Creating an NPM project with a script that starts the application
 
-<http://ajmalsiddiqui.me/blog/introduction-to-npm-scripts/>
+<https://ajmalsiddiqui.me/blog/introduction-to-npm-scripts/>
 
 ### As a Webserver
 

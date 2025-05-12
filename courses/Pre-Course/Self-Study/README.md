@@ -4,18 +4,18 @@ This module lists the steps you have to complete **BEFORE** the Foundation cours
 
 You are going to be fully self-learning `HTML` and `CSS`, so it is very important and **mandatory** that you complete the steps before the first Sunday session at HackYourFuture.
 
-You will also get a little introduction to `Javascript`, so that you can be more comfortable jumping into it when the course starts.
+You will also get a little introduction to `JavaScript`, so that you can be more comfortable jumping into it when the course starts.
 
 ## HTML and CSS
 
 ### freeCodeCamp certifications
 
-The `freeCodeCamp` courses are a good way to learn and their certifications are widely recognized, therefore we use this platform to give you a good start with learning `Web Development` and having a way to showcase your learning.
+The `freeCodeCamp` courses are a good way to learn. Their certifications are widely recognized, therefore we use this platform to give you a good start with learning `Web Development` and having a way to showcase your learning.
 
 ### What you have completed already
 
-There are 5 parts in the [Responsive Web Design certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Each part contains a few sections and a certification project at the end of each part.
-You have already finished at least 2 sections from the first part as part of the application process:
+There are 5 parts in the [Responsive Web Design certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Each part contains a few sections and a certification project at the end.
+You have already finished at least 2 sections from the first part during the application process:
 
 - [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/)
 
@@ -31,14 +31,14 @@ You should finish the first part and the certification project that goes with it
 
 - [Certification Project - Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
 
-This will familiarise you with `CSS` colors and building `Forms` with `HTML` and `CSS`, which are both essential parts of basic Web Development knowledge.
+This will familiarize you with `CSS` colors and building `Forms` with `HTML` and `CSS`, which are both essential parts of basic Web Development knowledge.
 
 You should also complete 2 more sections from the second part:
 
 - [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting)
 - [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery)
 
-Learning the CSS Box Model and Flexbox will give you very good foundational knowledge to deal with any styling or layout challenge.
+Learning the CSS Box Model and Flexbox will give you a very good foundational knowledge to deal with any styling or layout challenge.
 
 ## JavaScript
 
@@ -69,16 +69,16 @@ Complete these steps in the freeCodeCamp [JavaScript Algorithms and Data Structu
 - [Compound Assignment With Augmented Multiplication](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)
 - [Compound Assignment With Augmented Division](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division)
 
-If you like the `freeCodeCamp` format, you should definitely continue beyond what we ask of you and attain the various relevant certifications - especially by finishing off the **Responsive Web Design** and **Javascript Algorithms and Data Structures** certifications!
+If you like the `freeCodeCamp` format, you should definitely continue beyond what we ask of you and attain the various relevant certifications - especially by completing the **Responsive Web Design** and **Javascript Algorithms and Data Structures** certifications!
 
 ## Submitting your preparation
 
-Before the first Sunday session, you must have completed all the steps listed above. You then need to make your freeCodeCamp profile public - [Video here to show you how to do this](https://www.loom.com/share/019547eab49e4e198fd2d24f6cb27d3c) - and post a link to your profile in your team Slack channel. If you do not do this before the first Sunday session, you will not be able to continue with the course.
+Before the first Sunday session, you must have completed all the steps listed above. Then you need to make your `freeCodeCamp` profile public - [Video on How to make your freeCodeCamp profile public](https://www.loom.com/share/019547eab49e4e198fd2d24f6cb27d3c) - and post a link to your profile in your team Slack channel. If you do not do this before the first Sunday session, you will not be able to continue with the course.
 
 ## FAQ
 
-- If you have completed all these parts already, just continue further with the certifications. You are here to learn after all and you are entering a journey of self-teaching!
+- If you have completed all these parts already, just continue further with the certifications. You are here to learn after all and you are entering a journey of self-learning!
 
-- If you have not completed the steps listed above from the `Responsive Web Design` ceritification and the `JavaScript Algorithms and Data Structures` certification by the time of the first Sunday session, you will not be able to continue with the course.
+- If you have not completed the steps listed above from the `Responsive Web Design` certification and the `JavaScript Algorithms and Data Structures` certification by the time of the first Sunday session, you will not be able to continue with the course.
 
-- Stuck or need help? Please use your team Slack channel to ask for help from your fellow trainees. Asking for help, explaining the problems you have, and sharing your own knowledge with your fellow trainees are all very important skills to succeed in HackYourFuture, so start practicing right now!
+- Stuck or need help? Please use your team Slack channel to ask for help from your fellow trainees. Asking for help, explaining the problems you have, and sharing your own knowledge with your fellow trainees are all very important skills to succeed in HackYourFuture, so start practising now!

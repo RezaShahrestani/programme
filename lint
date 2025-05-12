@@ -2,16 +2,69 @@
 
 set -eu
 
-if [ "${1:-}" == "--fix" ] ; then
-  npm exec -- markdownlint --ignore 'node_modules/' --fix '**/*.md'
-  npm exec -- prettier --write .
-else
-  trap '
-    if [ $? -ne 0 ] ; then
-      echo "Try '\''./lint --fix'\'' to see if any automatic fixes are possible"
+validate-links() {
+    echo "validate-links: RUN"
+    if npm exec -- node support/dist/validateLinks.js ; then
+      echo validate-links: PASS
+    else
+      echo validate-links: FAIL
+      return 1
     fi
-  ' 0
+}
 
-  npm exec -- markdownlint --ignore 'node_modules/' '**/*.md'
-  npm exec -- prettier --check .
+markdownlint() {
+  echo "markdownlint: RUN"
+  if npm exec -- markdownlint --ignore 'node_modules/' '**/*.md' ; then
+    echo "markdownlint: PASS"
+  else
+    echo "markdownlint: FAIL"
+    return 1
+  fi
+}
+
+prettier() {
+  echo "prettier: RUN"
+  if npm exec -- prettier --check . ; then
+    echo "prettier: PASS"
+  else
+    echo "prettier: FAIL"
+    return 1
+  fi
+}
+
+lint-git-tree() {
+  echo "lint-git-tree: RUN"
+  if npx @blaahaj/lint-git-tree ; then
+    echo "lint-git-tree: PASS"
+  else
+    echo "lint-git-tree: FAIL"
+    return 1
+  fi
+}
+
+all() {
+  local rc=0
+  echo "lint: RUN"
+  validate-links || rc=1
+  markdownlint || rc=1
+  prettier || rc=1
+  lint-git-tree || rc=1
+
+  if [ $rc -eq 0 ] ; then
+    echo "lint: PASS"
+  else
+    echo "lint: FAIL"
+    echo "Try './lint --fix' to see if any automatic fixes are possible"
+  fi
+
+  return $rc
+}
+
+if [ "${1:-}" == "--fix" ] ; then
+  npm exec -- markdownlint --ignore 'node_modules/' --fix '**/*.md' || :
+  npm exec -- prettier --write . || :
+elif [ "${1:-}" == "validate-links" ] ; then
+  validate-links
+else
+  all
 fi

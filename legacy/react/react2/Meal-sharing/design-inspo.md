@@ -30,7 +30,6 @@
 ![screenshot](./examples/other-websites/ow-5.png)
 ![screenshot](./examples/other-websites/ow-6.png)
 ![screenshot](./examples/other-websites/ow-7.png)
-![screenshot](./examples/other-websites/ow-8.png)
 ![screenshot](./examples/other-websites/ow-9.png)
 ![screenshot](./examples/other-websites/ow-10.png)
 ![screenshot](./examples/other-websites/ow-11.png)

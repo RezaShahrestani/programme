@@ -1,13 +1,13 @@
 # Lesson plan
 
 - Focus on having lots of in class exercises.
-- DONT teach everything, let the students investigate topics on their own aswell!
+- DON'T teach everything, let the students investigate topics on their own as well!
 - Focus on how to read documentation, google answers and google errors!!
 - Teach towards the students being able to solve the homework
 
-Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you dont have access, write to one from the core team. You can see an example below!
+Remember to add the code you wrote in the class to the relevant class branch's class work folder. If the branch has not been created just create and push it :) If you don't have access, write to one from the core team. You can see an example below!
 
-To find examples of what teachers have taught before go to the class branches in the classwork folder, Fx [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
+To find examples of what teachers have taught before go to the class branches in the classwork folder, e.g. [class 07](https://github.com/HackYourFuture-CPH/JavaScript/tree/class07/JavaScript1/Week1/classwork)
 
 If you find anything that could be improved then please create a pull request! We welcome changes, so please get involved if you have any ideas!!!
 
@@ -54,7 +54,7 @@ In the first week of the module we will focus on a general introduction starting
 
 ### What is backend?
 
-In software development, we separate the user experience and utility (the `frontend`) from the code that actually makes it work (the `backend`). The real world contains many examples of this division: take for example an [ATM](../images/atm.jpg). What you can interact with it (press a button or insert a card), you are dealing with the `user interface`; which is the end result of frontend code. However, everything that's needed to make it work like that is found within the device: this is the hardware and software needed to make it work the way it does.
+In software development, we separate the user experience and utility (the `frontend`) from the code that actually makes it work (the `backend`). The real world contains many examples of this division: take for example an ATM. What you can interact with it (press a button or insert a card), you are dealing with the `user interface`; which is the end result of frontend code. However, everything that's needed to make it work like that is found within the device: this is the hardware and software needed to make it work the way it does.
 
 In web development the term backend can be boiled down to 3 components:
 
@@ -129,7 +129,7 @@ Look into the following resources to increase your understanding:
 - [The Http and the Web: Http explained](https://www.youtube.com/watch?v=eesqK59rhGA)
 - [Basics concepts of web applications](https://www.youtube.com/watch?v=RsQ1tFLwldY)
 
-- [@NoerGitKat (lots of web app clones/examples to learn from)](https://www.github.com/NoerGitKat)
+- [@NoerGitKat (lots of web app clones/examples to learn from)](https://github.com/NoerGitKat)
 
 ### Flipped classroom videos
 

@@ -7,7 +7,45 @@ Write in there to introduce yourself, and a staff member will onboard you and se
 
 ## How to contribute
 
-(We will flesh these processes more as we go...)
+This project is a collection of structured README files. To maintain consistency and quality, we use a linter and suggest some recommended editor extensions.
+
+### 1. Install dependencies
+
+First, make sure you have [Node.js](https://nodejs.org/) installed.
+
+Then, install the project dependencies using:
+
+```bash
+npm ci
+```
+
+This ensures a clean and reproducible setup based on the `package-lock.json`.
+
+### 2. Set up your editor (optional but recommended)
+
+If you are using [Visual Studio Code](https://code.visualstudio.com/), we have a list of recommended extensions in `.vscode/extensions.json`. When you open the project in VSCode, it will automatically suggest installing them to improve your development experience.
+
+These extensions help with linting and maintaining the project’s standards.
+
+### 3. Make your changes
+
+Edit or create README files as needed. Follow the existing formatting and writing style.
+
+### 4. Run the linter
+
+Before committing your changes, make sure everything passes the linter.
+
+To check for linting issues:
+
+```bash
+./lint
+```
+
+To automatically fix some issues:
+
+```bash
+./lint --fix
+```
 
 ### Existing issues
 
@@ -15,9 +53,9 @@ Very briefly: check the project board "Todo" column, choose one ideally near the
 
 ### New ideas
 
-Very briefly: Create an issue on this repo, get some feedback, and we'll prioritise them together at the next meeting.
+Very briefly: Create an issue on this repo, get some feedback, and we'll prioritize them together at the next meeting.
 
-Note: You are always welcome to open issues/create PRs for new ideas, whenever you like. It's an open source project. If we are currently working together towards a project goal, then it would be most helpful to prioritise tasks for that first, though.
+Note: You are always welcome to open issues/create PRs for new ideas, whenever you like. It's an open source project. If we are currently working together towards a project goal, then it would be most helpful to prioritize tasks for that first, though.
 
 ## How permissions work
 

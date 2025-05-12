@@ -16,7 +16,7 @@ The final project is organised differently for each team, depending on the team 
   - [ ] Learn to read and extend or improve other peoples code
   - [ ] Learn to give/receive PR feedback
   - [ ] Learn to plan and communicate technical solutions upfront before implementing
-- [ ] Develop self-guided learning skills (e.g. learn to read documetation for a framework or API)
+- [ ] Develop self-guided learning skills (e.g. learn to read documentation for a framework or API)
 - [ ] Interpreting wireframes/prototypes into requirements
 - [ ] Breaking bigger problems into smaller written tasks
 - [ ] Working in sprints with deadlines

@@ -13,8 +13,8 @@ Since this is a semi flipped classroom, where you prepare the class during the w
 
 ## Readings
 
-- [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
-- [What is a Database Foreign Key](http://databases.about.com/cs/specificproducts/g/foreignkey.htm)
+- [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+- [What is a Database Foreign Key](http://databases.about.com/cs/specificproducts/g/foreignkey.htm) <!-- http-404 -->
 
 ## Exercise before class
 
@@ -28,7 +28,7 @@ In lesson 2 things are going to get more interesting, as different users can be 
 So we'll have a many-to-many relationship, i.e., one task can be assigned to many users and one user can be assigned to many tasks.
 For instance:
 
-- Donald Duck and Wonderwoman will do the task "Fix Donald's bike", and
+- Donald Duck and Wonder Woman will do the task "Fix Donald's bike", and
 - Donald Duck will do the tasks "Fix Donald's bike" and "Cook Dinner".
 
 The exercise for this week is for you (in groups to be defined in the class channel) to find out what needs to change in the database to support this many-to-many relationship.

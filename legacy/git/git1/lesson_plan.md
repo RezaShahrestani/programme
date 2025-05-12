@@ -4,7 +4,7 @@
 
 These are some examples of previously created materials by mentors that you can use yourself, or for inspiration.
 
-- [Introduction to Git](https://radical-somersault-80b.notion.site/Introduction-to-Git-184dc1cafb9480ffad0de16e6ea8b379) (by [@aina21](https://www.github.com/aina21), Team 31)
+- [Introduction to Git](https://radical-somersault-80b.notion.site/Introduction-to-Git-184dc1cafb9480ffad0de16e6ea8b379) (by [@aina21](https://github.com/aina21), Team 31)
 
 ## Lesson outline
 
@@ -69,7 +69,7 @@ The exercises suggested for the flipped classroom can be found [here](./class_ex
     - slide 17
 13. Do a little exercise where the students:
 
-    - have them clone their class homweork repo into their computer (this is to get everyone on the same page, otherwise it is a mess)
+    - have them clone their class homework repo into their computer (this is to get everyone on the same page, otherwise it is a mess)
     - create a folder named `class_playground` under `git/week1`
     - add some files
     - commit the changes
@@ -89,7 +89,6 @@ The exercises suggested for the flipped classroom can be found [here](./class_ex
 Here you can find all the materials used to teach the first Git class ✨:
 
 - **[Review](review.md)** - contains a short review over the materials taught in class;
-- **[FAQ](frequently_asked_questions.md)** - contains a compilation of the frequently asked questions;
-- **[Cheatsheet](cheatsheet.md)** - contains a cheatsheet with the commands used during the class (and a few extra);
+- **[Cheat-sheet](cheatsheet.md)** - contains a cheat-sheet with the commands used during the class (and a few extra);
 - **[Resources](resources.md)** - contains some resources about Git that might be useful;
 - **[Git Basics](Git_basics.pdf)** - the slides used to teach some concepts during class.

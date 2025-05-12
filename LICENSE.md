@@ -4,4 +4,4 @@ The HackYourFuture programme is subject to CC BY NC SA copyright. This means you
 
 ![Creative Commons License ](https://github.com/user-attachments/assets/912a16ff-b11a-4dcf-9c07-7bdce3d72e64)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).

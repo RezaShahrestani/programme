@@ -4,7 +4,7 @@
 
 This module describes the application process for joining HackYourFuture Denmark, specifically the Foundation course. If you have been invited to take part in the Technical Application, please continue reading.
 
-The following pages will take you through the different stages of the application process, so please read and complete each section carefull.y
+The following pages will take you through the different stages of the application process, so please read and complete each section carefully.
 
 The whole application process should take around 30 hours, and you have approximately 10 days to complete all parts. We strongly advise that you spread out the workload across the 10 days, and **don't leave it all until the last minute!**
 
@@ -50,10 +50,10 @@ Check if you are ready and submit!
 
 - [ ] I have created a `GitHub` account
 - [ ] I have signed up to `freeCodeCamp` with my GitHub account
-- [ ] I have have signed up to `codepen` with my Github account
+- [ ] I have have signed up to `CodePen` with my Github account
 - [ ] I have made my `freeCodeCamp` profile timeline public
 - [ ] I have completed the first 2 Courses in the `freeCodeCamp` `Responsive Web Design` Certification, and taken a screenshot of the finished courses
-- [ ] I have created the Event Page project in `codepen` and completed the tasks
+- [ ] I have created the Event Page project in `CodePen` and completed the tasks
 - [ ] I have made a project overview video
 
 Have you completed the list?

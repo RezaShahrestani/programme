@@ -6,7 +6,7 @@ The end goal of the exercise is to implement the following routes:
 - `GET /api/snippets` to get a list of snippets
 - `GET /api/snippets/:id` to get a single snippet
 
-We will create the snippet routes in a different file, `api/snippets.js`, which will export an [Express Router](http://expressjs.com/en/4x/api.html#router).
+We will create the snippet routes in a different file, `api/snippets.js`, which will export an [Express Router](https://expressjs.com/en/4x/api.html#router).
 
 That will look something like this:
 

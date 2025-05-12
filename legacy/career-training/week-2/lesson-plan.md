@@ -39,7 +39,7 @@ Recruiter or Hiring Manager schedules or calls the candidate.
 
 If the Hiring Manager is happy, there will be a technical assignment
 
-1. Can be a take home assignment, or standardized as Codinggame, Hackerrank or Coderbyte.
+1. Can be a take home assignment, or standardized as CodingGame, HackerRank or CoderByte.
 2. Do it as soon as you can (but familiarise yourself with the platform)
 3. References! Know HYF mentors or alumni in the company? Mention them!
 4. Evaluated by Hiring Manager & a Senior/ PO.

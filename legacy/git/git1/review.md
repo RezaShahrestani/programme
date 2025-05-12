@@ -81,7 +81,7 @@ and create a new git repository using:
 git init
 ```
 
-You can also create a repository on your local machine by cloning a remote repository with `git clone <URL>` command. This copies the repository from a remote machine (typically github) and initializes it on your machine. You can try to clone some public repositories on [github.com](www.github.com).
+You can also create a repository on your local machine by cloning a remote repository with `git clone <URL>` command. This copies the repository from a remote machine (typically github) and initializes it on your machine. You can try to clone some public repositories on [github.com](https://github.com/).
 
 Before creating any repository make sure you are not inside a git repository already. This is very important!!! To do so type `git status`, if you get an error it means you are not inside a git repository and you can safely create a new one.
 
@@ -113,7 +113,7 @@ To expand.
 Trees need branches to expand.
 Banks needs (office) branches to expand.
 Company needs (code) branches to expand.
-E.g. Branches for Bugs, testing, featuers, production, staging etc.
+E.g. Branches for Bugs, testing, features, production, staging etc.
 
 #### 3.2 Working with branches
 
@@ -158,7 +158,7 @@ When you have an existing local repository (in your computer) that you want to c
 git remote add origin <link_to_gihub_repository>
 ```
 
-Here you are basically adding the connection to a remote repository named `origin`, where `origin` stands for the link to the github respository, for instance `https://github.com/marta_matos/git_example.git`.
+Here you are basically adding the connection to a remote repository named `origin`, where `origin` stands for the link to the github repository, for instance `https://github.com/marta_matos/git_example.git`.
 To check if your local repository is connected to a remote repository (e.g. on Github) and what is the address of that repository you can always run:
 
 ```shell

@@ -8,8 +8,8 @@ In order to prepare for your Technical Mock-Interview, please take a look at the
 
 - What is the ["STAR" answer format](https://www.amazon.jobs/en/landing_pages/in-person-interview)?
 - Check out the [Developer Interview Training by Google](https://grow.google/certificates/interview-warmup/)
-- If you haven't yet.. read the [Freecodecamp React Interview Questions](https://www.freecodecamp.org/news/react-interview-questions-to-know/)
-- Check out the [Novoresumé](https://novoresume.com/) book about the Interview process [here](./novoresume-interview.pdf)
+- If you haven't yet.. read the [FreeCodeCamp React Interview Questions](https://www.freecodecamp.org/news/react-interview-questions-to-know/)
+- Check out the [Novoresumé](https://novoresume.com/) book about the Interview process [here](../week-2/novoresume-interview.pdf)
 
 ### General question catalog for interviewees
 

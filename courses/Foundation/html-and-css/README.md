@@ -1,6 +1,6 @@
-# HTML-CSS
+# HTML & CSS
 
-This repository contains the course material for the one and only HTML/CSS session. During the session we will review the concepts learned from the [Pre-Course](../../Pre-Course/README.md) materials and work hands-on with a large [exercise](./The-one-and-only-week1/README.md).
+This repository contains the course material for the one and only "HTML & CSS" session. During the session we will review the concepts learned from the [Pre-Course](../../Pre-Course/README.md) materials and work hands-on with a large [exercise](./The-one-and-only-week1/README.md).
 
 | Week | Topic                                                                                                       | Preparation                              | Lesson Plan                                       | Assignment                    |
 | ---- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------- | ----------------------------- |

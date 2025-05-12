@@ -7,7 +7,7 @@
 
 | Name                                            | Weeks |
 | ----------------------------------------------- | ----- |
-| [HTML & CSS](./html-css)                        | 1     |
+| [HTML & CSS](./html-and-css/)                   | 1     |
 | [Git](./git)                                    | 1     |
 | [Intro to JavaScript](./intro-to-javascript/)   | 4     |
 | [Web Architecture 101](./web-architecture-101/) | 1     |

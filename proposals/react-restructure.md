@@ -11,7 +11,6 @@ The purpose of this restructuring is to enhance trainees' learning experience by
 ![draw io 2025-05-10 15 15 20](https://github.com/user-attachments/assets/1129af41-d894-422a-8b56-b7ef8fd42d07)
 ![draw io 2025-05-10 15 15 30](https://github.com/user-attachments/assets/b3cee13d-472e-4e47-ac66-689b3b840ee1)
 
-
 ## 🧱 PROPOSED MODULE STRUCTURE
 
 ### React Module (4 Weeks)
@@ -21,46 +20,45 @@ Covers everything essential about React and building React applications, includi
 
 **Teaching Methodology:**
 
-* **Flipped classroom:** With preparation materials, class sessions are dedicated to solving problems and practical implementation rather than theoretical explanations. \[From my experience, this amount of matherial might become 4-hours-lecture instead of 4-hours-practice]
-* **Preparation Materials:** Improve beyond React documentation for effective flipped classroom learning.
+- **Flipped classroom:** With preparation materials, class sessions are dedicated to solving problems and practical implementation rather than theoretical explanations. \[From my experience, this amount of matherial might become 4-hours-lecture instead of 4-hours-practice]
+- **Preparation Materials:** Improve beyond React documentation for effective flipped classroom learning.
 
 **Technical Recommendations:**
 
-* Use Vite or similar library for a client-only React setup to simplify configuration and focus more on React itself.
+- Use Vite or similar library for a client-only React setup to simplify configuration and focus more on React itself.
 
 **Homework Strategy:**
 
-* "Meal Sharing" project can be integrated progressively during the course, rather than post-module only.
+- "Meal Sharing" project can be integrated progressively during the course, rather than post-module only.
 
 ![draw io 2025-05-10 15 15 50](https://github.com/user-attachments/assets/8c98a4ae-aeed-41d1-afc2-33667ff6bd44)
 
-
-#### Weekly Goals and Topics:
+#### Weekly Goals and Topics
 
 **Week 1:** Everything about rendering a single component.
 
-* React Introduction
-* JSX fundamentals
-* Components, props, CSS imports
+- React Introduction
+- JSX fundamentals
+- Components, props, CSS imports
 
 **Week 2:** Master state management (passing, storing, updating state).
 
-* useState Hook
-* Conditional rendering, dynamic rendering
+- useState Hook
+- Conditional rendering, dynamic rendering
 
 **Week 3:** Component lifecycle, data management (events, API), and refs.
 
-* Event handlers, form management
-* useEffect Hook
-* API integration
+- Event handlers, form management
+- useEffect Hook
+- API integration
 
 **Week 4:** Context, Routing, Libraries, handling real-world cases.
 
-* React Context
-* (Optional): Reducers (I haven’t seen it used in production a lot), advanced state management
-* Component libraries (UI libraries)
-* &#x20;Routing
-* Introduction to easy deployment (Vercel)
+- React Context
+- (Optional): Reducers (I haven’t seen it used in production a lot), advanced state management
+- Component libraries (UI libraries)
+- &#x20;Routing
+- Introduction to easy deployment (Vercel)
 
 ---
 
@@ -72,14 +70,14 @@ Since trainees has already seen most of fundamental concepts and how they solved
 
 **Teaching Methodology:**
 
-* **Preparation Materials:** Use “Next.js” original introduction course.
+- **Preparation Materials:** Use “Next.js” original introduction course.
 
 ![draw io 2025-05-10 15 16 06](https://github.com/user-attachments/assets/bece24ea-418c-436d-b6d3-89da91b631e4)
 
-#### Topics:
+#### Topics
 
-* Introduction to Next.js (why Next.js, recommended by React)
-* SSR & SSG
-* Next.js App Router
-* When to use client vs server components
-* Optional Advanced: Server Actions, API Routes
+- Introduction to Next.js (why Next.js, recommended by React)
+- SSR & SSG
+- Next.js App Router
+- When to use client vs server components
+- Optional Advanced: Server Actions, API Routes

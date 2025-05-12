@@ -1,6 +1,6 @@
-## 📘 React & Next.js Module Restructuring Plan Proposal
+# 📘 React & Next.js Module Restructuring Plan Proposal
 
-### 🎯 Goal
+## 🎯 Goal
 
 The purpose of this restructuring is to enhance trainees' learning experience by clearly distinguishing foundational React concepts from the advanced features provided by Next.js. The current structure mixes fundamental and framework-specific topics, which has caused confusion and hindered deeper understanding. By separating these topics into two distinct, focused modules—one dedicated to mastering core React concepts and another specifically for exploring Next.js—we aim to improve comprehension, reinforce skills through targeted exercises, and ultimately empower trainees to confidently build real-world applications using modern development practices.
 

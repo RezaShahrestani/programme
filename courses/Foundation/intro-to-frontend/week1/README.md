@@ -1,4 +1,4 @@
-# JavaScript 2, Week 1
+# Intro to Frontend, Week 1
 
 ## Learning goals
 

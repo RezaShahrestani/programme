@@ -1,6 +1,7 @@
 # Lesson Plan
 
 ## What is Node.js?
+
 Node.js is software that allows you to use JavaScript to write the application part of the backend. The application is written in different .js files, and are then read and executed using the node command in the Command Line. For example, node script.js.
 
 Read the following article and code along: Introduction into Node.js

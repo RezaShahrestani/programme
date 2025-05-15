@@ -9,7 +9,7 @@ There are two reasons why we at HYF choose Node.JS over others:
 2. Node.js is great for making web APIs because it is asynchronous by nature and thus allows for high input/output. By this we mean that it allows many users to make very light requests at the same time.
 
 ## Learning goals
-- [ ] [Introduction to Node.js](#What-is-Nodejs)
+- [ ] Introduction to Node.js
   - [ ] [What is node and why node?](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
   - [ ] V8 vs the browser that runs js?
   - [ ] What can you build with Node.js?
@@ -21,7 +21,6 @@ There are two reasons why we at HYF choose Node.JS over others:
   - [ ] Tests
   - [ ] Modules
     - [ ] Creating and importing using `export` and `import` in modern ES6 syntax
-    - [ ] [Live coding](#created-module)
     - [ ] Npm modules
       - npmjs.org
       - `npm install -s express`
@@ -38,3 +37,4 @@ There are two reasons why we at HYF choose Node.JS over others:
   - [ ] CRUD vs REST
   - [ ] Connecting to a database using JavaScript
   - [ ] Executing queries (i.e. CRUD)
+  

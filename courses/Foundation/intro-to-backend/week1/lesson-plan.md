@@ -1,3 +1,5 @@
+# Lesson Plan
+
 ## What is Node.js?
 Node.js is software that allows you to use JavaScript to write the application part of the backend. The application is written in different .js files, and are then read and executed using the node command in the Command Line. For example, node script.js.
 
@@ -17,6 +19,6 @@ Go to the `teacher-live-coding` [project repository](https://github.com/HackYour
 
 ### Exercises
 
-1. [Server](./exercises/01-server.md): Setup project and create a server with Express
-1. [Database](./exercises/02-database.md): Connect to your MySQL database from Node.js and Express
-1. [User routes](./exercises/03-user-routes.md): Declare new routes that interact with a `users` table
+1. [Server](../exercises/01-server.md): Setup project and create a server with Express
+1. [Database](../exercises/02-database.md): Connect to your MySQL database from Node.js and Express
+1. [User routes](../exercises/03-user-routes.md): Declare new routes that interact with a `users` table

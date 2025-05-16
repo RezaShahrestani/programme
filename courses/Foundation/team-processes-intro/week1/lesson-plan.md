@@ -1,15 +1,10 @@
-# Lesson plan
+# Lesson Plan
 
+## Introduction
 TBD
 
-# Introduction
-
+## Learning Goals
 TBD
 
-# Learning goals
-
-TBD
-
-# Content for the class - TBD
-
+## Content for the Class - TBD
 TBD

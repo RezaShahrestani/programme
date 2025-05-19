@@ -4,10 +4,9 @@ This module aims to introduce the following principles and processes around work
 
 ## Planning
 
-| Week | Topic                                                   | Preparation                         | Homework                             | Lesson plan                         |
-| ---- | ------------------------------------------------------- | ----------------------------------- | ------------------------------------ | ----------------------------------- |
-| 1.   | HTTP <br> Introduction to node js <br> Simple webserver | [Preparation](week1/preparation.md) | [Homework](week1/homework/readme.md) | [Lesson plan](week1/lesson-plan.md) |
-
+| Week | Topic                                         | Preparation                         | Homework                             | Lesson plan                         |
+| ---- | --------------------------------------------- | ----------------------------------- | ------------------------------------ | ----------------------------------- |
+| 1.   | HTTP Introduction to node js Simple webserver | [Preparation](week1/preparation.md) | [Homework](week1/homework/readme.md) | [Lesson plan](week1/lesson-plan.md) |
 
 ## Pre-requisites
 

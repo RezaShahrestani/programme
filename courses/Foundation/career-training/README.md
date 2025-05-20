@@ -8,7 +8,7 @@ In this repository you can find all the info and material from your Career Sessi
 | ---- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------- | ----------------------------- |
 | 1.   | Danish job market, job search and general introduction to the “strong profile for Danish recruiters”. Initial session where we introduce general info about the Danish job market, recruitment practices and the role of unions. | [Preparation](./week1/preparation.md) | [Lesson Plan](./week1/lesson-plan.md) | (There is no assignment) |
 | 2.   | The Jobseeker Toolkit. This session is used to show the importance of having a strong CV, LinkedIn and GitHub. We will do break-out rooms with small exercises where they have to identify good and bad practices. | [Preparation](./week2/preparation.md) | [Lesson Plan](./week2/lesson-plan.md) | [Assignment](./week2/assignment.md) |
-| 3.   | Technical Mock Interview. This session is for practicing technical interviews and receiving feedback from peers and technical volunteers, performing your elevator pitch and getTING CV/LinkedIn photos taken. | [Preparation](./week3/preparation.md) | [Lesson Plan](./week3/lesson-plan.md) | [Assignment](./week3/assignment.md) |
+| 3.   | Technical Mock Interview. This session is for practicing technical interviews and receiving feedback from peers and technical volunteers, performing your elevator pitch and getTING CV/LinkedIn photos taken. | [Preparation](./week3/preparation.md) | [Lesson Plan](./week3/lesson-plan.md) | (There is no assignment) |
 
 ## Learning Goals
 By the end of the 3 Career Sessions, you should be able to:

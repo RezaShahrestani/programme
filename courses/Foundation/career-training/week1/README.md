@@ -14,4 +14,4 @@ TODO
 ## Materials
 - [Preparation](preparation.md)
 - [Lesson Plan](lesson-plan.md)
-- [Assignment](assignment.md)
+- (There is no assignment for this session)

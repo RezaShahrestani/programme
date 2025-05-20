@@ -11,7 +11,7 @@
 - [ ] Write meaningful commit messages.
 - [ ] Before pushing, double check that your branch name is correct.
 - [ ] If the branch name is not correct, you can checkout to a new, correct branch from the current branch - you will carry all the commits with you.
-- [ ] If your PR has been auto-closed, do not reopen it. Follow the guidlines and make a proper PR.
+- [ ] If your PR has been auto-closed, do not reopen it. Follow the guidelines and make a proper PR.
 - [ ] Stay patient. Slack, Google and ChatGPT are your best friends now.
 - [ ] Make the changes as per PR review in the appropriate branch, push the changes to the appropriate branch, and close the PR.
 
@@ -73,4 +73,4 @@
 
 > `*` Why you should close the PR _without_ merging? PRs are normally intended to merge code!
 >
-> It's because you are sharing a central homework repository. We do not aim to merge all your homeworks into one clump - that does not make any sense and would be a very chaotic process as you are implementing your homeworks in the same folders, and some of you might even have the same naming. The more you understand about Git, the more this will make sense. The point here is just to have a convenient submission process while you also practise shared repository handling every week.
+> It's because you are sharing a central homework repository. We do not aim to merge all your homework into one clump - that does not make any sense and would be a very chaotic process as you are implementing your homework in the same folders, and some of you might even have the same naming. The more you understand about Git, the more this will make sense. The point here is just to have a convenient submission process while you also practise shared repository handling every week.

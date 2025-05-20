@@ -63,6 +63,6 @@ In any of the cases, the goal of the class is for the students to be able to use
 
 - **[Review](review.md)** - contains a short review over the materials taught in class;
 - **[Class exercises](class_exercises.md)** - contains a short review over the materials taught in class;
-- **[Cheatsheet](cheatsheet.md)** - contains a cheatsheet with the commands used during the class (and a few extra);
+- **[Cheat-sheet](cheatsheet.md)** - contains a cheat-sheet with the commands used during the class (and a few extra);
 - **[Resources](resources.md)** - contains some resources about Git that might be useful;
 - **[Git Advance](Git_advanced.pdf)** - the slides used to teach some concepts during class.

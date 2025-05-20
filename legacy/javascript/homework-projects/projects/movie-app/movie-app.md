@@ -4,7 +4,7 @@
 
 You joined a startup that has the ambition to build the best new movie streaming platform!
 
-Your taks will be to build a simple prototype to showcase the look of the platform and some simple functionality.
+Your task will be to build a simple prototype to showcase the look of the platform and some simple functionality.
 
 Your way to impress is to not only build a nice-looking main movie list page, but to also include some interesting features that the competitors do not have!
 
@@ -39,7 +39,7 @@ Add whatever properties you think are relevant and that you want to display as t
 - [ ] design and implement the layout of the movie card via DOM manipulation.
 
 - [ ] via DOM manipulation, implement one of the two (or both!):
-  - submitting and displaying a comment about the movie. Implement an imput under the movie and a functionality to display the submitted comment;
+  - submitting and displaying a comment about the movie. Implement an input under the movie and a functionality to display the submitted comment;
   - rating the movie in a star-rating format and displaying the submitted rating.
 
 ![screenshot](../../assets/movie-app-star-rating.gif)

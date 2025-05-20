@@ -62,7 +62,7 @@ This data should be showed in your app:
 - Temperature
 - Icon for the weather type
 - Wind speed
-- How clowdy it is
+- How cloudy it is
 - When sunrise and sunset is
 - _Optional_ a map showing where the city is located
 

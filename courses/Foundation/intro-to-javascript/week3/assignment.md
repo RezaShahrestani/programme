@@ -4,7 +4,7 @@
 
 Array's has lots of helper functions, that is used all the time when developing js applications. It is super helpful to be able to **manipulate an array** like **removing elements** or **adding elements** at specific indexes. Another helpful function of arrays is to know **where a specific item is** in the array.
 
-Objects can be used for **representing data** and it can **help structure your code**. An object can e.g. represent a user that has a firstname, surname, profile picture and a list of friends. It is constantly used in javascript and **essential to learning the language**.
+Objects can be used for **representing data** and it can **help structure your code**. An object can e.g. represent a user that has a first name, surname, profile picture and a list of friends. It is constantly used in javascript and **essential to learning the language**.
 
 If you struggle to do this weeks assignment there are a couple of things to do:
 
@@ -31,7 +31,7 @@ const names = [
   "kristina",
   "Rasmus",
   "Samuel",
-  "katrine",
+  "Katrine",
   "Tala",
 ];
 const nameToRemove = "Ahmad";
@@ -40,12 +40,12 @@ const nameToRemove = "Ahmad";
 
 // Code done
 
-console.log(names); // ['Peter', 'Yana', 'kristina', 'Rasmus', 'Samuel', 'katrine', 'Tala']
+console.log(names); // ['Peter', 'Yana', 'kristina', 'Rasmus', 'Samuel', 'Katrine', 'Tala']
 ```
 
 ### When will we be there??
 
-Write a function where you speficy your speed in `km/h` and how far you have to go in `km`. The function has to return the time it will take to arrive at your destination. The time should be formatted like this: `3 hours and 34 minutes`.
+Write a function where you specify your speed in `km/h` and how far you have to go in `km`. The function has to return the time it will take to arrive at your destination. The time should be formatted like this: `3 hours and 34 minutes`.
 
 _Hint:_ For formatting your best friend is Google!
 
@@ -86,7 +86,7 @@ const seriesDurations = [
 
 How much time of my life have i been watching series on tv? Lets find out! Calculate **how much time a tv series** have taken as a **percentage of an average lifespan** of 80 years.
 
-Firstly change the `seriesDurations` array found above to include your favorite series. Find the duration of a series here: <https://tiii.me/>
+Firstly change the `seriesDurations` array found above to include your favourite series. Find the duration of a series here: <https://tiii.me/>
 
 Create a function that logs out the following text using the `seriesDurations` array:
 
@@ -187,11 +187,11 @@ Suddenly you get this great idea for making the note app even better!
 
 Come up with a unique feature **you think would make this app better.** Write down the idea and see if you can implement it. If not don't worry :) If it is too hard to implement try and ask in the slack channel :)
 
-Try an **interactive version 💻 of your code** [here](https://codepen.io/dalsHughes/pen/poJGejX). Remember to insert your code in the top of the codepen :)
+Try an **interactive version 💻 of your code** [here](https://codepen.io/dalsHughes/pen/poJGejX). Remember to insert your code in the top of the codePen :)
 
 ### CactusIO-interactive (Smart phone usage app) _optional_
 
-> After a long day you come home to relax. The first thing you do is find your phone and start watching some youtube. Then check facebook, and then reading some news. Suddently a hour has passed. What happened to all that time you think to yourself. Maybe we can create some program to help with this problem! What if we could help users manage their smart phone usage?
+> After a long day you come home to relax. The first thing you do is find your phone and start watching some youtube. Then check facebook, and then reading some news. Suddenly a hour has passed. What happened to all that time you think to yourself. Maybe we can create some program to help with this problem! What if we could help users manage their smart phone usage?
 
 Its going to work like this: A user can add smartphone activities. Then he can see a status on how his smartphone usage is going.
 
@@ -245,7 +245,7 @@ Come up with one feature you think would be helpful for this program.
 Optional
 
 - Lets improve the `addActivity`, so that we don't need to specify the date, but the function automatically figures out what the date is. Check out this link: <https://stackoverflow.com/a/34015511>
-- Improve the `showStatus` function by only showing the number of actitivies for that specific day.
+- Improve the `showStatus` function by only showing the number of activities for that specific day.
 - Create a function for calculating the activity a user has spent the most time on.
 
 ## Bonus assignment

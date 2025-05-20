@@ -1,6 +1,6 @@
 # MongoDB - Introduction
 
-ManogoDB Lesson 1 for Hack Your Future **_Class12_**
+MongoDB Lesson 1 for Hack Your Future **_Class12_**
 
 ## MongoDB not RDBMS
 
@@ -25,7 +25,7 @@ ManogoDB Lesson 1 for Hack Your Future **_Class12_**
 
 ## There are no tables vs. RDBMS which has a static design
 
-## Installing MongoDB on Mincrosoft Windows Windows
+## Installing MongoDB on Microsoft Windows
 
 [Download] (<https://www.mongodb.com/download-center/community>)
 

@@ -2,7 +2,7 @@
 
 ![Spongebob Squarepants, doing some cooking](https://media.giphy.com/media/N23cG6apipMmQ/giphy.gif)
 
-You are a foood lover, a cooking enthusiast and you want to share your passion with the web. You aspire to build a cool recipe website as a hobby project and eventually earn a little bit on the side from it.
+You are a food lover, a cooking enthusiast and you want to share your passion with the web. You aspire to build a cool recipe website as a hobby project and eventually earn a little bit on the side from it.
 
 > [!NOTE]
 > Take some time to research online for similar apps and how they look and work to gain inspiration. This is an important skill to practice as a developer because you won't always know (or be told) how to approach the design.
@@ -64,7 +64,7 @@ Continue with the format of the recipe object you used last week or improve it a
 ### `JS3 week2` - Promises, Async/Await
 
 - [ ] You used promise chaining last week - now rewrite the fetch in the "async await" approach.
-- [ ] Use the fuunctions created in preivous week and build functionality to:
+- [ ] Use the functions created in previous week and build functionality to:
 - [ ] Find a recipe by a provided search word to check in the recipe title.
 - [ ] Sort the recipe array by the amount of ingredients needed.
 

@@ -18,7 +18,7 @@ If you find anything that could be improved then please create a pull request! W
   - Key - value
   - Array of objects
   - Let the students explain iterating an array of objects
-  - Use real world examples (users, products, houselistings)
+  - Use real world examples (users, products, house listings)
   - [Code inspiration](#inspiration-objects)
 - Arrays continued
   - `Pop`, `push`, `shift`, `unshift`
@@ -28,7 +28,7 @@ If you find anything that could be improved then please create a pull request! W
   - Looping through an array
   - No `forEach`, `map`, `filter` or `reduce`
   - [Code inspiration](#inspiration-arrays)
-- [Codewar exercises](#codewar-exercises)
+- [CodeWar exercises](#codewar-exercises)
 - Call stack
   - Used for figuring code flow in js! Where does my function go when it is done here.
   - <http://latentflip.com/loupe> <!-- no-https -->
@@ -60,11 +60,11 @@ const user = {
 console.log(user);
 
 // Add new property
-user.lastname = "Bay";
+user.lastName = "Bay";
 
 console.log(user);
 
-delete user.lastname;
+delete user.lastName;
 
 console.log(user);
 
@@ -215,7 +215,7 @@ planTrip();
 // draw
 ```
 
-### Codewar exercises
+### CodeWar exercises
 
 - [CodeWars - Add property to every object](https://www.codewars.com/kata/add-property-to-every-object-in-array/train/javascript)
 - [CodeWars - Color Association](https://www.codewars.com/kata/colour-association/train/javascript)

@@ -12,14 +12,14 @@
 ### 1. Thanks
 
 Mega thanks to Rachel for setting _so_ much good stuff in the new repo, linting, link checking, and moving ALL of our legacy modules over into the monorepo.
-Also mega thanks to Natlia for putting together the proposal for splitting js/node - the biggest remaining puzzle piece in the curriculum.
+Also mega thanks to Natalia for putting together the proposal for splitting js/node - the biggest remaining puzzle piece in the curriculum.
 
 ### 2. Reflection
 
 #### Things that didn't work so well
 
 - Review requires on PRs to 1? Yes.
-- Bit unclear where to have discussions (some slack, pr, issue). Finding it is hard. Keep slack discussions linked/sumarised into PRs.
+- Bit unclear where to have discussions (some slack, pr, issue). Finding it is hard. Keep slack discussions linked/summarised into PRs.
 - Tasks were quite broad at this point, difficult to estimate, hard to take a task because of this
 - Some felt like they couldn't contribute much recently. **Important note:** Being engaged, following conversations, replying with feedback, is all really helpful too and super appreciated, even if you're week is too busy to take a task on your own.
 
@@ -35,7 +35,7 @@ Also mega thanks to Natlia for putting together the proposal for splitting js/no
 
 #### Actions
 
-1. Switch to one required reviewer (update contributing readme, share in slack. note that more reviewers should often be requested when necessray (give examples) it's just not enforced in github). Reminder that all staff can merge stuff, if it's fully approved, ping anyone if something is blocked.
+1. Switch to one required reviewer (update contributing readme, share in slack. note that more reviewers should often be requested when necessary (give examples) it's just not enforced in github). Reminder that all staff can merge stuff, if it's fully approved, ping anyone if something is blocked.
 2. Keep meeting agendas/notes in github, link to them from other places (invites, slack reminders).
 3. Continue to consider how to best keep conversations in the right/organised places, it feels disjointed right now.
 

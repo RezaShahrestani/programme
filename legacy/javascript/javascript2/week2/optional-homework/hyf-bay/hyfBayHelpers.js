@@ -1,4 +1,4 @@
-/* DONT MODIFY ANY OF THIS CODE!!!*/
+/* DON'T MODIFY ANY OF THIS CODE!!! */
 
 window.availableCountries = [
   "Denmark",
@@ -22,7 +22,7 @@ window.getAvailableProducts = function () {
     ];
   }
 
-  function getRandomProductname() {
+  function getRandomProductName() {
     const preWords = [
       "Used",
       "Fantastic",
@@ -84,7 +84,7 @@ window.getAvailableProducts = function () {
     null,
     Array(numberOfAvailableProducts),
   ).map(() => {
-    const name = getRandomProductname();
+    const name = getRandomProductName();
     return {
       id: `${name}${getRandomInt(0, 100000)}`,
       name,

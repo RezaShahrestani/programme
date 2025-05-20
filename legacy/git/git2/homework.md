@@ -16,7 +16,7 @@ In this exercise you will get some practice creating branches, merging, pushing/
 
 Commands that you will need for this part:
 
-- `git add <file_name>` - tell git to start tracking a file and to update what will be commited
+- `git add <file_name>` - tell git to start tracking a file and to update what will be committed
 - `git commit -m "commit_message"` - commit (save) your changes
 - `git branch <branch-name>` - to create a new branch named `<branch-name>`
 - `git checkout <branch-name>` - to move to a branch named `<branch-name>`

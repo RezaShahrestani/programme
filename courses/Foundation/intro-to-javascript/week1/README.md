@@ -7,7 +7,7 @@
 - [ ] Console.log
 - [ ] [Variables: var, let, const](#variables)
 - [ ] [Types](#types): [String](#string), [number](#number), boolean, [null, undefined](#null--undefined), [array](#array)
-- [ ] [Operators](#comparison-operators): Comparision, addition, subtraction, multiplication, division, modulus, increment, decrement
+- [ ] [Operators](#comparison-operators): Comparison, addition, subtraction, multiplication, division, modulus, increment, decrement
 - [ ] Errors: How to read and fix errors
 
 Focus on how to read documentation, google answers and google errors
@@ -22,7 +22,7 @@ Focus on how to read documentation, google answers and google errors
 
 A "variable" is a place where you can store information, such as a string, or a number. New variables in JavaScript are declared using one of three keywords: let, const, or var.
 
-> Think of variables names like **labels** on boxes, while the value of the variable are the **contents** of the box - you could change the contents of a box and leave the label intact, the contents of the boxes can have different types, the boxes should have good labels (a box of books being labeled pens would be very confusing),
+> Think of variables names like **labels** on boxes, while the value of the variable are the **contents** of the box - you could change the contents of a box and leave the label intact, the contents of the boxes can have different types, the boxes should have good labels (a box of books being labelled pens would be very confusing),
 >
 > ![Variables are like boxes](./assets/box.png)
 > Photo from [Khan Academy](https://cs-blog.khanacademy.org/2013/09/teaching-variables-analogies-and.html)

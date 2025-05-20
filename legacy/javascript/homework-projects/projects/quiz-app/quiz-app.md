@@ -89,6 +89,6 @@ b. add number inputs for the player points and use the browser's arrow buttons o
 - [ ] when submitting a new question, I can see an indication where to submit the correct answer;
 - [ ] the questions are displayed in a nice and readable way, and I can see a button to reveal the right answer for each question;
 - [ ] I can sort the questions alphabetically;
-- [ ] I can use search and get the questions wher my search keyword is included in the question text;
+- [ ] I can use search and get the questions where my search keyword is included in the question text;
 - [ ] there is a functionality to submit two player names;
 - [ ] it is possible to interact with player scores.

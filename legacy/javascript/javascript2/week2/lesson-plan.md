@@ -158,7 +158,7 @@ const experiencedMentors = mentors.filter(function (mentor) {
   }
 
   // can also be written as
-  // reuturn mentor.yearsOfExperience > 7
+  // return mentor.yearsOfExperience > 7
   // Explain why!
 });
 
@@ -240,12 +240,12 @@ function filterMentorList(courseID) {
   const resultHtml = document.getElementById("result");
   let listHtml = "";
 
-  let filteresListByCourseId = mentors.filter(function (mentor) {
+  let filteredListByCourseId = mentors.filter(function (mentor) {
     const sub = mentor.subject;
     return sub.indexOf(courseID) >= 0;
   });
 
-  filteresListByCourseId.forEach(function (mentor) {
+  filteredListByCourseId.forEach(function (mentor) {
     listHtml += `<div>  ${mentor.name}  - ${mentor.age}  </div>`;
   });
 

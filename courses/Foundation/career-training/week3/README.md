@@ -9,6 +9,7 @@ We will also bring a camera so that you can get updated photos for your LinkedIn
 ## Learning Goals
 
 ## Materials
+
 - [Preparation](preparation.md)
 - [Lesson Plan](lesson-plan.md)
 - (There is no assignment for this session)

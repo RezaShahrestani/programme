@@ -9,9 +9,11 @@ You will learn about what Recruiters look for when they hire tech employees - be
 The tenet to live by: _“We don’t just hire tech skills - we hire the entire person”_
 
 ## Learning Goals
+
 TODO
 
 ## Materials
+
 - [Preparation](preparation.md)
 - [Lesson Plan](lesson-plan.md)
 - (There is no assignment for this session)

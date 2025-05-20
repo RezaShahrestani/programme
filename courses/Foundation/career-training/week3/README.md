@@ -8,6 +8,8 @@ We will also bring a camera so that you can get updated photos for your LinkedIn
 
 ## Learning Goals
 
+TODO
+
 ## Materials
 
 - [Preparation](preparation.md)

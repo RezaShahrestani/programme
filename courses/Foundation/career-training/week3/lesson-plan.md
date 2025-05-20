@@ -7,10 +7,11 @@ In-person, full-day Sunday session focused on realistic screening interviews, pe
 ## Session Goal
 
 Create a realistic but supportive interview environment where trainees can:
+
 - Practice giving their elevator pitch clearly and confidently
 - Gain actionable feedback on both technical and soft skills
 - Improve their readiness for real interviews
 
-Key message to reinforce: *“It’s not about having the perfect experience - it’s about clearly explaining your skills, competencies and potential in the role.”*
+Key message to reinforce: _“It’s not about having the perfect experience - it’s about clearly explaining your skills, competencies and potential in the role.”_
 
 TODO add further notes about screening interview prep, including slack message to send

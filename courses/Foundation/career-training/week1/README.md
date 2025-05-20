@@ -4,7 +4,7 @@ The goal of this session is to prepare you for searching jobs in an effective ma
 
 These articles, videos and tasks are not a suggestion, but mandatory. They require less time than your regular homeworks, but are just as important. We expect you to use the remainder of your 30 hours on finishing all the homework assignments you haven't yet completed.
 
-You will learn about what Recruiters look for when they hire tech employees - besides technical skills - and you will start building your own professional bio and profile. 
+You will learn about what Recruiters look for when they hire tech employees - besides technical skills - and you will start building your own professional bio and profile.
 
 The tenet to live by: _“We don’t just hire tech skills - we hire the entire person”_
 

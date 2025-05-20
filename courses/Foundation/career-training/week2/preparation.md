@@ -14,7 +14,7 @@
 1. Canva has thousands of free and GOOD CV templates - find and use one that you like. Have a look around [here](https://www.canva.com/resumes/templates/).
 
 
-### For Github:
+### For Github
 1. Create a CodeWars profile and complete [this list of katas](https://www.codewars.com/collections/hyf-js)
 1. Add the Codewars profile to your GitHub profile page in this format:  Polish your GitHub ([example 1](https://github.com/danJecu), [example 2](https://github.com/Sana-Shabeel))
 

@@ -1,6 +1,6 @@
 ## Pre-Class Preparation
 
-We will use **SQLite** for all exercises, as it requires no installation and works out-of-the-box with most environments. (Alternatively, a hosted PostgreSQL database may be provided.)
+We will use **SQLite** for all exercises, as it requires no installation and works out-of-the-box with most environments.
 
 ## Tools setup
 

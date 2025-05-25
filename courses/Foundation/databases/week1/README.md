@@ -1,5 +1,7 @@
 # Introduction to Databases, Week 1
 
+In this class, students will be introduced to databases, including why we use them, how data is modeled, and how to interact with a relational database using SQL.
+
 ## Learning Goals
 
 Students should be able to explain what a database is, describe basic data modeling concepts, and perform basic SQL operations: SELECT, INSERT, UPDATE, DELETE, and simple filtering and sorting.

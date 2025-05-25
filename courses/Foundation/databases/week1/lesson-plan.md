@@ -4,7 +4,7 @@
 
 Review this lesson plan which is based on having a database setup with [lesson-data.sql](assets/lesson-data.sql), resulting in this database diagram:
 
-![Database Diagram](assets/database-diagram.png)
+![Database Diagram](assets/database-diagram.jpg)
 
 Implement the following queries:
 

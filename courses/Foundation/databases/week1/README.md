@@ -1,6 +1,6 @@
 # Introduction to Databases, Week 1
 
-In this class, students will be introduced to databases, including why we use them, how data is modeled, and how to interact with a relational database using SQL.
+In this session, trainees will be introduced to databases, including why we use them, how data is modeled, and how to interact with a relational database using SQL.
 
 ## Learning Goals
 

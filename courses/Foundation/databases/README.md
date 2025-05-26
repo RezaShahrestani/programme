@@ -1,6 +1,6 @@
 # Introduction to Databases
 
-In this class, students will be introduced to the core concepts of databases, including why we use them, how data is modeled, and how to interact with a relational database using SQL.
+In this class, trainees will be introduced to the core concepts of databases, including why we use them, how data is modeled, and how to interact with a relational database using SQL.
 
 | Week | Topic                                          | Preparation                           | Homework                            | Lesson plan                           |
 | ---- | ---------------------------------------------- | ------------------------------------- | ----------------------------------- | ------------------------------------- |

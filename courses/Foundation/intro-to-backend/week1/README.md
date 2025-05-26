@@ -18,17 +18,7 @@ There are two reasons why we at HYF choose Node.JS over others:
     - Web server
     - Much more
 - [ ] Simple webserver with node js
-  - [ ] npm init
-  - [ ] Modules
-    - [ ] Creating and importing using `export` and `import` in modern ES6 syntax
-    - [ ] Npm modules
-      - npmjs.org
-      - `npm install -s express`
-      - node_modules
-      - package.json
-    - [.gitignore](https://github.com/HackYourFuture-CPH/teacher-live-coding/blob/main/.gitignore)
-  - [ ] Nodemon
-  - [ ] Simple `GET` requests (using Express)
+  - [ ] Simple `GET` requests
 - [ ] Sending requests
   - [ ] What is Postman
   - [ ] Making requests to APIs

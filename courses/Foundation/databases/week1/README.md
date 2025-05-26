@@ -4,7 +4,11 @@ In this session, trainees will be introduced to databases, including why we use 
 
 ## Learning Goals
 
-Students should be able to explain what a database is, describe basic data modeling concepts, and perform basic SQL operations: SELECT, INSERT, UPDATE, DELETE, and simple filtering and sorting.
+- [ ] Explain what a database is
+- [ ] Understand basic relational data terminology: table, row, column, primary key, foreign key
+- [ ] Perform basic SQL operations: SELECT, INSERT, UPDATE, DELETE
+- [ ] Use simple filtering and sorting techniques
+- [ ] Design and understand simple schemas
 
 ## Main Topics
 

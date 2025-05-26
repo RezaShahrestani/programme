@@ -19,7 +19,6 @@ There are two reasons why we at HYF choose Node.JS over others:
     - Much more
 - [ ] Simple webserver with node js
   - [ ] npm init
-  - [ ] Tests
   - [ ] Modules
     - [ ] Creating and importing using `export` and `import` in modern ES6 syntax
     - [ ] Npm modules

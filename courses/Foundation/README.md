@@ -15,7 +15,7 @@
 | [Intro to Backend](./intro-to-backend/)         | 1     |
 | [Intro to Frontend](./intro-to-frontend/)       | 1     |
 | [Team processes](./team-processes-intro)        | 1     |
-| [Final project](./final-project/)               | 2–3   |
 | [Career Training](./career-training/)           | 2–3   |
+| [Final project](./final-project/)               | 2–3   |
 
 Current total: 15-17 weeks

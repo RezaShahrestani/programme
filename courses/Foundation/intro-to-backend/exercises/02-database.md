@@ -1,48 +1,44 @@
 # Database
 
-Now we want to connect to a MySQL database from Node.js.
+Now we want to connect to a database from Node.js.
 
 First we need to install some packages:
 
 ```shell
-npm install mysql2 knex
+npm install knex sqlite3
 ```
 
 ---
 
-Create a new MySQL database named `hyf_node_week1`.
+Create a new SQLite database named `hyf_node_week1.sqlite3`.
 In `app.js` we can now establish the database connection.
 Add the following to the top of `app.js`:
 
 ```js
 import knex from "knex";
 const knexInstance = knex({
-  client: "mysql2",
+  client: "sqlite3",
   connection: {
-    host: "127.0.0.1",
-    port: 3306,
-    user: "your_database_user",
-    password: "your_database_password",
-    database: "hyf_node_week1",
+    filename: "./hyf_node_week1.sqlite3",
   },
 });
 
 // The code from before is down here
-// [...]
+// const app = express();
 ```
 
 ---
 
 Using `knex.raw` we can now execute SQL queries.
-Let's extend the `/info` route to also respond with the MySQL version: `{ "nodeVersion":"v17.3.0", "mysqlVersion":"8.0.30" }`
+Let's extend the `/info` route to also respond with the SQLite version, for example: `{ "nodeVersion":"v17.3.0", "sqliteVersion":"3.36.0" }`
 
 ```js
 app.get("/info", async (req, res) => {
-  const [rows] = await knexInstance.raw("SELECT VERSION()");
+  const [rows] = await knexInstance.raw("SELECT sqlite_version() as version");
 
   res.json({
     nodeVersion: process.version,
-    mysqlVersion: rows[0]["VERSION()"],
+    sqliteVersion: rows.version,
   });
 });
 ```

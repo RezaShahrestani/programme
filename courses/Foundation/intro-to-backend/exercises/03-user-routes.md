@@ -30,6 +30,16 @@ npm run dev
 
 to start a server that automatically restarts when you make changes 🎉
 
+## Database connection
+
+To connect to the database, you can use DBeaver. After opening it:
+
+- Create a new connection and choose an SQLite database
+- For the connection settings, select your database, test the connection, and finish the setup.
+- If prompted to install the SQLite driver, do so.
+
+<img src="../assets/database-connection.png" alt="DBeaver SQLite connection" width="600">
+
 ## Schema
 
 Create a `users` table with the following fields:

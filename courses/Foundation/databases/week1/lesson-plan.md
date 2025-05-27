@@ -2,9 +2,11 @@
 
 ## TODO
 
-Review this lesson plan which is based on having a database setup with [lesson-data.sql](assets/lesson-data.sql), resulting in this database diagram:
+> [!IMPORTANT]
+> Review this lesson plan which is based on having a database setup with [lesson-data.sql](assets/lesson-data.sql), resulting in this database diagram:
+> See <https://github.com/HackYourFuture-CPH/programme/pull/63/files#r2106791157>
 
-![Database Diagram](assets/database-diagram.png)
+![Database Diagram](assets/database-diagram.jpg)
 
 Implement the following queries:
 

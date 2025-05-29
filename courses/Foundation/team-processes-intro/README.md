@@ -4,11 +4,12 @@ This module aims to introduce you to the basic principles of managing a project 
 
 ## Planning
 
-| Week | Topic                         | Preparation                         | Assignment                             | Lesson plan                         |
-| ---- | ----------------------------- | ----------------------------------- | -------------------------------------- | ----------------------------------- |
-| 1.   | Project management & team collaboration | [Preparation](week1/preparation.md) | [Assignment](week1/homework/readme.md) | [Lesson plan](week1/lesson-plan.md) |
+| Week | Topic                                   | Preparation                         | Assignment                        | Lesson plan                         |
+| ---- | --------------------------------------- | ----------------------------------- | --------------------------------- | ----------------------------------- |
+| 1.   | Project management & team collaboration | [Preparation](week1/preparation.md) | [Assignment](week1/assignment.md) | [Lesson plan](week1/lesson-plan.md) |
 
 ## Learning Goals
+
 - [ ] What is project management and why is it important
 - [ ] Understand the main principles and values of Agile
 - [ ] Understand the very basics of Scrum

@@ -4,16 +4,16 @@ This module aims to build on your project management and team collaboration skil
 
 ## Planning
 
-| Week | Topic                         | Preparation                         | Assignment                             | Lesson plan                         |
-| ---- | ----------------------------- | ----------------------------------- | -------------------------------------- | ----------------------------------- |
-| 1.   | Project management & team collaboration | [Preparation](week1/preparation.md) | [Assignment](week1/homework/readme.md) | [Lesson plan](week1/lesson-plan.md) |
+| Week | Topic                                   | Preparation                         | Assignment                        | Lesson plan                         |
+| ---- | --------------------------------------- | ----------------------------------- | --------------------------------- | ----------------------------------- |
+| 1.   | Project management & team collaboration | [Preparation](week1/preparation.md) | [Assignment](week1/assignment.md) | [Lesson plan](week1/lesson-plan.md) |
 
 ## Learning Goals
 
-- [ ] Understand conceptual differences between Agile, Scrum & Kanban 
+- [ ] Understand conceptual differences between Agile, Scrum & Kanban
 - [ ] Understand what Scrum looks like in day to day life as a developer
 - [ ] Understand how to interact with Scrum ceremonies (e.g. standup, planning, estimating/prioritising, retrospectives)
-- [ ] Practice skills used by developers such as understanding requirements, breaking down technical tasks, and common workflows for reviewing, testing and deploying. 
+- [ ] Practice skills used by developers such as understanding requirements, breaking down technical tasks, and common workflows for reviewing, testing and deploying.
 - [ ] Understand how these skills and practices impact and support agility
 - [ ] Be able to organise a very well structured project in collaboration with other developers for the final project
 

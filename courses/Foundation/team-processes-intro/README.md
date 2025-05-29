@@ -13,7 +13,8 @@ This module aims to introduce the following principles and processes around work
 - [ ] Understand why Agile is important (vs waterfall)
 - [ ] Understand the very basics of Scrum
 - [ ] Understand how to use basic concepts such tasks, backlog, simple board, basic project workflow
-- [ ] Be able to apply basic task and project organisation when you get to the final project
+- [ ] Be able to apply basic prioritisation using MoSCoW
+- [ ] Become ready to apply basic task and project organisation when you get to the final project
 
 ## Pre-requisites
 
@@ -21,18 +22,6 @@ This module aims to introduce the following principles and processes around work
 - Experience working on a group project (from HYF or elsewhere).
 - Familiarity with Git/GitHub workflows.
 
-## What will we learn?
 
-- The difference between traditional and Agile ways of working (Waterfall vs Agile).
-- The core principles of the Agile Manifesto.
-- An overview of the Scrum framework: roles, ceremonies (e.g. standup), and artifacts (e.g. backlog, tasks).
-- The importance of communication, transparency, and shared responsibility in a software development team.
-- How to approach teamwork in an Agile environment, especially as a junior developer.
 
-## Extra practice after session (optional)
 
-1. Write and prioritize your own user stories:
-   Think of a simple app (e.g. a task manager, recipe app, or class planner). Write 3 user stories, and prioritize them using the MoSCoW method.
-
-2. Backlog breakdown practice:
-   Choose one user story you wrote and break it down into smaller technical tasks (e.g. design a page, set up routing, fetch data, write test).

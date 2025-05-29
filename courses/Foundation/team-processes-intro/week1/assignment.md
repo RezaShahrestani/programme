@@ -1,11 +1,10 @@
-# Week 1 homework
+# Assignment
 
 ## Instructions
 
-TBD
+TODO
 
-
-## Extra practice (optional)
+Some ideas so far:
 
 1. Write and prioritize your own user stories:
    Think of a simple app (e.g. a task manager, recipe app, or class planner). Write 3 user stories, and prioritize them using the MoSCoW method.

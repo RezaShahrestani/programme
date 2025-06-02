@@ -17,16 +17,19 @@ Welcome to your final project! Here you can learn more about the goals and requi
 ## Technical Requirements
 
 ### Frontend
+
 Design and implement layout using HTML and CSS
 Use DOM manipulation to introduce interactive elements
 Use JavaScript functions, types and loops and more to implement features
 Use GET requests to bring content and data into your app
 
 ### Backend
+
 Implement an API to return data to the frontend
 Use Postman to test your API
 Design a data schema to store data for your app
 Create a database table with usable data
 
 ## Projects
+
 TODO Write details about the particular project(s) and their requirements here

@@ -2,23 +2,22 @@
 
 ## Session Goal
 
-Guide trainees to understand how their CV, LinkedIn, and GitHub should work in harmony to present a complete and professional image to recruiters. Provide tools, examples, and hands-on practice in critiquing and improving their online presence.
+Guide trainees to understand how their CV and LinkedIn profile should work in harmony to present a complete and professional image to recruiters. Provide tools, examples, and hands-on practice in critiquing and improving their online presence.
 
 ### 1. Review All Materials
 
 Familiarize yourself with [all the content that we ask trainees to prepare for](preparation.md). Specifically:
 
 - The reading preparation
-- The LinkedIn and GitHub examples provided
-- Test the CodeWars Kata collection to ensure you can answer any technical questions
+- The LinkedIn prfile examples provided
 
 ### 2. Update & Review Your Own Professional Profiles (Optional but Helpful)
 
-Bring up-to-date and share your own GitHub, LinkedIn, or CV (if comfortable) as an example to increase trust and demonstrate transparency.
+Bring up-to-date and share your own LinkedIn or CV (if comfortable) as an example to increase trust and demonstrate transparency.
 
 ### 3. Prepare Examples for Breakout Review
 
-Select 1–2 fictional or anonymized real CVs and LinkedIn profiles with common issues (e.g. vague language, inconsistent job dates, or missing GitHub links).
+Select 1–2 fictional or anonymized real CVs and LinkedIn profiles with common issues (e.g. vague language, inconsistent job dates, etc.).
 
 Prepare guiding questions for breakout rooms:
 

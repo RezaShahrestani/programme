@@ -74,3 +74,8 @@ curl -i localhost:3000/info
 ```
 
 The response `Content-Type` header should look like this: `Content-Type: application/json; charset=utf-8`.
+
+---
+
+**Commit your work**:
+Use `git add` and `git commit` to save your working code before continuing with the next exercise.

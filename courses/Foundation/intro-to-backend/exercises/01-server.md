@@ -11,6 +11,11 @@ You can also reuse some other folder. Main thing to watch out for is that the fo
 
 ---
 
+Initialize a git repository
+
+```shell
+git init
+
 Initialize and install:
 
 ```shell

@@ -76,6 +76,7 @@ The exercises suggested for the flipped classroom can be found [here](./class_ex
     - push current changes
 
 14. Branches
+
     - go trough the homework workflow [have slides showing each step]:
       a) create a branch
       b) do commits
@@ -83,6 +84,11 @@ The exercises suggested for the flipped classroom can be found [here](./class_ex
       d) create pull request
       e) update local master
     - do an exercise where the students do parts a) to d)
+
+15. Extensions
+
+- GitLens - Git supercharged
+- GitHub Pull Requests
 
 ## Other material and links
 

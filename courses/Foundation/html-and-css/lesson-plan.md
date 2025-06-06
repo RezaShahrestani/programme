@@ -107,9 +107,7 @@ Bonus: Use Emmet to scaffold quickly
 **Instructions:** Create a mockup of a simple personal blog page with the following sections:
 
 - Header:
-
   - Include the page title (`h1`) and a short tagline (`p` or `h2`).
-
 - Main:
   - Contain two `section`s:
     - A featured article with a heading and a paragraph (use [Cupcake Ipsum](https://cupcakeipsum.com/) if tired or the `lorem10` ipsum)

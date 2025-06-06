@@ -9,18 +9,16 @@ These are some examples of previously created materials by mentors that you can 
 ## Lesson outline
 
 This lesson plan is meant for a traditional class (vs. flipped classroom) where the mentor teaches the contents with breaks for exercises.
-The material to be taught is the same as in the flipped classroom though.
-The exercises suggested for the flipped classroom can be found [here](./class_exercises.md).
 
 1.  What is Git
 
-    - git is a version control software, widely used by software developers (and not only)
+    - Git is a version control software, widely used by software developers (and not only)
 
 2.  What is version control
 
     - show example with google docs
     - git does the same but for all files in a given folder/repository
-    - show repository for vscode as an example of a software built using Git to manage all the code
+    - show repository for VS Code as an example of a software built using Git to manage all the code
     - also git allows you to have branches and work on multiple tasks at the same time, a bit like copying folders
 
 3.  Install git/git bash
@@ -82,7 +80,7 @@ The exercises suggested for the flipped classroom can be found [here](./class_ex
       b) do commits
       c) push to github
       d) create pull request
-      e) update local master
+      e) update local `main`
     - do an exercise where the students do parts a) to d)
 
 15. Extensions
@@ -94,7 +92,7 @@ The exercises suggested for the flipped classroom can be found [here](./class_ex
 
 Here you can find all the materials used to teach the first Git class ✨:
 
-- **[Review](review.md)** - contains a short review over the materials taught in class;
-- **[Cheat-sheet](cheatsheet.md)** - contains a cheat-sheet with the commands used during the class (and a few extra);
+- **[Review](review.md)** - contains a short review over the materials taught in the session;
+- **[Cheat-sheet](cheatsheet.md)** - contains a cheat-sheet with the commands used during the session (and a few extra);
 - **[Resources](resources.md)** - contains some resources about Git that might be useful;
-- **[Git Basics](Git_basics.pdf)** - the slides used to teach some concepts during class.
+- **[Git Basics](Git_basics.pdf)** - the slides used to teach some concepts during the session.

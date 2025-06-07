@@ -11,11 +11,11 @@ Github:
 
 Git:
 
-- Install Git before Sunday:
+- Install Git before the Sunday session:
 
-- for Mac users: running `brew install git` in the Terminal should be sufficient
-- for Ubuntu users (or any Debian based Linux system): run `sudo apt-get install git` in the Terminal
-- for Windows users: [download Git for Windows here](https://gitforwindows.org/) and install. Step by step instructions:
+- Mac: it should be sufficient to run `brew install git` in the Terminal
+- Ubuntu (or any Debian based Linux system): run `sudo apt-get install git` in the Terminal
+- Windows: [download and install Git for Windows](https://gitforwindows.org/). Step by step instructions:
 
   1. execute the file you downloaded
   2. on the `Information` screen, click next

@@ -9,9 +9,9 @@
 
 ## Why this module exists
 
-So far you've seen HTML, CSS, and some JavaScript.
-
 ![visual representation of the various modules](../../i/i.002.png)
+
+So far you've seen HTML, CSS, and some JavaScript.
 
 Maybe you're looking ahead to the other modules and seeing things like "Node.js" and "Databases" and "Front End", and perhaps you're wondering what they mean, and how they fit into the picture.
 

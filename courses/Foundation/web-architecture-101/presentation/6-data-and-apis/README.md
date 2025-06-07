@@ -3,6 +3,7 @@
 <!--
   Key points:
   - TODO
+  - data store services (in the abstract). Peristing data away from the web server.
 -->
 
 ...

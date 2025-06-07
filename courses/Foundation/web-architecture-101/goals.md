@@ -1,9 +1,13 @@
 # Goals
 
-To provide a mental model into which the other technical modules fit.
+The goals of WebArch101 are:
 
-Names of the technical modules (across Foundation, BE & FE),
-i.e. we aim to show how these modules fit together.
+- To provide a mental model into which the other technical modules fit.
+
+## Detail
+
+The technical modules (across Foundation, Back End specialism, and Front End specialism)
+are:
 
 - HTML & CSS
 - JavaScript / Advanced JavaScript
@@ -13,7 +17,9 @@ i.e. we aim to show how these modules fit together.
 - React
 - Final project (to the extent that stuff needs to be deployed)
 
-Not in scope:
+It is these modules which we aim to present together in a coherent model.
+
+_Not_ in scope for WebArch101:
 
 - Git / Collaboration via Git
 - Team processes / Advanced team processes

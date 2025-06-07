@@ -45,4 +45,6 @@ I would like to play your game! How can I do that?
    3. My browser then diplays the page and starts running `gameplay.js`
 1. I am now happily playing your cat game.
 
+TODO front end & back end
+
 Continue to [The Front End](../4-the-front-end/README.md)

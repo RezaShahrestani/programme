@@ -16,7 +16,7 @@ The purpose of this restructuring is to enhance trainees' learning experience by
 ### React Module (4 Weeks)
 
 **Description:**
-Covers everything essential about React and building React applications, including component lifecycle, state management, and routing. After completion, trainees should confidently create applications using React.
+Covers everything essential about React and building React applications, including component lifecycle, state management, and routing. After completion, trainees should be able to create simple applications and websites using React
 
 **Teaching Methodology:**
 

@@ -87,20 +87,24 @@ Since trainees has already seen most of fundamental concepts and how they solved
 Overall, I think we can accept this proposal with some noted (also added to the document).
 
 Agreed on:
+
 - Restucture itself: separate React and Next
-- Fallback to Vite in React module -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087473349) 
-- We DO NOT introduce any state libraries --  [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087502733)
-- We DO NOT introduce reducers --  [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2109923071)  [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087489631) 
-- We DO NOT introduce UI Libraries, only mention that they're exist, so they can research is they want to -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2109923071) 
+- Fallback to Vite in React module -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087473349)
+- We DO NOT introduce any state libraries -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087502733)
+- We DO NOT introduce reducers -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2109923071) [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087489631)
+- We DO NOT introduce UI Libraries, only mention that they're exist, so they can research is they want to -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2109923071)
 
 Todo:
-- Research and add more preparation materials -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087472475) 
-- Integrate MealSharing better with new structure: do it in React module, check that steps are coverting the lesson plan --  [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087483027) 
-- IF we introduce refs, we need to add good examples when they might be non-avoidable (fx timers) --  [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087521327)  
+
+- Research and add more preparation materials -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087472475)
+- Integrate MealSharing better with new structure: do it in React module, check that steps are coverting the lesson plan -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087483027)
+- IF we introduce refs, we need to add good examples when they might be non-avoidable (fx timers) -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087521327)
 - Add introction for any 1-click-deploy, fx Vercel -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087491241)
 - Figure out an example with good example of server rendering -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087497199)
 
 Up to a discussion:
-- Which router to take with Vite? How we approach Routing now? --   [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2109832621) 
--  Should we cover render props? --  [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2109934479) 
-- Should we introduce refs? -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087521327)  
+
+- Which router to take with Vite? How we approach Routing now? -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2109832621)
+- Should we cover render props? -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2109934479)
+- Should we introduce refs? -- [Discussion](https://github.com/HackYourFuture-CPH/programme/pull/65/files#r2087521327)
+- If we remove most of the content in week 4, we probably can move there everything we found as "not exactly fit with goal" for other weeks. Or use session for questions.

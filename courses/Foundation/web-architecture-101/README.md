@@ -8,3 +8,9 @@ The purpose of this module is to provide a mental model of how the remaining tec
 You don't have to _remember_ and _learn_ everything in the presentation.
 Instead, it's all about getting an overview of how web sites work, some of the terminology,
 and how that relates to the coming modules.
+
+After the presentation, you may find the [recap](./recap.md) useful.
+
+---
+
+_Notes for mentors: see [goals](./goals.md) and [structure](./structure.md) to see how this module is put together._

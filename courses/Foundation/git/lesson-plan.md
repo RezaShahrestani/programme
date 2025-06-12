@@ -8,15 +8,7 @@ These are some examples of previously created materials by mentors that you can 
 
 ## Lesson outline
 
-1.  What is Git
-
-    - Git is a version control software, widely used by software developers (and not only). Think of it as a smart time machine for your files—especially code or text documents.
-      - **Save a snapshot** of your project (called a **commit**) at any point
-      - **Compare** changes between versions
-      - **Work together** with other people and combine everyone’s work smoothly
-      - **Experiment** with new ideas safely, without messing up the main project
-
-2.  What is version control
+1.  What is version control?
 
     - Version control is like a super-organized notebook that keeps a history of all the changes made to your project folders and files. It lets you:
       - Go back to older versions if something goes wrong
@@ -24,16 +16,27 @@ These are some examples of previously created materials by mentors that you can 
       - Work with others without overwriting each other’s work
     - Google docs demonstration
 
+2.  Git - the most popular version control system
+
+    - Git is a version control system, widely used by software developers (and not only). Think of it as a smart time machine for your files—especially code or text documents.
+      - **Save a snapshot** of your project (called a **commit**) at any point
+      - **Compare** changes between versions
+      - **Work together** with other people and combine everyone’s work smoothly
+      - **Experiment** with new ideas safely, without messing up the main project
+
 3.  Git vs. GitHub ([Slide 3 from Git-basics.pdf](Git-basics.pdf))
 
     - Git
 
       - Version control software on your computer
-      - Stuff you do on your command line
+      - Works offline (no need for internet)
+      - Command-Line Interface based, but has various graphical interface alternatives as GitHub Desktop, GitKraken, SourceTree
 
     - GitHub
-      - Website that hosts Git repositories and adds a few more features
-      - Stuff you do on GitHub.com
+      - Website that hosts Git repositories in the cloud
+      - Web interface for viewing code and changes
+      - Collaboration tools (pull requests, projects, issues, comments)
+      - Enabled social coding (followers, stars, forks, use profiles)
 
 4.  Install Git if not done already
 

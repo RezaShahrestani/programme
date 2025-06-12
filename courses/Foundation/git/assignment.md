@@ -10,7 +10,7 @@ You will also practice adding/committing files one by one.
 
 You will use the Assignment repository created on the last session. Here are the instructions:
 
-1. Go to your session assignment repository on your computer
+1. In your terminal, navigate to your session assignment repository on your computer
 2. Go to branch `main`
 3. Pull the latest changes to make sure your local `main` is up to date
 4. Create a branch for your assignment, named `git-week1/your-name`, and move to that branch
@@ -31,7 +31,7 @@ Commands that you will need:
 - `git branch <branch-name>` - to create a new branch named `<branch-name>`
 - `git checkout <branch-name>` - to move to a branch named `<branch-name>`
 - `git add <file_name>` - tell git to start tracking a file and to update what will be committed
-- `git add .` - tell git to add to staging for commit all modified files
+- `git add .` - add all modified files to staging for commit
 - `git commit -m "commit_message"` - commit (save) your changes
 - `git push origin <branch-name>` - push (upload) your changes in your current branch to your GitHub repository into the branch named `<branch-name>`.
 

@@ -52,8 +52,4 @@ Note: This module is in Foundation, which means trainees are not becoming specia
       - Stakeholders bring new requests 1 day/week before release
       -The  dev team should discuss and make a decision
 
-  
-
 ## Exercises
-
-

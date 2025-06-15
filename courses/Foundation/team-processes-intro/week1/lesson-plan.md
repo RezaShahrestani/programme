@@ -50,6 +50,6 @@ Note: This module is in Foundation, which means trainees are not becoming specia
   - Activity:
     - Separate into 2 teams: stakeholders and the dev team.
       - Stakeholders bring new requests 1 day/week before release
-      -The  dev team should discuss and make a decision
+        -The dev team should discuss and make a decision
 
 ## Exercises

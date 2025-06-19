@@ -163,4 +163,38 @@ Scrum is a lightweight framework used by 87% of Agile teams (2024). It is based 
 
 ## Exercises
 
+
+## 🎯 Exercise 1: Agile vs. Waterfall Scenarios (10 minutes)
+
+Present 3 short case studies (e.g., Hospital system, Game app, Mars Rover).
+
+• Ask groups: Should this project use Agile or Waterfall? Why?  
+• Facilitate group discussion and reflection.
+
+## 👥 Exercise 2: Role Matching (5 minutes)
+
+Provide a set of role descriptions and ask learners to match them with the correct Scrum roles.
+
+• Example: “This person ensures the team understands the goal of each Sprint” → Product Owner
+
+## 🧠 Exercise 3: Conflict Reflection (5 minutes)
+
+Ask each participant to reflect and write down:
+
+• One example of conflict from a group project  
+• How it was resolved (or not)  
+• What could have been done differently using Agile principles
+
+## 🗓️ Exercise 4: Ceremonies Timeline (10 minutes)
+
+Give teams a blank Sprint calendar template. Task:
+
+• Place Scrum ceremonies (Sprint Planning, Daily Scrum, etc.) in the correct order and timing
+
+## 🧪 Optional Group Activity: Mini Retrospective Simulation (if time allows)
+
+Split into small teams and simulate a 5-minute Sprint Retrospective after a quick creative task.
+
+• Example: Teams build a paper tower, then retrospect on collaboration and process
+
 TODO

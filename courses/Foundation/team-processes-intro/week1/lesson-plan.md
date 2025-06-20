@@ -163,7 +163,6 @@ Scrum is a lightweight framework used by 87% of Agile teams (2024). It is based 
 
 ## Exercises
 
-
 ## 🎯 Exercise 1: Agile vs. Waterfall Scenarios (10 minutes)
 
 Present 3 short case studies (e.g., Hospital system, Game app, Mars Rover).

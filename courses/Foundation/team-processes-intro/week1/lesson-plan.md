@@ -17,8 +17,8 @@ Note: This module is in Foundation, which means trainees are not becoming specia
 
 ## 🔹 Learning Objectives
 
-• Understand the historical context and motivation for Agile  
-• Identify the limitations of traditional Waterfall development  
+• Understand the historical context and motivation for Agile
+• Identify the limitations of traditional Waterfall development
 • Grasp the high-level Agile values and principles
 
 ## 📖 Content
@@ -27,22 +27,22 @@ Note: This module is in Foundation, which means trainees are not becoming specia
 
 Waterfall is a **sequential software development model**: Requirements, Design, Implementation, Verification, Maintenance
 
-✅ Pros:  
-• Predictable  
+✅ Pros:
+• Predictable
 • Good for fixed requirements
 
-❌ Cons:  
-• Late feedback  
-• High cost of change  
+❌ Cons:
+• Late feedback
+• High cost of change
 • Misalignment risk
 
 ### 🔸 Why Agile Emerged
 
 Agile was created in response to Waterfall's rigidity. The **Agile Manifesto (2001)** values:
 
-1. Individuals and interactions over processes and tools  
-2. Working software over comprehensive documentation  
-3. Customer collaboration over contract negotiation  
+1. Individuals and interactions over processes and tools
+2. Working software over comprehensive documentation
+3. Customer collaboration over contract negotiation
 4. Responding to change over following a plan
 
 ### 🔸 Agile vs. Waterfall
@@ -62,8 +62,8 @@ Agile was created in response to Waterfall's rigidity. The **Agile Manifesto (20
 
 ## 🔹 Learning Objectives
 
-• Understand Scrum’s place within Agile  
-• Learn roles, events, and artifacts of Scrum  
+• Understand Scrum’s place within Agile
+• Learn roles, events, and artifacts of Scrum
 • Grasp core principles of empiricism and iterative delivery
 
 ## 📖 Content
@@ -74,9 +74,9 @@ Scrum is a lightweight framework used by 87% of Agile teams (2024). It is based 
 
 ### 🔸 Scrum Principles
 
-• Empiricism — Transparency, Inspection, Adaptation  
-• Self-management — Teams decide how to work  
-• Cross-functionality — Team has all skills needed  
+• Empiricism — Transparency, Inspection, Adaptation
+• Self-management — Teams decide how to work
+• Cross-functionality — Team has all skills needed
 • Iterative Progress — Frequent increments to inspect and adapt
 
 ### 🔸 Scrum Roles
@@ -116,22 +116,22 @@ Scrum is a lightweight framework used by 87% of Agile teams (2024). It is based 
 
 ## 🔹 Learning Objectives
 
-• Understand team dynamics and why conflict occurs  
-• Learn how to manage disagreements constructively  
+• Understand team dynamics and why conflict occurs
+• Learn how to manage disagreements constructively
 • See conflict as a sign of team growth
 
 ## 📖 Content
 
 ### 🔸 Why Conflict Happens
 
-• Role silos, misunderstandings, or competing priorities  
-• Agile teams are cross-functional — conflict is inevitable  
+• Role silos, misunderstandings, or competing priorities
+• Agile teams are cross-functional — conflict is inevitable
 • Left unresolved, it leads to waste and disengagement
 
 ### 🔸 Agile’s Approach to Conflict
 
-• Address early via Daily Scrums or Retrospectives  
-• Use shared goals (Sprint Goal, DoD) to align  
+• Address early via Daily Scrums or Retrospectives
+• Use shared goals (Sprint Goal, DoD) to align
 • Handle issues with data, not emotion
 
 ### 🔸 Tuckman’s Team Development Model
@@ -147,16 +147,16 @@ Scrum is a lightweight framework used by 87% of Agile teams (2024). It is based 
 
 ### 🔸 Principles for Managing Conflict
 
-• Perspective-taking — Seek to understand before reacting  
-• Common ground — Focus on shared values  
-• Respectful dialogue — Use retrospectives and one-on-ones  
+• Perspective-taking — Seek to understand before reacting
+• Common ground — Focus on shared values
+• Respectful dialogue — Use retrospectives and one-on-ones
 • Shared artifacts — Use DoD or Sprint Goals as anchors
 
 ### 🔸 Agile Tools to Resolve Conflict
 
-• Sprint Retrospective — Safe space for process improvement  
-• Working Agreements — Documented team norms  
-• Check-ins — Emotional temperature checks  
+• Sprint Retrospective — Safe space for process improvement
+• Working Agreements — Documented team norms
+• Check-ins — Emotional temperature checks
 • Facilitated discussion — Scrum Master supports dialogue
 
 🧠 **Key Takeaway:** Conflict is not failure — it’s a growth opportunity. Agile teams that embrace open dialogue and reflection become stronger, faster, and more resilient.
@@ -168,7 +168,7 @@ Scrum is a lightweight framework used by 87% of Agile teams (2024). It is based 
 
 Present 3 short case studies (e.g., Hospital system, Game app, Mars Rover).
 
-• Ask groups: Should this project use Agile or Waterfall? Why?  
+• Ask groups: Should this project use Agile or Waterfall? Why?
 • Facilitate group discussion and reflection.
 
 ## 👥 Exercise 2: Role Matching (5 minutes)
@@ -181,8 +181,8 @@ Provide a set of role descriptions and ask learners to match them with the corre
 
 Ask each participant to reflect and write down:
 
-• One example of conflict from a group project  
-• How it was resolved (or not)  
+• One example of conflict from a group project
+• How it was resolved (or not)
 • What could have been done differently using Agile principles
 
 ## 🗓️ Exercise 4: Ceremonies Timeline (10 minutes)
@@ -196,3 +196,5 @@ Give teams a blank Sprint calendar template. Task:
 Split into small teams and simulate a 5-minute Sprint Retrospective after a quick creative task.
 
 • Example: Teams build a paper tower, then retrospect on collaboration and process
+
+TODO

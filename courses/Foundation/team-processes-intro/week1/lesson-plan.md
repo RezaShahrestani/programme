@@ -13,7 +13,7 @@ Note: This module is in Foundation, which means trainees are not becoming specia
 
 ## Content
 
-# 🧩 Part 1: Introduction to Agile and Waterfall (30 minutes)
+## 🧩 Part 1: Introduction to Agile and Waterfall (30 minutes)
 
 ## 🔹 Learning Objectives
 
@@ -58,7 +58,7 @@ Agile was created in response to Waterfall's rigidity. The **Agile Manifesto (20
 
 🧠 **Key Takeaway:** Agile is not a methodology — it's a **mindset** focused on value, learning, and adaptability.
 
-# 🧩 Part 2: Basics of Scrum (50 minutes)
+## 🧩 Part 2: Basics of Scrum (50 minutes)
 
 ## 🔹 Learning Objectives
 
@@ -112,7 +112,7 @@ Scrum is a lightweight framework used by 87% of Agile teams (2024). It is based 
 
 🧠 **Key Takeaway:** Scrum gives structure to Agile — it’s simple, but powerful when practiced with discipline and empathy.
 
-# 🧩 Part 3: Conflict Management & Collaboration (20 minutes)
+## 🧩 Part 3: Conflict Management & Collaboration (20 minutes)
 
 ## 🔹 Learning Objectives
 

@@ -47,14 +47,14 @@ Agile was created in response to Waterfall's rigidity. The **Agile Manifesto (20
 
 ### 🔸 Agile vs. Waterfall
 
-|   |   |   |
-|---|---|---|
-|Aspect|Waterfall|Agile|
-|Structure|Sequential|Iterative|
-|Change Handling|Rigid|Flexible|
-|Customer Involvement|Limited|Continuous|
-|Testing|At the end|Ongoing|
-|Delivery|Big-bang|Incremental|
+|                      |            |             |
+| -------------------- | ---------- | ----------- |
+| Aspect               | Waterfall  | Agile       |
+| Structure            | Sequential | Iterative   |
+| Change Handling      | Rigid      | Flexible    |
+| Customer Involvement | Limited    | Continuous  |
+| Testing              | At the end | Ongoing     |
+| Delivery             | Big-bang   | Incremental |
 
 🧠 **Key Takeaway:** Agile is not a methodology — it's a **mindset** focused on value, learning, and adaptability.
 
@@ -81,32 +81,32 @@ Scrum is a lightweight framework used by 87% of Agile teams (2024). It is based 
 
 ### 🔸 Scrum Roles
 
-|   |   |
-|---|---|
-|Role|Responsibilities|
-|Product Owner|Maximizes value, owns the Product Backlog|
-|Scrum Master|Coaches, facilitates, removes impediments|
-|Developers|Cross-functional professionals building the product|
+|               |                                                     |
+| ------------- | --------------------------------------------------- |
+| Role          | Responsibilities                                    |
+| Product Owner | Maximizes value, owns the Product Backlog           |
+| Scrum Master  | Coaches, facilitates, removes impediments           |
+| Developers    | Cross-functional professionals building the product |
 
 ### 🔸 Scrum Events
 
-|   |   |
-|---|---|
-|Event|Purpose|
-|Sprint|Time-boxed iteration (max 1 month)|
-|Sprint Planning|Define Sprint Goal, select work, plan delivery|
-|Daily Scrum|15-min sync for progress and re-planning|
-|Sprint Review|Present Increment, gather feedback|
-|Sprint Retrospective|Reflect and improve team collaboration and processes|
+|                      |                                                      |
+| -------------------- | ---------------------------------------------------- |
+| Event                | Purpose                                              |
+| Sprint               | Time-boxed iteration (max 1 month)                   |
+| Sprint Planning      | Define Sprint Goal, select work, plan delivery       |
+| Daily Scrum          | 15-min sync for progress and re-planning             |
+| Sprint Review        | Present Increment, gather feedback                   |
+| Sprint Retrospective | Reflect and improve team collaboration and processes |
 
 ### 🔸 Scrum Artifacts
 
-|   |   |
-|---|---|
-|Artifact|Description|
-|Product Backlog|Ordered list of everything needed in the product|
-|Sprint Backlog|Selected work for Sprint + delivery plan|
-|Increment|Working product output that meets the Definition of Done|
+|                 |                                                          |
+| --------------- | -------------------------------------------------------- |
+| Artifact        | Description                                              |
+| Product Backlog | Ordered list of everything needed in the product         |
+| Sprint Backlog  | Selected work for Sprint + delivery plan                 |
+| Increment       | Working product output that meets the Definition of Done |
 
 📌 **Definition of Done (DoD):** Shared understanding of “complete”, enforced by Developers, ensures transparency and consistency.
 
@@ -136,14 +136,14 @@ Scrum is a lightweight framework used by 87% of Agile teams (2024). It is based 
 
 ### 🔸 Tuckman’s Team Development Model
 
-|   |   |
-|---|---|
-|Stage|Description|
-|Forming|Polite but unclear roles|
-|Storming|Conflict arises, testing boundaries|
-|Norming|Agreed norms form, better collaboration|
-|Performing|High-functioning, autonomous team|
-|Adjourning|Team disbands after work is done|
+|            |                                         |
+| ---------- | --------------------------------------- |
+| Stage      | Description                             |
+| Forming    | Polite but unclear roles                |
+| Storming   | Conflict arises, testing boundaries     |
+| Norming    | Agreed norms form, better collaboration |
+| Performing | High-functioning, autonomous team       |
+| Adjourning | Team disbands after work is done        |
 
 ### 🔸 Principles for Managing Conflict
 

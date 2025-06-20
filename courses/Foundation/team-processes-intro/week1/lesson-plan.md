@@ -15,7 +15,7 @@ Note: This module is in Foundation, which means trainees are not becoming specia
 
 ## 🧩 Part 1: Introduction to Agile and Waterfall (30 minutes)
 
-## 🔹 Learning Objectives
+## 🔹 Introduction Learning Objectives
 
 • Understand the historical context and motivation for Agile
 • Identify the limitations of traditional Waterfall development
@@ -60,13 +60,13 @@ Agile was created in response to Waterfall's rigidity. The **Agile Manifesto (20
 
 ## 🧩 Part 2: Basics of Scrum (50 minutes)
 
-## 🔹 Learning Objectives
+## 🔹 Scrum Learning Objectives
 
 • Understand Scrum’s place within Agile
 • Learn roles, events, and artifacts of Scrum
 • Grasp core principles of empiricism and iterative delivery
 
-## 📖 Content
+## 📖 Scrum Content
 
 ### 🔸 What is Scrum?
 
@@ -114,13 +114,13 @@ Scrum is a lightweight framework used by 87% of Agile teams (2024). It is based 
 
 ## 🧩 Part 3: Conflict Management & Collaboration (20 minutes)
 
-## 🔹 Learning Objectives
+## 🔹 Conflict Management Learning Objectives
 
 • Understand team dynamics and why conflict occurs
 • Learn how to manage disagreements constructively
 • See conflict as a sign of team growth
 
-## 📖 Content
+## 📖 Conflict Management Content
 
 ### 🔸 Why Conflict Happens
 

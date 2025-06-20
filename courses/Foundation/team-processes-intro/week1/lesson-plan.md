@@ -196,5 +196,3 @@ Give teams a blank Sprint calendar template. Task:
 Split into small teams and simulate a 5-minute Sprint Retrospective after a quick creative task.
 
 • Example: Teams build a paper tower, then retrospect on collaboration and process
-
-TODO
